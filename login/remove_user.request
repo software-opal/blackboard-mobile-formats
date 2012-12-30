@@ -1,0 +1,30 @@
+POST /webapps/Bb-mobile-bb_bb60/push/remove_user?v=1&language=en_GB&ver=3.1.2 HTTP/1.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; U; Android 0.5; en-us) AppleWebKit/522+ (KHTML, like Gecko) Safari/419.3
+Content-Length: 720
+Content-Type: multipart/form-data; boundary=nqPmx1DAmbAilMer58KFXtMi0aBwHAl
+Host: blackboard.elearning.uq.edu.au
+Cookie: JSESSIONID=44D41EE06AE15D7C3EA5FFEC754327DF.root; session_id=0E7855C76F5395EA1EBE76150AFDCE7B; s_session_id=8F294D1BDFA594CAACE24582B5EDD1AA
+Cookie2: $Version=1
+
+--nqPmx1DAmbAilMer58KFXtMi0aBwHAl
+Content-Disposition: form-data; name="learn_instance_id"
+
+9049
+--nqPmx1DAmbAilMer58KFXtMi0aBwHAl
+Content-Disposition: form-data; name="device_token"
+
+APA91bHWG-Z0LGrx8euLPiLfEkA4-3oahuk7qoRGjS66bZiudk7cijL0H-HH5AeUAnmO07XqOZZti-7PcSZfLGUg2otvGwZTVV7FzyLKlSCAb_MdO5XDwXuWuKwf9OwaC12ajsOmC40LWjcpISC5KHggtfXV_YHnf1cmytceE28QjST0EmQKISU
+--nqPmx1DAmbAilMer58KFXtMi0aBwHAl
+Content-Disposition: form-data; name="app_name"
+
+mobilelearn
+--nqPmx1DAmbAilMer58KFXtMi0aBwHAl
+Content-Disposition: form-data; name="hardware_platform"
+
+android
+--nqPmx1DAmbAilMer58KFXtMi0aBwHAl
+Content-Disposition: form-data; name="device_id"
+
+355310046171223
+--nqPmx1DAmbAilMer58KFXtMi0aBwHAl--

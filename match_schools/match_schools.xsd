@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+    <xs:element name="data">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="s" minOccurs="0" maxOccurs="unbounded"> 
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="name" type="xs:string"/>
+                            <xs:choice>
+                                <xs:sequence>
+                                    <xs:element name="has_community_system"/>
+                                    <xs:element name="has_mobile_central"/>  
+                                    <xs:element name="error_message"/> 
+                                    <xs:element name="client_id"/>      
+                                    <xs:element name="people_soft_id"/>
+                                    <xs:element name="demo_id"/>
+                                    <xs:element name="demo_user"/>
+                                    <xs:element name="demo_password"/>
+                                    <xs:element name="demo_name"/>
+                                    <xs:element name="demo_b2_url"/>
+                                    <xs:element name="demo_has_community_system"/>
+                                </xs:sequence>
+                                <xs:sequence>
+                                    <xs:element name="id"/>
+                                    <xs:element name="b2_url"/>
+                                    <xs:element name="has_community_system"/>
+                                    <xs:element name="username_label"/>
+                                    <xs:choice>
+                                        <xs:sequence>
+                                            <xs:element name="force_web_login"/>
+                                            <xs:element name="has_mobile_central"/>
+                                            <xs:element name="http_auth"/>
+                                            <xs:element name="from_people_soft"/>
+                                            <xs:element name="client_id"/>
+                                            <xs:element name="access">
+                                                <xs:complexType>
+                                                    <xs:all>
+                                                        <xs:element name="wifi"/>
+                                                        <xs:element name="carrier"/>
+                                                        <xs:element name="sprint_local"/>
+                                                    </xs:all>
+                                                </xs:complexType>
+                                            </xs:element>
+                                            <xs:element name="people_soft_institution_id"/>
+                                            <xs:element name="force_web_login_polling"/>
+                                        </xs:sequence>
+                                        <xs:sequence>
+                                            <xs:element name="has_mobile_central"/>
+                                            <xs:element name="http_auth"/>
+                                            <xs:element name="from_people_soft"/>
+                                            <xs:element name="client_id"/>
+                                            <xs:element name="can_has_ssl_login"/>
+                                            <xs:element name="access">
+                                                <xs:complexType>
+                                                    <xs:all>
+                                                        <xs:element name="wifi"/>
+                                                        <xs:element name="carrier"/>
+                                                        <xs:element name="sprint_local"/>
+                                                    </xs:all>
+                                                </xs:complexType>
+                                            </xs:element>
+                                            <xs:element name="userpay" minOccurs="0" maxOccurs="1" />
+                                            <xs:element name="people_soft_institution_id"/>
+                                            <xs:element name="euse"/>
+                                            <xs:element name="euse_label"/>
+                                        </xs:sequence>
+                                    </xs:choice>
+                                </xs:sequence>
+                            </xs:choice>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:complexType name="UniversityInformation">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="has_community_system"/>
+            <xs:element name="has_mobile_central"/>
+            <xs:element name="client_id"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="UniversityWithSupport">
+        <xs:complexContent>
+            <xs:extension base="UniversityInformation">
+                <xs:sequence>
+                    <xs:element name="username_label"/>
+                    <xs:element name="b2_url"/>
+                    <xs:element name="id"/>
+                    <xs:element name="http_auth"/>
+                    <xs:element name="from_people_soft"/>
+                    <xs:element name="access">
+                        <xs:complexType>
+                            <xs:all>
+                                <xs:element name="wifi"/>
+                                <xs:element name="carrier"/>
+                                <xs:element name="sprint_local"/>
+                            </xs:all>
+                        </xs:complexType>
+                    </xs:element>
+                    <xs:element name="people_soft_institution_id"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+    <xs:complexType name="UniversityWithWebLogin">
+        <xs:complexContent>
+            <xs:extension base="UniversityWithSupport">
+                <xs:sequence>
+                    <xs:element name="force_web_login"/>
+                    <xs:element name="force_web_login_polling"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+    <xs:complexType name="UniversityWithAppLogin">
+        <xs:complexContent>
+            <xs:extension base="UniversityWithSupport">
+                <xs:sequence>
+                    <xs:element name="can_has_ssl_login"/>
+                    <xs:element name="euse"/>
+                    <xs:element name="euse_label"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+    <xs:complexType name="UniversityWithoutSupport">
+        <xs:complexContent>
+            <xs:extension base="UniversityInformation">
+                <xs:sequence>
+                    <xs:element name="people_soft_id"/>
+                    <xs:element name="error_message"/>
+                    <xs:element name="demo_id"/>
+                    <xs:element name="demo_user"/>
+                    <xs:element name="demo_password"/>
+                    <xs:element name="demo_name"/>
+                    <xs:element name="demo_b2_url"/>
+                    <xs:element name="demo_has_community_system"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+</xs:schema>

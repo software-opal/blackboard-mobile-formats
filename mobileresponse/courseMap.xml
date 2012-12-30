@@ -1,0 +1,362 @@
+<?xml
+    version="1.0"
+    encoding="UTF-8"?>
+
+<mobileresponse
+    status="OK"
+    rooturl="https://blackboard.elearning.uq.edu.au">
+    <map>
+        <map-item
+            name="Announcements"
+            viewurl="/webapps/blackboard/content/launchLink.jsp?course_id=_141427_1&amp;tool_id=_139_1&amp;tool_type=TOOL&amp;mode=view"
+            isAvail="true"
+            linktype="announcements"
+            isfolder="false" 
+        />
+        <map-item
+            name="Course Profile (ECP)"
+            viewurl="/webapps/blackboard/content/launchLink.jsp?course_id=_141427_1&amp;tool_id=_3269_1&amp;tool_type=TOOL&amp;mode=view"
+            isAvail="true"
+            linktype="uq-ecps"
+            isfolder="false" 
+        />
+        <map-item
+            contentid="_2058575_1"
+            name="Learning Resources"
+            viewurl="https://blackboard.elearning.uq.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2058575_1"
+            isAvail="true"
+            linktype="CONTENT"
+            isfolder="true"
+            canpostcontentitem="false"
+            canattachfiles.2.5="false"
+            datemodified="2011-12-06T10:12:32+1000">
+            <children>
+                <map-item
+                    contentid="_2319374_1"
+                    name="Learning resources"
+                    viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2058575_1#_2319374_1"
+                    isAvail="true"
+                    linktype="resource/x-bb-document"
+                    isfolder="false"
+                    datemodified="2012-07-22T14:54:53+1000" 
+                />
+                <map-item
+                    contentid="_2342278_1"
+                    name="Lecture Recordings"
+                    viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1"
+                    isAvail="true"
+                    linktype="resource/x-bb-folder"
+                    isfolder="true"
+                    canpostcontentitem="false"
+                    canattachfiles.2.5="false"
+                    datemodified="2012-07-26T11:06:39+1000">
+                    <children>
+                        <map-item
+                            contentid="_2342279_1"
+                            name="2012-07-26 08:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2342279_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-07-26T11:06:39+1000" 
+                        />
+                        <map-item
+                            contentid="_2344295_1"
+                            name="2012-07-27 09:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2344295_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-07-27T10:19:21+1000" 
+                        />
+                        <map-item
+                            contentid="_2350077_1"
+                            name="2012-08-02 08:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2350077_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-08-02T11:13:05+1000" 
+                        />
+                        <map-item
+                            contentid="_2350993_1"
+                            name="2012-08-03 09:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2350993_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-08-03T10:19:45+1000" 
+                        />
+                        <map-item
+                            contentid="_2355689_1"
+                            name="2012-08-09 08:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2355689_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-08-09T11:11:03+1000" 
+                        />
+                        <map-item
+                            contentid="_2356536_1"
+                            name="2012-08-10 09:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2356536_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-08-10T10:18:38+1000" 
+                        />
+                        <map-item
+                            contentid="_2361127_1"
+                            name="2012-08-16 08:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2361127_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-08-16T11:13:59+1000" 
+                        />
+                        <map-item
+                            contentid="_2361866_1"
+                            name="2012-08-17 09:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2361866_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-08-17T10:14:47+1000" 
+                        />
+                        <map-item
+                            contentid="_2366825_1"
+                            name="2012-08-23 08:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2366825_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-08-23T10:47:10+1000" 
+                        />
+                        <map-item
+                            contentid="_2367594_1"
+                            name="2012-08-24 09:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2367594_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-08-24T10:25:34+1000" 
+                        />
+                        <map-item
+                            contentid="_2371684_1"
+                            name="2012-08-30 08:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2371684_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-08-30T11:01:38+1000" 
+                        />
+                        <map-item
+                            contentid="_2372482_1"
+                            name="2012-08-31 09:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2372482_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-08-31T10:36:55+1000" 
+                        />
+                        <map-item
+                            contentid="_2376473_1"
+                            name="2012-09-06 08:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2376473_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-09-06T10:53:50+1000" 
+                        />
+                        <map-item
+                            contentid="_2377174_1"
+                            name="2012-09-07 09:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2377174_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-09-07T10:35:17+1000" 
+                        />
+                        <map-item
+                            contentid="_2381109_1"
+                            name="2012-09-13 08:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2381109_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-09-13T10:59:06+1000" 
+                        />
+                        <map-item
+                            contentid="_2381847_1"
+                            name="2012-09-14 09:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2381847_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-09-14T10:40:06+1000" 
+                        />
+                        <map-item
+                            contentid="_2385294_1"
+                            name="2012-09-20 08:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2385294_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-09-20T11:11:33+1000" 
+                        />
+                        <map-item
+                            contentid="_2385870_1"
+                            name="2012-09-21 09:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2385870_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-09-21T10:36:38+1000" 
+                        />
+                        <map-item
+                            contentid="_2390208_1"
+                            name="2012-10-04 08:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2390208_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-10-04T10:55:12+1000" 
+                        />
+                        <map-item
+                            contentid="_2390893_1"
+                            name="2012-10-05 09:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2390893_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-10-05T10:38:05+1000" 
+                        />
+                        <map-item
+                            contentid="_2394902_1"
+                            name="2012-10-11 08:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2394902_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-10-11T10:50:34+1000" 
+                        />
+                        <map-item
+                            contentid="_2395926_1"
+                            name="2012-10-12 09:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2395926_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-10-12T10:26:25+1000" 
+                        />
+                        <map-item
+                            contentid="_2399277_1"
+                            name="2012-10-18 08:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2399277_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-10-18T11:05:20+1000" 
+                        />
+                        <map-item
+                            contentid="_2399698_1"
+                            name="2012-10-19 09:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2399698_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-10-19T10:31:35+1000" 
+                        />
+                        <map-item
+                            contentid="_2402303_1"
+                            name="2012-10-25 08:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2402303_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-10-25T10:50:45+1000" 
+                        />
+                        <map-item
+                            contentid="_2402813_1"
+                            name="2012-10-26 09:00:00 - COMP3506S_6260STx (COMP3506S_6260STx-COMP3506S_6260STx) Semester 2 2012"
+                            viewurl="/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2342278_1#_2402813_1"
+                            isAvail="true"
+                            linktype="resource/x-apreso"
+                            isfolder="false"
+                            datemodified="2012-10-26T10:31:24+1000" 
+                        />
+                    </children>
+                </map-item>
+            </children>
+        </map-item>
+        <map-item
+            contentid="_2058574_1"
+            name="Assessment"
+            viewurl="https://blackboard.elearning.uq.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_141427_1&amp;content_id=_2058574_1"
+            isAvail="true"
+            linktype="CONTENT"
+            isfolder="true"
+            canpostcontentitem="false"
+            canattachfiles.2.5="false"
+            datemodified="2011-12-06T10:12:33+1000">
+            <children>
+                <map-item
+                    contentid="_2366881_1"
+                    name="Assignment 1"
+                    viewurl="/webapps/blackboard/execute/uploadAssignment?content_id=_2366881_1&amp;course_id=_141427_1&amp;assign_group_id=&amp;mode=view"
+                    isAvail="true"
+                    linktype="resource/x-bb-assignment"
+                    isfolder="false"
+                    datemodified="2012-08-23T11:34:37+1000" 
+                />
+                <map-item
+                    contentid="_2393354_1"
+                    name="Assignment 2"
+                    viewurl="/webapps/blackboard/execute/uploadAssignment?content_id=_2393354_1&amp;course_id=_141427_1&amp;assign_group_id=&amp;mode=view"
+                    isAvail="true"
+                    linktype="resource/x-bb-assignment"
+                    isfolder="false"
+                    datemodified="2012-10-09T16:42:49+1000" 
+                />
+            </children>
+        </map-item>
+        <map-item
+            name="Discussion Board"
+            viewurl="/webapps/blackboard/content/launchLink.jsp?course_id=_141427_1&amp;tool_id=_144_1&amp;tool_type=TOOL&amp;mode=view"
+            isAvail="true"
+            linktype="discussion_board"
+            isfolder="true">
+            <children>
+                <map-item
+                    name="Main"
+                    viewurl="/webapps/blackboard/content/launchLink.jsp?course_id=_141427_1&amp;tool_id=_185152_1&amp;tool_type=FORUM&amp;mode=view"
+                    isAvail="true"
+                    linktype="FORUM"
+                    linktarget="_185152_1"
+                    isfolder="false" 
+                />
+            </children>
+        </map-item>
+        <map-item
+            name="My Library"
+            viewurl="https://blackboard.elearning.uq.edu.au/webapps/UQ-MyLibrarySSO-bb_bb60/librarysso.jsp"
+            isAvail="true"
+            linktype="URL"
+            isfolder="false" 
+        />
+        <map-item
+            name="My Grades"
+            viewurl="/webapps/blackboard/content/launchLink.jsp?course_id=_141427_1&amp;tool_id=_210_1&amp;tool_type=TOOL&amp;mode=view"
+            isAvail="true"
+            linktype="student_gradebook"
+            isfolder="false" 
+        />
+        <map-item
+            name="ITEE Course Home Page"
+            viewurl="/webapps/blackboard/content/contentWrapper.jsp?course_id=_141427_1&amp;displayName=ITEE+Course+Home+Page&amp;href=http%3A%2F%2Fitee.uq.edu.au%2F%7Ecomp3506%2F"
+            isAvail="true"
+            linktype="URL"
+            isfolder="false" 
+        />
+    </map>
+</mobileresponse>

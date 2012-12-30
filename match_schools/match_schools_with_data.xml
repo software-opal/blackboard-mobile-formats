@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<data xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+      xsi:noNamespaceSchemaLocation='match_schools.xsd' > 
+    <s>
+        <name>CUNY - Queensborough Community College</name> 
+        <has_community_system>1</has_community_system> 
+        <has_mobile_central>0</has_mobile_central> 
+        <error_message>We hate to be the bearer of bad news, but Blackboard Mobile Learn is not currently available at your institution. We won't bore you with the details here, but you can visit Help to contact our support team for more information.</error_message> 
+        <client_id>21</client_id> 
+        <people_soft_id>100038</people_soft_id> 
+        <demo_id>3230</demo_id> 
+        <demo_user>bbstu</demo_user> 
+        <demo_password>b0ll0ck$</demo_password> 
+        <demo_name>Monumental U.</demo_name> 
+        <demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url> 
+        <demo_has_community_system>1</demo_has_community_system> 
+    </s> 
+    <s>
+        <name>CUNY - School of Law at Queens College</name> 
+        <has_community_system>1</has_community_system> 
+        <has_mobile_central>0</has_mobile_central> 
+        <error_message>We hate to be the bearer of bad news, but Blackboard Mobile Learn is not currently available at your institution. We won't bore you with the details here, but you can visit Help to contact our support team for more information.</error_message> 
+        <client_id>124</client_id> 
+        <people_soft_id>100218</people_soft_id> 
+        <demo_id>3230</demo_id> 
+        <demo_user>bbstu</demo_user> 
+        <demo_password>b0ll0ck$</demo_password> 
+        <demo_name>Monumental U.</demo_name> 
+        <demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url> 
+        <demo_has_community_system>1</demo_has_community_system> 
+    </s> 
+    <s>
+        <name>CUNY - Queens College</name> 
+        <has_community_system>1</has_community_system> 
+        <has_mobile_central>0</has_mobile_central> 
+        <error_message>We hate to be the bearer of bad news, but Blackboard Mobile Learn is not currently available at your institution. We won't bore you with the details here, but you can visit Help to contact our support team for more information.</error_message> 
+        <client_id>254</client_id> 
+        <people_soft_id>100434</people_soft_id> 
+        <demo_id>3230</demo_id> 
+        <demo_user>bbstu</demo_user> 
+        <demo_password>b0ll0ck$</demo_password> 
+        <demo_name>Monumental U.</demo_name> 
+        <demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url> 
+        <demo_has_community_system>1</demo_has_community_system> 
+    </s> 
+    <s>
+        <name>The University of Queensland</name> 
+        <id>9049</id> 
+        <b2_url>https://blackboard.elearning.uq.edu.au/webapps/Bb-mobile-bb_bb60/</b2_url> 
+        <has_community_system>1</has_community_system> 
+        <username_label>Username</username_label> 
+        <has_mobile_central>0</has_mobile_central> 
+        <http_auth>0</http_auth> 
+        <from_people_soft>1</from_people_soft> 
+        <client_id>921</client_id> 
+        <can_has_ssl_login>true</can_has_ssl_login> 
+        <access>
+            <wifi>1</wifi> 
+            <carrier>1</carrier> 
+            <sprint_local>0</sprint_local> 
+        </access> 
+        <people_soft_institution_id>149017</people_soft_institution_id> 
+        <euse>help@its.uq.edu.au</euse> 
+        <euse_label>ITS HelpDesk</euse_label> 
+    </s> 
+    <s>
+        <name>Queen's University</name> 
+        <has_community_system>1</has_community_system> 
+        <has_mobile_central>0</has_mobile_central> 
+        <error_message>We hate to be the bearer of bad news, but Blackboard Mobile Learn is not currently available at your institution. We won't bore you with the details here, but you can visit Help to contact our support team for more information.</error_message> 
+        <client_id>1251</client_id> 
+        <people_soft_id>200172</people_soft_id> 
+        <demo_id>3230</demo_id> 
+        <demo_user>bbstu</demo_user> 
+        <demo_password>b0ll0ck$</demo_password> 
+        <demo_name>Monumental U.</demo_name> 
+        <demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url> 
+        <demo_has_community_system>1</demo_has_community_system> 
+    </s> 
+    <s>
+        <name>Queen Mary University of London</name> 
+        <has_community_system>1</has_community_system> 
+        <has_mobile_central>0</has_mobile_central> 
+        <error_message>We hate to be the bearer of bad news, but Blackboard Mobile Learn is not currently available at your institution. We won't bore you with the details here, but you can visit Help to contact our support team for more information.</error_message> 
+        <client_id>1440</client_id> 
+        <people_soft_id>301329</people_soft_id> 
+        <demo_id>3230</demo_id> 
+        <demo_user>bbstu</demo_user> 
+        <demo_password>b0ll0ck$</demo_password> 
+        <demo_name>Monumental U.</demo_name> 
+        <demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url> 
+        <demo_has_community_system>1</demo_has_community_system> 
+    </s> 
+    <s>
+        <name>Queensland University of Technology</name> 
+        <has_community_system>1</has_community_system> 
+        <has_mobile_central>0</has_mobile_central> 
+        <error_message>We hate to be the bearer of bad news, but Blackboard Mobile Learn is not currently available at your institution. We won't bore you with the details here, but you can visit Help to contact our support team for more information.</error_message> 
+        <client_id>1441</client_id> 
+        <people_soft_id>301333</people_soft_id> 
+        <demo_id>3230</demo_id> 
+        <demo_user>bbstu</demo_user> 
+        <demo_password>b0ll0ck$</demo_password> 
+        <demo_name>Monumental U.</demo_name> 
+        <demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url> 
+        <demo_has_community_system>1</demo_has_community_system> 
+    </s> 
+    <s>
+        <name>Queen Margaret University</name> 
+        <id>16665</id> 
+        <b2_url>https://hub.qmu.ac.uk/webapps/Bb-mobile-BBLEARN/</b2_url> 
+        <has_community_system>0</has_community_system> 
+        <username_label>Username</username_label> 
+        <has_mobile_central>0</has_mobile_central> 
+        <http_auth>0</http_auth> 
+        <from_people_soft>1</from_people_soft> 
+        <client_id>2196</client_id> 
+        <can_has_ssl_login>true</can_has_ssl_login> 
+        <access>
+            <wifi>0</wifi> 
+            <carrier>0</carrier> 
+            <sprint_local>0</sprint_local> 
+        </access> 
+        <userpay>1</userpay> 
+        <people_soft_institution_id>309192</people_soft_institution_id> 
+        <euse>hub@qmu.ac.uk</euse> 
+        <euse_label>Hub Admin</euse_label> 
+    </s> 
+    <s>
+        <name>Queen's College</name> 
+        <has_community_system>1</has_community_system> 
+        <has_mobile_central>0</has_mobile_central> 
+        <error_message>Your institution isn't currently enabled for the Blackboard Mobile Learn application. There are several eligibility factors (learning management system version, school licensing, etc), one or more of which could impact availability for your school. Click below to be added to our availability update email list, or check in with your helpdesk to learn more about mobile learning options at your school.</error_message> 
+        <client_id>2360</client_id> 
+        <people_soft_id>310295</people_soft_id> 
+        <demo_id>3230</demo_id> 
+        <demo_user>bbstu</demo_user> 
+        <demo_password>b0ll0ck$</demo_password> 
+        <demo_name>Monumental U.</demo_name> 
+        <demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url> 
+        <demo_has_community_system>1</demo_has_community_system> 
+    </s> 
+    <s>
+        <name>Quest Software</name> 
+        <has_community_system>1</has_community_system> 
+        <has_mobile_central>0</has_mobile_central> 
+        <error_message>Your institution isn't enabled for the free Blackboard Mobile Learn application. There are several eligibility factors (learning management system version, etc), one or more of which could impact availability for your school. Click below to be added to our availability update email list, or check in with your helpdesk to learn more about mobile learning options at your school.</error_message> 
+        <client_id>3899</client_id> 
+        <people_soft_id>314786</people_soft_id> 
+        <demo_id>3230</demo_id> 
+        <demo_user>bbstu</demo_user> 
+        <demo_password>b0ll0ck$</demo_password> 
+        <demo_name>Monumental U.</demo_name> 
+        <demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url> 
+        <demo_has_community_system>1</demo_has_community_system> 
+    </s> 
+    <s>
+        <name>QuestionMark Corporation</name> 
+        <has_community_system>1</has_community_system> 
+        <has_mobile_central>0</has_mobile_central> 
+        <error_message>Your institution isn't enabled for the free Blackboard Mobile Learn application. There are several eligibility factors (learning management system version, etc), one or more of which could impact availability for your school. Click below to be added to our availability update email list, or check in with your helpdesk to learn more about mobile learning options at your school.</error_message> 
+        <client_id>3900</client_id> 
+        <people_soft_id>123561</people_soft_id> 
+        <demo_id>3230</demo_id> 
+        <demo_user>bbstu</demo_user> 
+        <demo_password>b0ll0ck$</demo_password> 
+        <demo_name>Monumental U.</demo_name> 
+        <demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url> 
+        <demo_has_community_system>1</demo_has_community_system> 
+    </s> 
+    <s>
+        <name>Quemado Independent Schools</name> 
+        <id>16980-506</id> 
+        <b2_url>http://DIST03.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url> 
+        <has_community_system>1</has_community_system> 
+        <username_label /> 
+        <force_web_login>http://DIST03.blackboard.com/webapps/Bb-mobile-bb_bb60/customAuthDevice</force_web_login> 
+        <has_mobile_central>0</has_mobile_central> 
+        <http_auth>0</http_auth> 
+        <from_people_soft>1</from_people_soft> 
+        <client_id>21586</client_id> 
+        <access>
+            <wifi>1</wifi> 
+            <carrier>1</carrier> 
+            <sprint_local>0</sprint_local> 
+        </access> 
+        <people_soft_institution_id>312314</people_soft_institution_id> 
+        <force_web_login_polling>1</force_web_login_polling> 
+    </s> 
+    <s>
+        <name>Queen Ethelburgas College</name> 
+        <has_community_system>1</has_community_system> 
+        <has_mobile_central>0</has_mobile_central> 
+        <error_message>Your institution isn't enabled for the free Blackboard Mobile Learn application. There are several eligibility factors (learning management system version, etc), one or more of which could impact availability for your school. Click below to be added to our availability update email list, or check in with your helpdesk to learn more about mobile learning options at your school.</error_message> 
+        <client_id>24141</client_id> 
+        <people_soft_id>312225</people_soft_id> 
+        <demo_id>3230</demo_id> 
+        <demo_user>bbstu</demo_user> 
+        <demo_password>b0ll0ck$</demo_password> 
+        <demo_name>Monumental U.</demo_name> 
+        <demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url> 
+        <demo_has_community_system>1</demo_has_community_system> 
+    </s> 
+    <s>
+        <name>University of Southern Queensland</name> 
+        <has_community_system>1</has_community_system> 
+        <has_mobile_central>0</has_mobile_central> 
+        <error_message>Your institution isn't enabled for the free Blackboard Mobile Learn application. There are several eligibility factors (learning management system version, etc), one or more of which could impact availability for your school. Click below to be added to our availability update email list, or check in with your helpdesk to learn more about mobile learning options at your school.</error_message> 
+        <client_id>29667</client_id> 
+        <people_soft_id>301579</people_soft_id> 
+        <demo_id>3230</demo_id> 
+        <demo_user>bbstu</demo_user> 
+        <demo_password>b0ll0ck$</demo_password> 
+        <demo_name>Monumental U.</demo_name> 
+        <demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url> 
+        <demo_has_community_system>1</demo_has_community_system> 
+    </s> 
+</data>
