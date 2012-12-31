@@ -1,0 +1,1 @@
+ - Curry College(`client_id=713`) => [`http://curry.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://curry.blackboard.com/webapps/Bb-mobile-BBLEARN/)

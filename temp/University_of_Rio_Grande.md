@@ -1,0 +1,1 @@
+ - University of Rio Grande(`client_id=1500`) => [`http://rio.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://rio.blackboard.com/webapps/Bb-mobile-BBLEARN/)

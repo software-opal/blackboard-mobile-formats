@@ -1,0 +1,1 @@
+ - Calhoun Community College(`client_id=1579`) => [`http://blackboard9.calhoun.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard9.calhoun.edu/webapps/Bb-mobile-bb_bb60/)

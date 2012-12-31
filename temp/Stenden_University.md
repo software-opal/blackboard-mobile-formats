@@ -1,0 +1,1 @@
+ - Stenden University(`client_id=1045`) => [`https://elo.stenden.com/webapps/Bb-mobile-bb_bb60/`](https://elo.stenden.com/webapps/Bb-mobile-bb_bb60/)

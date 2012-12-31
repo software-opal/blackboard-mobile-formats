@@ -1,0 +1,1 @@
+ - Loyalist College(`client_id=1742`) => [`http://learn.myloyalist.com/webapps/Bb-mobile-BBLEARN/`](http://learn.myloyalist.com/webapps/Bb-mobile-BBLEARN/)

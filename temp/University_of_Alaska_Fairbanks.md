@@ -1,0 +1,1 @@
+ - University of Alaska Fairbanks(`client_id=148`) => [`https://classes.uaf.edu/webapps/Bb-mobile-bb_bb60/`](https://classes.uaf.edu/webapps/Bb-mobile-bb_bb60/)

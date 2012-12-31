@@ -1,0 +1,1 @@
+ - CMU Blackboard(`client_id=68`) => [`http://blackboard.andrew.cmu.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.andrew.cmu.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Fort Scott Community College(`client_id=789`) => [`http://fts-adm-itc-bb3.fortscott.edu/webapps/Bb-mobile-bb_bb60/`](http://fts-adm-itc-bb3.fortscott.edu/webapps/Bb-mobile-bb_bb60/)

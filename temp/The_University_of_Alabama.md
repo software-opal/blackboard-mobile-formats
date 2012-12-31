@@ -1,0 +1,1 @@
+ - The University of Alabama(`client_id=1255`) => [`https://ualearn.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://ualearn.blackboard.com/webapps/Bb-mobile-BBLEARN/)

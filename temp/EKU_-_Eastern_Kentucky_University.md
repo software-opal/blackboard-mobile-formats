@@ -1,0 +1,1 @@
+ - EKU - Eastern Kentucky University(`client_id=322`) => [`https://learn.eku.edu/webapps/Bb-mobile-bb_bb60/`](https://learn.eku.edu/webapps/Bb-mobile-bb_bb60/)

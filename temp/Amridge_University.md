@@ -1,0 +1,1 @@
+ - Amridge University(`client_id=87`) => [`http://amridgeuniversity.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://amridgeuniversity.blackboard.com/webapps/Bb-mobile-bb_bb60/)

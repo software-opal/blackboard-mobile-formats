@@ -1,0 +1,1 @@
+ - Clay County School District(`client_id=807`) => [`https://clayschools.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://clayschools.blackboard.com/webapps/Bb-mobile-bb_bb60/)

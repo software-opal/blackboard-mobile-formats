@@ -1,0 +1,1 @@
+ - Universidad Autonoma de Tamaulipas (UAT)(`client_id=1178`) => [`https://campusenlinea-uat.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://campusenlinea-uat.blackboard.com/webapps/Bb-mobile-BBLEARN/)

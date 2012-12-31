@@ -1,0 +1,1 @@
+ - John A. Logan College(`client_id=537`) => [`https://logan.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://logan.blackboard.com/webapps/Bb-mobile-bb_bb60/)

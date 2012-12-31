@@ -1,0 +1,1 @@
+ - Saint Francis University(`client_id=1174`) => [`http://courses.francis.edu/webapps/Bb-mobile-BBLEARN/`](http://courses.francis.edu/webapps/Bb-mobile-BBLEARN/)

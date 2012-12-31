@@ -1,0 +1,1 @@
+ - Lakeland Community College(`client_id=589`) => [`https://class.lakelandcc.edu/webapps/Bb-mobile-bb_bb60/`](https://class.lakelandcc.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Lincoln Land Community College(`client_id=470`) => [`http://blackboard.llcc.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.llcc.edu/webapps/Bb-mobile-bb_bb60/)

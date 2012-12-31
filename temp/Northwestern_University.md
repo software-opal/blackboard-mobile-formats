@@ -1,0 +1,1 @@
+ - Northwestern University(`client_id=146`) => [`https://courses.northwestern.edu/webapps/Bb-mobile-bb_bb60/`](https://courses.northwestern.edu/webapps/Bb-mobile-bb_bb60/)

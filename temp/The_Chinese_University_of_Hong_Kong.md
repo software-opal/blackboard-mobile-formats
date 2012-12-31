@@ -1,0 +1,1 @@
+ - The Chinese University of Hong Kong(`client_id=1354`) => [`https://elearn.cuhk.edu.hk/webapps/Bb-mobile-BBLEARN/`](https://elearn.cuhk.edu.hk/webapps/Bb-mobile-BBLEARN/)

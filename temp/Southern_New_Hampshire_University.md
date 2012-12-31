@@ -1,0 +1,1 @@
+ - Southern New Hampshire University(`client_id=367`) => [`https://blackboard.snhu.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.snhu.edu/webapps/Bb-mobile-bb_bb60/)

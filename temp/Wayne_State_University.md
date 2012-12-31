@@ -1,0 +1,1 @@
+ - Wayne State University(`client_id=590`) => [`https://blackboard.wayne.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.wayne.edu/webapps/Bb-mobile-bb_bb60/)

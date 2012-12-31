@@ -1,0 +1,1 @@
+ - University of Texas at Arlington(`client_id=1472`) => [`https://elearn.uta.edu/webapps/Bb-mobile-bb_bb60/`](https://elearn.uta.edu/webapps/Bb-mobile-bb_bb60/)

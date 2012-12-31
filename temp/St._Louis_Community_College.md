@@ -1,0 +1,1 @@
+ - St. Louis Community College(`client_id=46`) => [`https://blackboard.stlcc.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.stlcc.edu/webapps/Bb-mobile-bb_bb60/)

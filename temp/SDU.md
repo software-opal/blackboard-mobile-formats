@@ -1,0 +1,1 @@
+ - SDU(`client_id=748`) => [`https://e-learn.sdu.dk/webapps/Bb-mobile-bb_bb60/`](https://e-learn.sdu.dk/webapps/Bb-mobile-bb_bb60/)

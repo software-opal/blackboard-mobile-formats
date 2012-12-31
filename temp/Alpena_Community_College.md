@@ -1,0 +1,1 @@
+ - Alpena Community College(`client_id=1203`) => [`http://bb.alpenacc.edu/webapps/Bb-mobile-bb_bb60/`](http://bb.alpenacc.edu/webapps/Bb-mobile-bb_bb60/)

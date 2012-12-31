@@ -1,0 +1,1 @@
+ - Worcester Polytechnic Institute(`client_id=374`) => [`http://my.wpi.edu/webapps/Bb-mobile-BBLEARN/`](http://my.wpi.edu/webapps/Bb-mobile-BBLEARN/)

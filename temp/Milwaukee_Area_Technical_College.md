@@ -1,0 +1,1 @@
+ - Milwaukee Area Technical College(`client_id=646`) => [`https://blackboard.matc.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.matc.edu/webapps/Bb-mobile-bb_bb60/)

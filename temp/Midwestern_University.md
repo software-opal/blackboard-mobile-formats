@@ -1,0 +1,1 @@
+ - Midwestern University(`client_id=681`) => [`http://midwesternnew.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://midwesternnew.blackboard.com/webapps/Bb-mobile-bb_bb60/)

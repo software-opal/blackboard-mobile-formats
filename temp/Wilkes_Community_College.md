@@ -1,0 +1,1 @@
+ - Wilkes Community College(`client_id=129`) => [`http://bb9.wilkescc.edu/webapps/Bb-mobile-bb_bb60/`](http://bb9.wilkescc.edu/webapps/Bb-mobile-bb_bb60/)

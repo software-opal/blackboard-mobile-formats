@@ -1,0 +1,1 @@
+ - UNIVERSITY OF CENTRAL FLORIDA(`client_id=684`) => [`https://webcourses.ucf.edu/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:9195260f-0aaa-ef12-002a-c92f51d29850/populateMyWebCT.dowebct/`](https://webcourses.ucf.edu/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:9195260f-0aaa-ef12-002a-c92f51d29850/populateMyWebCT.dowebct/)

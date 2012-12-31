@@ -1,0 +1,1 @@
+ - Hodges University(`client_id=1040`) => [`https://myhugo.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://myhugo.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Judson University(`client_id=846`) => [`http://judson.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://judson.blackboard.com/webapps/Bb-mobile-bb_bb60/)

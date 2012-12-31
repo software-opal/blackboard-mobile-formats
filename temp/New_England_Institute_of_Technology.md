@@ -1,0 +1,1 @@
+ - New England Institute of Technology(`client_id=88`) => [`https://blackboard.neit.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.neit.edu/webapps/Bb-mobile-BBLEARN/)

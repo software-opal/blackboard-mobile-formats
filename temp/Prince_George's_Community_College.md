@@ -1,0 +1,1 @@
+ - Prince George's Community College(`client_id=249`) => [`https://pgcconline.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://pgcconline.blackboard.com/webapps/Bb-mobile-bb_bb60/)

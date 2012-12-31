@@ -1,0 +1,1 @@
+ - John Brown University(`client_id=164`) => [`http://classes.jbu.edu/webapps/Bb-mobile-bb_bb60/`](http://classes.jbu.edu/webapps/Bb-mobile-bb_bb60/)

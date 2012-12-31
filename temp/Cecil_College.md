@@ -1,0 +1,1 @@
+ - Cecil College(`client_id=1318`) => [`http://cecil.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://cecil.blackboard.com/webapps/Bb-mobile-bb_bb60/)

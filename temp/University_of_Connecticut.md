@@ -1,0 +1,1 @@
+ - University of Connecticut(`client_id=1515`) => [`https://learn.uconn.edu/webapps/Bb-mobile-BBLEARN/`](https://learn.uconn.edu/webapps/Bb-mobile-BBLEARN/)

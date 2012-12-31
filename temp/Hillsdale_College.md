@@ -1,0 +1,1 @@
+ - Hillsdale College(`client_id=376`) => [`https://blackboard.hillsdale.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.hillsdale.edu/webapps/Bb-mobile-BBLEARN/)

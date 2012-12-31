@@ -1,0 +1,1 @@
+ - Purdue University(`client_id=1250`) => [`https://mycourses.purdue.edu/webapps/Bb-mobile-BBLEARN/`](https://mycourses.purdue.edu/webapps/Bb-mobile-BBLEARN/)

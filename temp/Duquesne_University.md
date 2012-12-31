@@ -1,0 +1,1 @@
+ - Duquesne University(`client_id=307`) => [`https://duq.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://duq.blackboard.com/webapps/Bb-mobile-BBLEARN/)

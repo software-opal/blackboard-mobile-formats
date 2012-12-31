@@ -1,0 +1,1 @@
+ - Concordia College - NY(`client_id=1236`) => [`http://bb.concordia-ny.edu/webapps/Bb-mobile-BBLEARN/`](http://bb.concordia-ny.edu/webapps/Bb-mobile-BBLEARN/)

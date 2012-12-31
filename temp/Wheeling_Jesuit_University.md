@@ -1,0 +1,1 @@
+ - Wheeling Jesuit University(`client_id=167`) => [`http://blackboard9.wju.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard9.wju.edu/webapps/Bb-mobile-BBLEARN/)

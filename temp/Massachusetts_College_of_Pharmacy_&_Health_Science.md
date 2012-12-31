@@ -1,0 +1,1 @@
+ - Massachusetts College of Pharmacy & Health Science(`client_id=635`) => [`https://ilearn.mcphs.edu/webapps/Bb-mobile-BBLEARN/`](https://ilearn.mcphs.edu/webapps/Bb-mobile-BBLEARN/)

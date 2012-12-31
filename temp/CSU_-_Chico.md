@@ -1,0 +1,1 @@
+ - CSU - Chico(`client_id=1582`) => [`https://learn.csuchico.edu/webapps/Bb-mobile-BBLEARN/`](https://learn.csuchico.edu/webapps/Bb-mobile-BBLEARN/)

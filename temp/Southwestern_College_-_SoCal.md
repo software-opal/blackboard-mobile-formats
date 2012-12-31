@@ -1,0 +1,1 @@
+ - Southwestern College - SoCal(`client_id=953`) => [`https://swccd.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://swccd.blackboard.com/webapps/Bb-mobile-bb_bb60/)

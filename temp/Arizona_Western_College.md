@@ -1,0 +1,1 @@
+ - Arizona Western College(`client_id=623`) => [`https://blackboard.azwestern.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.azwestern.edu/webapps/Bb-mobile-bb_bb60/)

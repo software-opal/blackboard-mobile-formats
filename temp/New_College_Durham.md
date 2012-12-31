@@ -1,0 +1,1 @@
+ - New College Durham(`client_id=1065`) => [`https://newcollegedurham.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://newcollegedurham.blackboard.com/webapps/Bb-mobile-BBLEARN/)

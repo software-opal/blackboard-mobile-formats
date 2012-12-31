@@ -1,0 +1,1 @@
+ - UPAEP(`client_id=734`) => [`https://upaep.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://upaep.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - College of the Sequoias(`client_id=250`) => [`https://blackboard.cos.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.cos.edu/webapps/Bb-mobile-bb_bb60/)

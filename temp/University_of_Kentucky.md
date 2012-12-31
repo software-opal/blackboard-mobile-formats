@@ -1,0 +1,1 @@
+ - University of Kentucky(`client_id=493`) => [`https://elearning.uky.edu/webapps/Bb-mobile-bb_bb60/`](https://elearning.uky.edu/webapps/Bb-mobile-bb_bb60/)

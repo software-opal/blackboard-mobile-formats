@@ -1,0 +1,1 @@
+ - Dominican College(`client_id=1180`) => [`http://bb.dc.edu/webapps/Bb-mobile-bb_bb60/`](http://bb.dc.edu/webapps/Bb-mobile-bb_bb60/)

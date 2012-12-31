@@ -1,0 +1,1 @@
+ - Southwestern Assemblies of God University(`client_id=1394`) => [`https://blackboard.sagu.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.sagu.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Alfred State College(`client_id=1029`) => [`https://bb.alfredstate.edu/webapps/Bb-mobile-bb_bb60/`](https://bb.alfredstate.edu/webapps/Bb-mobile-bb_bb60/)

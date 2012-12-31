@@ -1,0 +1,1 @@
+ - Southern Institute of Technology(`client_id=754`) => [`http://blackboard.sit.ac.nz/webapps/Bb-mobile-bb_bb60/`](http://blackboard.sit.ac.nz/webapps/Bb-mobile-bb_bb60/)

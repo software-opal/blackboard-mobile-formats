@@ -1,0 +1,1 @@
+ - Mt. Hood Community College(`client_id=1706`) => [`https://mhcc.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://mhcc.blackboard.com/webapps/Bb-mobile-BBLEARN/)

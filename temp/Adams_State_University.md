@@ -1,0 +1,1 @@
+ - Adams State University(`client_id=1651`) => [`https://adams9-1.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://adams9-1.blackboard.com/webapps/Bb-mobile-BBLEARN/)

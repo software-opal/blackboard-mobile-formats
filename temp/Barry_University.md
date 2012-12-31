@@ -1,0 +1,1 @@
+ - Barry University(`client_id=1058`) => [`https://barry6.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://barry6.blackboard.com/webapps/Bb-mobile-bb_bb60/)

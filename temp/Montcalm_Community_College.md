@@ -1,0 +1,1 @@
+ - Montcalm Community College(`client_id=1053`) => [`http://blackboard.montcalm.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.montcalm.edu/webapps/Bb-mobile-bb_bb60/)

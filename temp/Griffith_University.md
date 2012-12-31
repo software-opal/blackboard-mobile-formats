@@ -1,0 +1,1 @@
+ - Griffith University(`client_id=599`) => [`https://learning.secure.griffith.edu.au/webapps/Bb-mobile-bb_bb60/`](https://learning.secure.griffith.edu.au/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Jones College(`client_id=1788`) => [`https://blackboard.jones.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.jones.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - USC - University of Southern California(`client_id=443`) => [`https://blackboard.usc.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.usc.edu/webapps/Bb-mobile-bb_bb60/)

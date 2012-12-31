@@ -1,0 +1,1 @@
+ - Rhode Island College(`client_id=1443`) => [`https://blackboard.ric.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.ric.edu/webapps/Bb-mobile-bb_bb60/)

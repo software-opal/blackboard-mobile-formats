@@ -1,0 +1,1 @@
+ - Northwest Nazarene University(`client_id=861`) => [`http://burba.nnu.edu/api/v7.4/mobile.svc/REST/`](http://burba.nnu.edu/api/v7.4/mobile.svc/REST/)

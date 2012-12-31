@@ -1,0 +1,1 @@
+ - University of Hartford(`client_id=598`) => [`http://blackboard-app.hartford.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard-app.hartford.edu/webapps/Bb-mobile-BBLEARN/)

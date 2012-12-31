@@ -1,0 +1,1 @@
+ - Missouri Southern State University(`client_id=325`) => [`http://mssu.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://mssu.blackboard.com/webapps/Bb-mobile-bb_bb60/)

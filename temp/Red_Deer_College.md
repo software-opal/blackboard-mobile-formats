@@ -1,0 +1,1 @@
+ - Red Deer College(`client_id=1434`) => [`https://rdc-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://rdc-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/)

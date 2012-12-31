@@ -1,0 +1,1 @@
+ - California State University, Fresno(`client_id=115`) => [`https://bbl-col1.csufresno.edu/webapps/Bb-mobile-BBLEARN/`](https://bbl-col1.csufresno.edu/webapps/Bb-mobile-BBLEARN/)

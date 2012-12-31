@@ -1,0 +1,1 @@
+ - Eastern University(`client_id=482`) => [`https://eastern.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://eastern.blackboard.com/webapps/Bb-mobile-bb_bb60/)

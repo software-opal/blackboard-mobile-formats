@@ -1,0 +1,1 @@
+ - University of Louisville(`client_id=42`) => [`https://blackboard.louisville.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.louisville.edu/webapps/Bb-mobile-bb_bb60/)

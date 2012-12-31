@@ -1,0 +1,1 @@
+ - Midland College(`client_id=86`) => [`https://blackboard.midland.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.midland.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Valparaiso University(`client_id=1152`) => [`https://blackboard.valpo.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.valpo.edu/webapps/Bb-mobile-bb_bb60/)

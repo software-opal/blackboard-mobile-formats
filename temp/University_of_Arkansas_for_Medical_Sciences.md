@@ -1,0 +1,1 @@
+ - University of Arkansas for Medical Sciences(`client_id=1299`) => [`https://uams.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://uams.blackboard.com/webapps/Bb-mobile-BBLEARN/)

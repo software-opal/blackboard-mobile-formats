@@ -1,0 +1,1 @@
+ - Western Kentucky University(`client_id=485`) => [`https://blackboard.wku.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.wku.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - York County Community College(`client_id=1457`) => [`http://learn.yccc.edu/webapps/Bb-mobile-BBLEARN/`](http://learn.yccc.edu/webapps/Bb-mobile-BBLEARN/)

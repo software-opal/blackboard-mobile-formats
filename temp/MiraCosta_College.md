@@ -1,0 +1,1 @@
+ - MiraCosta College(`client_id=853`) => [`https://blackboard.miracosta.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.miracosta.edu/webapps/Bb-mobile-bb_bb60/)

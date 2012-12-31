@@ -1,0 +1,1 @@
+ - Universidad de la Rioja(`client_id=1540`) => [`https://unirioja.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://unirioja.blackboard.com/webapps/Bb-mobile-BBLEARN/)

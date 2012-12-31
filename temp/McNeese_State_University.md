@@ -1,0 +1,1 @@
+ - McNeese State University(`client_id=868`) => [`http://blackboard.mcneese.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.mcneese.edu/webapps/Bb-mobile-bb_bb60/)

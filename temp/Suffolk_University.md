@@ -1,0 +1,1 @@
+ - Suffolk University(`client_id=1064`) => [`https://suffolku.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://suffolku.blackboard.com/webapps/Bb-mobile-bb_bb60/)

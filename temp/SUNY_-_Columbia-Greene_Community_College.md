@@ -1,0 +1,1 @@
+ - SUNY - Columbia-Greene Community College(`client_id=1188`) => [`https://sunycgcc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://sunycgcc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

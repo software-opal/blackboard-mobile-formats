@@ -1,0 +1,1 @@
+ - Denison University(`client_id=423`) => [`http://courses.denison.edu/webapps/Bb-mobile-bb_bb60/`](http://courses.denison.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Cabrillo College Blackboard(`client_id=1578`) => [`https://cabrillo.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://cabrillo.blackboard.com/webapps/Bb-mobile-BBLEARN/)

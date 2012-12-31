@@ -1,0 +1,1 @@
+ - Wayne County Community College District(`client_id=503`) => [`https://blackboard.wcccd.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.wcccd.edu/webapps/Bb-mobile-bb_bb60/)

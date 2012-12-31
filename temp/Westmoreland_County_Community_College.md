@@ -1,0 +1,1 @@
+ - Westmoreland County Community College(`client_id=99`) => [`https://wccc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://wccc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

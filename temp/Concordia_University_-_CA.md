@@ -1,0 +1,1 @@
+ - Concordia University - CA(`client_id=382`) => [`https://cui.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://cui.blackboard.com/webapps/Bb-mobile-BBLEARN/)

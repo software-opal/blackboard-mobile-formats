@@ -1,0 +1,1 @@
+ - Universidad de Chile(`client_id=1537`) => [`https://medichi.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://medichi.blackboard.com/webapps/Bb-mobile-BBLEARN/)

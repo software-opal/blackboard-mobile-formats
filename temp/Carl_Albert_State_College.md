@@ -1,0 +1,1 @@
+ - Carl Albert State College(`client_id=1589`) => [`http://web.carlalbert.edu/webapps/Bb-mobile-BBLEARN/`](http://web.carlalbert.edu/webapps/Bb-mobile-BBLEARN/)

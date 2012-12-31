@@ -1,0 +1,1 @@
+ - Sherman College of Straight Chiropractic(`client_id=1407`) => [`http://sherman.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://sherman.blackboard.com/webapps/Bb-mobile-bb_bb60/)

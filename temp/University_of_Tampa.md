@@ -1,0 +1,1 @@
+ - University of Tampa(`client_id=1121`) => [`https://ut.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://ut.blackboard.com/webapps/Bb-mobile-bb_bb60/)

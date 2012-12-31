@@ -1,0 +1,1 @@
+ - Motherwell College(`client_id=430`) => [`http://motherwell.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://motherwell.blackboard.com/webapps/Bb-mobile-bb_bb60/)

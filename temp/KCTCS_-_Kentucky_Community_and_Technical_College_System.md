@@ -1,0 +1,1 @@
+ - KCTCS - Kentucky Community and Technical College System(`client_id=670`) => [`http://elearning.kctcs.edu/webapps/Bb-mobile-bb_bb60/`](http://elearning.kctcs.edu/webapps/Bb-mobile-bb_bb60/)

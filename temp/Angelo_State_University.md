@@ -1,0 +1,1 @@
+ - Angelo State University(`client_id=559`) => [`https://blackboard.angelo.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.angelo.edu/webapps/Bb-mobile-bb_bb60/)

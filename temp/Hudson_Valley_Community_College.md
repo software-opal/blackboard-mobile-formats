@@ -1,0 +1,1 @@
+ - Hudson Valley Community College(`client_id=427`) => [`https://bbprod.hvcc.edu/webapps/Bb-mobile-BBLEARN/`](https://bbprod.hvcc.edu/webapps/Bb-mobile-BBLEARN/)

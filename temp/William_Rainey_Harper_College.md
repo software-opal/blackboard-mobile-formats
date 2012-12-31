@@ -1,0 +1,1 @@
+ - William Rainey Harper College(`client_id=601`) => [`http://harper.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://harper.blackboard.com/webapps/Bb-mobile-bb_bb60/)

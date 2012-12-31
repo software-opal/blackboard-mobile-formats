@@ -1,0 +1,1 @@
+ - Madison College(`client_id=526`) => [`https://blackboard.madisoncollege.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.madisoncollege.edu/webapps/Bb-mobile-BBLEARN/)

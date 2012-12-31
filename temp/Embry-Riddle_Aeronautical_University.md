@@ -1,0 +1,1 @@
+ - Embry-Riddle Aeronautical University(`client_id=571`) => [`https://erau.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://erau.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Southeastern Oklahoma State University(`client_id=808`) => [`http://blackboard.se.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.se.edu/webapps/Bb-mobile-BBLEARN/)

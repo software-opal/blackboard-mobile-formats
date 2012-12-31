@@ -1,0 +1,1 @@
+ - Fulton County Schools(`client_id=1228`) => [`http://fulton.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://fulton.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Shawnee State University(`client_id=370`) => [`https://blackboard.shawnee.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.shawnee.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - La Salle University(`client_id=1244`) => [`https://online.lasalle.edu/webapps/Bb-mobile-BBLEARN/`](https://online.lasalle.edu/webapps/Bb-mobile-BBLEARN/)

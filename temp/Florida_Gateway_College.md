@@ -1,0 +1,1 @@
+ - Florida Gateway College(`client_id=650`) => [`https://blackboard.fgc.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.fgc.edu/webapps/Bb-mobile-BBLEARN/)

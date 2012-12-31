@@ -1,0 +1,1 @@
+ - Rutgers University Newark(`client_id=1011`) => [`https://blackboard.newark.rutgers.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.newark.rutgers.edu/webapps/Bb-mobile-bb_bb60/)

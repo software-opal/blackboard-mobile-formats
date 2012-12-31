@@ -1,0 +1,1 @@
+ - Chemeketa Community College(`client_id=1575`) => [`https://chemeketa-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://chemeketa-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/)

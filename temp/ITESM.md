@@ -1,0 +1,1 @@
+ - ITESM(`client_id=466`) => [`http://cursos-sync.itesm.mx/webapps/Bb-mobile-bb_bb60/`](http://cursos-sync.itesm.mx/webapps/Bb-mobile-bb_bb60/)

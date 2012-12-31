@@ -1,0 +1,1 @@
+ - Chowan University(`client_id=175`) => [`https://blackboard.chowan.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.chowan.edu/webapps/Bb-mobile-bb_bb60/)

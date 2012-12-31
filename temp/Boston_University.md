@@ -1,0 +1,1 @@
+ - Boston University(`client_id=516`) => [`http://blackboard.bu.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.bu.edu/webapps/Bb-mobile-bb_bb60/)

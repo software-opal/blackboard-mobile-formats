@@ -1,0 +1,1 @@
+ - Ryerson University(`client_id=1252`) => [`https://courses.ryerson.ca/webapps/Bb-mobile-bb_bb60/`](https://courses.ryerson.ca/webapps/Bb-mobile-bb_bb60/)

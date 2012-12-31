@@ -1,0 +1,1 @@
+ - Bowling Green State University(`client_id=282`) => [`https://elearning.bgsu.edu/webapps/Bb-mobile-bb_bb60/`](https://elearning.bgsu.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Moody Bible Institute(`client_id=30`) => [`https://blackboard9.moody.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard9.moody.edu/webapps/Bb-mobile-BBLEARN/)

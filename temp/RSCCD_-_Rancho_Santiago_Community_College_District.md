@@ -1,0 +1,1 @@
+ - RSCCD - Rancho Santiago Community College District(`client_id=1435`) => [`https://rsccd.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://rsccd.blackboard.com/webapps/Bb-mobile-bb_bb60/)

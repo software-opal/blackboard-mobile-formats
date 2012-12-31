@@ -1,0 +1,1 @@
+ - University of Idaho(`client_id=1512`) => [`https://bblearn.uidaho.edu/webapps/Bb-mobile-BBLEARN/`](https://bblearn.uidaho.edu/webapps/Bb-mobile-BBLEARN/)

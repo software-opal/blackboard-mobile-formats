@@ -1,0 +1,1 @@
+ - Bay De Noc Community College(`client_id=663`) => [`https://online.baycollege.edu/webapps/Bb-mobile-BBLEARN/`](https://online.baycollege.edu/webapps/Bb-mobile-BBLEARN/)

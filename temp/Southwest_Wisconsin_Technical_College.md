@@ -1,0 +1,1 @@
+ - Southwest Wisconsin Technical College(`client_id=641`) => [`http://swtc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://swtc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

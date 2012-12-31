@@ -1,0 +1,1 @@
+ - Hogeschool INHOLLAND(`client_id=662`) => [`https://blackboard.inholland.nl/webapps/Bb-mobile-bb_bb60/`](https://blackboard.inholland.nl/webapps/Bb-mobile-bb_bb60/)

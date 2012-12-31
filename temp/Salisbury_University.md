@@ -1,0 +1,1 @@
+ - Salisbury University(`client_id=1431`) => [`https://myclasses9.salisbury.edu/webapps/Bb-mobile-BBLEARN/`](https://myclasses9.salisbury.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Cleveland State University(`client_id=1235`) => [`https://bb-csuohio.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://bb-csuohio.blackboard.com/webapps/Bb-mobile-BBLEARN/)

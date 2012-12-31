@@ -1,0 +1,1 @@
+ - Florida Atlantic University(`client_id=247`) => [`https://bb.fau.edu/webapps/Bb-mobile-BBLEARN/`](https://bb.fau.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - University of St. Thomas - Minnesota(`client_id=1157`) => [`https://blackboard.stthomas.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.stthomas.edu/webapps/Bb-mobile-bb_bb60/)

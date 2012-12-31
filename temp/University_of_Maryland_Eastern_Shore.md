@@ -1,0 +1,1 @@
+ - University of Maryland Eastern Shore(`client_id=1507`) => [`https://blackboard.umes.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.umes.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - North Greenville University(`client_id=1699`) => [`http://ngu.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://ngu.blackboard.com/webapps/Bb-mobile-bb_bb60/)

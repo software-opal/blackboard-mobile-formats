@@ -1,0 +1,1 @@
+ - Halifax Community College(`client_id=396`) => [`https://halifaxcc.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://halifaxcc.blackboard.com/webapps/Bb-mobile-BBLEARN/)

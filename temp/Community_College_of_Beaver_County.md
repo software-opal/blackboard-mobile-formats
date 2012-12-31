@@ -1,0 +1,1 @@
+ - Community College of Beaver County(`client_id=413`) => [`http://blackboard.ccbc.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.ccbc.edu/webapps/Bb-mobile-bb_bb60/)

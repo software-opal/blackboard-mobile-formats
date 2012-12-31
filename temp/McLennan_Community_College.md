@@ -1,0 +1,1 @@
+ - McLennan Community College(`client_id=251`) => [`https://ecampus.mclennan.edu/webapps/Bb-mobile-bb_bb60/`](https://ecampus.mclennan.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Goucher College(`client_id=1075`) => [`http://goucher.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://goucher.blackboard.com/webapps/Bb-mobile-bb_bb60/)

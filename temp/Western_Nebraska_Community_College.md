@@ -1,0 +1,1 @@
+ - Western Nebraska Community College(`client_id=1338`) => [`http://wncc.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://wncc.blackboard.com/webapps/Bb-mobile-BBLEARN/)

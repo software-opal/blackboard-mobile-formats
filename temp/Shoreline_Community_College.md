@@ -1,0 +1,1 @@
+ - Shoreline Community College(`client_id=65`) => [`https://shoreline.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://shoreline.blackboard.com/webapps/Bb-mobile-bb_bb60/)

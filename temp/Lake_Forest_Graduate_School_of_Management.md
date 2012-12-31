@@ -1,0 +1,1 @@
+ - Lake Forest Graduate School of Management(`client_id=1780`) => [`http://lakeforest.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://lakeforest.blackboard.com/webapps/Bb-mobile-BBLEARN/)

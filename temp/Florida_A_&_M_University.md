@@ -1,0 +1,1 @@
+ - Florida A & M University(`client_id=297`) => [`https://famu.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://famu.blackboard.com/webapps/Bb-mobile-bb_bb60/)

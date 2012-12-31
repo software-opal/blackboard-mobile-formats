@@ -1,0 +1,1 @@
+ - St. Joseph's College New York(`client_id=697`) => [`http://class.sjcny.edu/webapps/Bb-mobile-bb_bb60/`](http://class.sjcny.edu/webapps/Bb-mobile-bb_bb60/)

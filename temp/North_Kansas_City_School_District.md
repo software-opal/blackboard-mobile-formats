@@ -1,0 +1,1 @@
+ - North Kansas City School District(`client_id=1067`) => [`https://ecampus.nkcschools.org/webapps/Bb-mobile-bb_bb60/`](https://ecampus.nkcschools.org/webapps/Bb-mobile-bb_bb60/)

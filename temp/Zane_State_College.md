@@ -1,0 +1,1 @@
+ - Zane State College(`client_id=1041`) => [`https://zanestate.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://zanestate.blackboard.com/webapps/Bb-mobile-BBLEARN/)

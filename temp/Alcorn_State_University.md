@@ -1,0 +1,1 @@
+ - Alcorn State University(`client_id=588`) => [`http://blackboard.alcorn.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.alcorn.edu/webapps/Bb-mobile-bb_bb60/)

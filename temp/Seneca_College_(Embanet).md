@@ -1,0 +1,1 @@
+ - Seneca College (Embanet)(`client_id=1192`) => [`http://bb.embanet.com/webapps/Bb-mobile-bb_bb60/`](http://bb.embanet.com/webapps/Bb-mobile-bb_bb60/)

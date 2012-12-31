@@ -1,0 +1,1 @@
+ - Biola University(`client_id=1630`) => [`https://biola.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://biola.blackboard.com/webapps/Bb-mobile-bb_bb60/)

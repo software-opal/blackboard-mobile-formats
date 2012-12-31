@@ -1,0 +1,1 @@
+ - Fayetteville State University(`client_id=291`) => [`https://blackboard.uncfsu.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.uncfsu.edu/webapps/Bb-mobile-bb_bb60/)

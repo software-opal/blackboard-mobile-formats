@@ -1,0 +1,1 @@
+ - Allegheny Intermediate Unit(`client_id=1179`) => [`http://blackboard.streamacademy.org/webapps/Bb-mobile-bb_bb60/`](http://blackboard.streamacademy.org/webapps/Bb-mobile-bb_bb60/)

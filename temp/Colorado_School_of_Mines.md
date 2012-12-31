@@ -1,0 +1,1 @@
+ - Colorado School of Mines(`client_id=632`) => [`https://blackboard.mines.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.mines.edu/webapps/Bb-mobile-bb_bb60/)

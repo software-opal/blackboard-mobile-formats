@@ -1,0 +1,1 @@
+ - Bluefield State College(`client_id=1295`) => [`https://bluefieldstate.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://bluefieldstate.blackboard.com/webapps/Bb-mobile-bb_bb60/)

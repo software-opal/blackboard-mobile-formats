@@ -1,0 +1,1 @@
+ - Colorado Mountain College(`client_id=73`) => [`http://coloradomtn.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://coloradomtn.blackboard.com/webapps/Bb-mobile-bb_bb60/)

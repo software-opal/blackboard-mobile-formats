@@ -1,0 +1,1 @@
+ - Johns Hopkins University(`client_id=243`) => [`https://blackboard.jhu.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.jhu.edu/webapps/Bb-mobile-bb_bb60/)

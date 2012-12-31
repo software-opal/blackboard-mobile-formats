@@ -1,0 +1,1 @@
+ - Georgia Health Sciences University(`client_id=1730`) => [`https://ghsu-view.blackboard.com/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:adf2079d-7f00-0001-003d-ce1e0a421567/populateMyWebCT.dowebct/`](https://ghsu-view.blackboard.com/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:adf2079d-7f00-0001-003d-ce1e0a421567/populateMyWebCT.dowebct/)

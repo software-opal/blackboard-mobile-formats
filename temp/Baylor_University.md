@@ -1,0 +1,1 @@
+ - Baylor University(`client_id=381`) => [`http://my.baylor.edu/webapps/Bb-mobile-bb_bb60/`](http://my.baylor.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Bloomfield College(`client_id=1026`) => [`http://bb.bloomfield.edu/webapps/Bb-mobile-BBLEARN/`](http://bb.bloomfield.edu/webapps/Bb-mobile-BBLEARN/)

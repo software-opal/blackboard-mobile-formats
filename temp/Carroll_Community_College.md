@@ -1,0 +1,1 @@
+ - Carroll Community College(`client_id=483`) => [`http://carrollcc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://carrollcc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

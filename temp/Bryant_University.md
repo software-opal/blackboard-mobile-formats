@@ -1,0 +1,1 @@
+ - Bryant University(`client_id=995`) => [`http://bb9prodapp.bryant.edu/webapps/Bb-mobile-BBLEARN/`](http://bb9prodapp.bryant.edu/webapps/Bb-mobile-BBLEARN/)

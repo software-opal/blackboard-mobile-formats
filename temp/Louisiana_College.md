@@ -1,0 +1,1 @@
+ - Louisiana College(`client_id=330`) => [`https://lacollege.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://lacollege.blackboard.com/webapps/Bb-mobile-BBLEARN/)

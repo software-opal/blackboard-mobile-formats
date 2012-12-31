@@ -1,0 +1,1 @@
+ - Baptist Memorial College of Health Science(`client_id=833`) => [`http://bchs.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://bchs.blackboard.com/webapps/Bb-mobile-bb_bb60/)

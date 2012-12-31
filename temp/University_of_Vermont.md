@@ -1,0 +1,1 @@
+ - University of Vermont(`client_id=1473`) => [`https://bb.uvm.edu/webapps/Bb-mobile-bb_bb60/`](https://bb.uvm.edu/webapps/Bb-mobile-bb_bb60/)

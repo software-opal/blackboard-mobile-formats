@@ -1,0 +1,1 @@
+ - Edith Cowan University(`client_id=614`) => [`http://blackboard.ecu.edu.au/webapps/Bb-mobile-bb_bb60/`](http://blackboard.ecu.edu.au/webapps/Bb-mobile-bb_bb60/)

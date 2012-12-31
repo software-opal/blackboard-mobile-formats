@@ -1,0 +1,1 @@
+ - Mayo Clinic(`client_id=1747`) => [`https://eduonline.mayo.edu/webapps/Bb-mobile-bb_bb60/`](https://eduonline.mayo.edu/webapps/Bb-mobile-bb_bb60/)

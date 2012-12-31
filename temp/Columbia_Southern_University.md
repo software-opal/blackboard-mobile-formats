@@ -1,0 +1,1 @@
+ - Columbia Southern University(`client_id=508`) => [`https://online.columbiasouthern.edu/webapps/Bb-mobile-bb_bb60/`](https://online.columbiasouthern.edu/webapps/Bb-mobile-bb_bb60/)

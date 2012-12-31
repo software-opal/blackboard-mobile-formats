@@ -1,0 +1,1 @@
+ - Odessa College(`client_id=762`) => [`https://blackboard.odessa.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.odessa.edu/webapps/Bb-mobile-bb_bb60/)

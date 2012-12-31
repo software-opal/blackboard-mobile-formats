@@ -1,0 +1,1 @@
+ - Eastern Washington University - EWU(`client_id=445`) => [`http://blackboard.ewu.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.ewu.edu/webapps/Bb-mobile-bb_bb60/)

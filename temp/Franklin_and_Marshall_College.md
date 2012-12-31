@@ -1,0 +1,1 @@
+ - Franklin and Marshall College(`client_id=193`) => [`https://blackboard.fandm.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.fandm.edu/webapps/Bb-mobile-BBLEARN/)

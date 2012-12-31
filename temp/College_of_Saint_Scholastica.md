@@ -1,0 +1,1 @@
+ - College of Saint Scholastica(`client_id=1356`) => [`https://courses.css.edu/webapps/Bb-mobile-BBLEARN/`](https://courses.css.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Ferris State University(`client_id=1239`) => [`https://fsulearn.ferris.edu/webapps/Bb-mobile-BBLP/`](https://fsulearn.ferris.edu/webapps/Bb-mobile-BBLP/)

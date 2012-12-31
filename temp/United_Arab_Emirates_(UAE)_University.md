@@ -1,0 +1,1 @@
+ - United Arab Emirates (UAE) University(`client_id=1048`) => [`http://elearning.uaeu.ac.ae/webapps/Bb-mobile-bb_bb60/`](http://elearning.uaeu.ac.ae/webapps/Bb-mobile-bb_bb60/)

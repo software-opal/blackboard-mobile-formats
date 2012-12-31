@@ -1,0 +1,1 @@
+ - Ruhr Universitaet Bochum(`client_id=77`) => [`https://e-learning.ruhr-uni-bochum.de/webapps/Bb-mobile-bb_bb60/`](https://e-learning.ruhr-uni-bochum.de/webapps/Bb-mobile-bb_bb60/)

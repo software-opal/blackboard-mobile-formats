@@ -1,0 +1,1 @@
+ - Concordia University - Nebraska(`client_id=311`) => [`http://blackboard.cune.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.cune.edu/webapps/Bb-mobile-BBLEARN/)

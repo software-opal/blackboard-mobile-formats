@@ -1,0 +1,1 @@
+ - Fisk University(`client_id=926`) => [`http://online.fisk.edu/webapps/Bb-mobile-BBLEARN/`](http://online.fisk.edu/webapps/Bb-mobile-BBLEARN/)

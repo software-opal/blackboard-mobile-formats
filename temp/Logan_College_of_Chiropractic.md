@@ -1,0 +1,1 @@
+ - Logan College of Chiropractic(`client_id=1756`) => [`https://logancc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://logancc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

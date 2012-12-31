@@ -1,0 +1,1 @@
+ - Norfolk State University(`client_id=643`) => [`https://nsu.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://nsu.blackboard.com/webapps/Bb-mobile-bb_bb60/)

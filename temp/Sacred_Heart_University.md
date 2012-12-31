@@ -1,0 +1,1 @@
+ - Sacred Heart University(`client_id=165`) => [`https://blackboard.sacredheart.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.sacredheart.edu/webapps/Bb-mobile-bb_bb60/)

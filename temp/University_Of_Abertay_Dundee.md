@@ -1,0 +1,1 @@
+ - University Of Abertay Dundee(`client_id=1529`) => [`https://blackboard.abertay.ac.uk/webapps/Bb-mobile-BBLEARN/`](https://blackboard.abertay.ac.uk/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Lewis and Clark Community College(`client_id=1759`) => [`https://blackboard.lc.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.lc.edu/webapps/Bb-mobile-bb_bb60/)

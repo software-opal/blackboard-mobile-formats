@@ -1,0 +1,1 @@
+ - Syracuse University(`client_id=1112`) => [`https://blackboard.syr.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.syr.edu/webapps/Bb-mobile-bb_bb60/)

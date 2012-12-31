@@ -1,0 +1,1 @@
+ - Reid State Technical College(`client_id=1442`) => [`http://rstc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://rstc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

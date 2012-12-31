@@ -1,0 +1,1 @@
+ - Maricopa Community College(`client_id=365`) => [`https://ecourses.maricopa.edu/webapps/Bb-mobile-bb_bb60/`](https://ecourses.maricopa.edu/webapps/Bb-mobile-bb_bb60/)

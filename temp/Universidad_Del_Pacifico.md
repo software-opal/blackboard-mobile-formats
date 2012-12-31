@@ -1,0 +1,1 @@
+ - Universidad Del Pacifico(`client_id=1001`) => [`http://bbm.up.edu.pe/webapps/Bb-mobile-bb_bb60/`](http://bbm.up.edu.pe/webapps/Bb-mobile-bb_bb60/)

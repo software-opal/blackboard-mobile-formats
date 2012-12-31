@@ -1,0 +1,1 @@
+ - Tulsa Community College(`client_id=196`) => [`https://bb.tulsacc.edu/webapps/Bb-mobile-bb_bb60/`](https://bb.tulsacc.edu/webapps/Bb-mobile-bb_bb60/)

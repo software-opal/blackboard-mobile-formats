@@ -1,0 +1,1 @@
+ - Dillard University(`client_id=1073`) => [`https://dillard.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://dillard.blackboard.com/webapps/Bb-mobile-bb_bb60/)

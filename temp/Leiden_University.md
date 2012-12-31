@@ -1,0 +1,1 @@
+ - Leiden University(`client_id=48`) => [`https://blackboard.leidenuniv.nl/webapps/Bb-mobile-bb_bb60/`](https://blackboard.leidenuniv.nl/webapps/Bb-mobile-bb_bb60/)

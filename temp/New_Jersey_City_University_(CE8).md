@@ -1,0 +1,1 @@
+ - New Jersey City University (CE8)(`client_id=1690`) => [`http://webct6.njcu.edu/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:59577d8f-0a01-0039-0050-55084ffd38a1/populateMyWebCT.dowebct/`](http://webct6.njcu.edu/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:59577d8f-0a01-0039-0050-55084ffd38a1/populateMyWebCT.dowebct/)

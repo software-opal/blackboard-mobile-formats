@@ -1,0 +1,1 @@
+ - Marshall University(`client_id=1245`) => [`https://marshall-bb.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://marshall-bb.blackboard.com/webapps/Bb-mobile-bb_bb60/)

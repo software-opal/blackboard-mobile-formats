@@ -1,0 +1,1 @@
+ - Oregon Institute of Technology(`client_id=1671`) => [`https://online.oit.edu/webapps/Bb-mobile-BBLEARN/`](https://online.oit.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - University of the District of Columbia(`client_id=360`) => [`https://udc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://udc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

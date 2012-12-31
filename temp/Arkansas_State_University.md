@@ -1,0 +1,1 @@
+ - Arkansas State University(`client_id=569`) => [`https://bblearn.astate.edu/webapps/Bb-mobile-BBLEARN/`](https://bblearn.astate.edu/webapps/Bb-mobile-BBLEARN/)

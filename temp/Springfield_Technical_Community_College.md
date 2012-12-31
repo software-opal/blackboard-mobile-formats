@@ -1,0 +1,1 @@
+ - Springfield Technical Community College(`client_id=638`) => [`http://stcc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://stcc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

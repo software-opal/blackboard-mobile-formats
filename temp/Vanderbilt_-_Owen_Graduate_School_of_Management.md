@@ -1,0 +1,1 @@
+ - Vanderbilt - Owen Graduate School of Management(`client_id=962`) => [`http://online.owen.vanderbilt.edu/webapps/Bb-mobile-bb_bb60/`](http://online.owen.vanderbilt.edu/webapps/Bb-mobile-bb_bb60/)

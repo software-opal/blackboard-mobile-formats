@@ -1,0 +1,1 @@
+ - Butler County Community College(`client_id=895`) => [`https://blackboard.bc3.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.bc3.edu/webapps/Bb-mobile-bb_bb60/)

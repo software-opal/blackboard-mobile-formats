@@ -1,0 +1,1 @@
+ - University of Texas - Pan American(`client_id=1471`) => [`http://utpa.blackboard.com/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:0e601289-c0a8-076f-01c7-88d31e4c31e1/populateMyWebCT.dowebct/`](http://utpa.blackboard.com/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:0e601289-c0a8-076f-01c7-88d31e4c31e1/populateMyWebCT.dowebct/)

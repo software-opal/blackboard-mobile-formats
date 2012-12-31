@@ -1,0 +1,1 @@
+ - Universidad Regiomontana (UR)(`client_id=1544`) => [`http://blackboard.ur.mx/webapps/Bb-mobile-bb_bb60/`](http://blackboard.ur.mx/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Texas Woman's University(`client_id=383`) => [`http://twu.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://twu.blackboard.com/webapps/Bb-mobile-bb_bb60/)

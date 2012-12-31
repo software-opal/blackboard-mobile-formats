@@ -1,0 +1,1 @@
+ - University of Miami(`client_id=285`) => [`https://www.courses.miami.edu/webapps/Bb-mobile-bb_bb60/`](https://www.courses.miami.edu/webapps/Bb-mobile-bb_bb60/)

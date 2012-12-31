@@ -1,0 +1,1 @@
+ - Five Towns College(`client_id=1079`) => [`http://ftc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://ftc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - SOUTHERN UNION STATE COMMUNITY COLLEGE(`client_id=1381`) => [`https://suscc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://suscc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

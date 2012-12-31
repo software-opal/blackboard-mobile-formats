@@ -1,0 +1,1 @@
+ - James Cook University(`client_id=12`) => [`https://learnjcu.jcu.edu.au/webapps/Bb-mobile-bb_bb60/`](https://learnjcu.jcu.edu.au/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Blessing-Rieman College of Nursing(`client_id=1007`) => [`https://brcn.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://brcn.blackboard.com/webapps/Bb-mobile-BBLEARN/)

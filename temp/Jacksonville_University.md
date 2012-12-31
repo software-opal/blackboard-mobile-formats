@@ -1,0 +1,1 @@
+ - Jacksonville University(`client_id=591`) => [`https://blackboard.ju.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.ju.edu/webapps/Bb-mobile-bb_bb60/)

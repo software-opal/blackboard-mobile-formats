@@ -1,0 +1,1 @@
+ - Indiana Tech(`client_id=998`) => [`http://blackboard.indianatech.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.indianatech.edu/webapps/Bb-mobile-bb_bb60/)

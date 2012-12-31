@@ -1,0 +1,1 @@
+ - Jewish Theological Seminary(`client_id=1796`) => [`https://jtsa.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://jtsa.blackboard.com/webapps/Bb-mobile-bb_bb60/)

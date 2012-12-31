@@ -1,0 +1,1 @@
+ - Hogeschool Zuyd(`client_id=929`) => [`http://blackboard.hszuyd.nl/webapps/Bb-mobile-bb_bb60/`](http://blackboard.hszuyd.nl/webapps/Bb-mobile-bb_bb60/)

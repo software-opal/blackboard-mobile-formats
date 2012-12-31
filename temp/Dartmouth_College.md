@@ -1,0 +1,1 @@
+ - Dartmouth College(`client_id=154`) => [`http://blackboard.dartmouth.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.dartmouth.edu/webapps/Bb-mobile-bb_bb60/)

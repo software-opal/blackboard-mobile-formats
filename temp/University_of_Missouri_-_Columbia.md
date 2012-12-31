@@ -1,0 +1,1 @@
+ - University of Missouri - Columbia(`client_id=785`) => [`http://bblearn.missouri.edu/webapps/Bb-mobile-bb_bb60/`](http://bblearn.missouri.edu/webapps/Bb-mobile-bb_bb60/)

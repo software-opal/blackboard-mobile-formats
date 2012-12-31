@@ -1,0 +1,1 @@
+ - University of Arizona - Eller College of Management(`client_id=1096`) => [`https://blackboard.eller.arizona.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.eller.arizona.edu/webapps/Bb-mobile-bb_bb60/)

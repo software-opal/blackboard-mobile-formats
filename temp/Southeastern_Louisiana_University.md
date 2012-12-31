@@ -1,0 +1,1 @@
+ - Southeastern Louisiana University(`client_id=394`) => [`https://bbapp1.selu.edu/webapps/Bb-mobile-bb_bb60/`](https://bbapp1.selu.edu/webapps/Bb-mobile-bb_bb60/)

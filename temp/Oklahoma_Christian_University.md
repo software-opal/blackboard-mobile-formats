@@ -1,0 +1,1 @@
+ - Oklahoma Christian University(`client_id=502`) => [`https://bb.oc.edu/webapps/Bb-mobile-BBLEARN/`](https://bb.oc.edu/webapps/Bb-mobile-BBLEARN/)

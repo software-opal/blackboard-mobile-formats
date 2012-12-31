@@ -1,0 +1,1 @@
+ - Lander University(`client_id=1760`) => [`http://bb.lander.edu/webapps/Bb-mobile-BBPROD/`](http://bb.lander.edu/webapps/Bb-mobile-BBPROD/)

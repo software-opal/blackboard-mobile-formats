@@ -1,0 +1,1 @@
+ - Trent University(`client_id=1296`) => [`https://learn.trentu.ca/webapps/Bb-mobile-BBLEARN/`](https://learn.trentu.ca/webapps/Bb-mobile-BBLEARN/)

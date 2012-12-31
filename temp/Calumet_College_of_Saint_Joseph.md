@@ -1,0 +1,1 @@
+ - Calumet College of Saint Joseph(`client_id=475`) => [`http://discovery.ccsj.edu/webapps/Bb-mobile-bb_bb60/`](http://discovery.ccsj.edu/webapps/Bb-mobile-bb_bb60/)

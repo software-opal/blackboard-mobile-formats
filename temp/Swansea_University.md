@@ -1,0 +1,1 @@
+ - Swansea University(`client_id=890`) => [`https://blackboard.swan.ac.uk/webapps/Bb-mobile-bb_bb60/`](https://blackboard.swan.ac.uk/webapps/Bb-mobile-bb_bb60/)

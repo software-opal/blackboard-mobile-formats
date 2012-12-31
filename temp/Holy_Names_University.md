@@ -1,0 +1,1 @@
+ - Holy Names University(`client_id=693`) => [`http://blackboard.hnu.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.hnu.edu/webapps/Bb-mobile-bb_bb60/)

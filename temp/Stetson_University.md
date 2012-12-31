@@ -1,0 +1,1 @@
+ - Stetson University(`client_id=378`) => [`https://blackboard.stetson.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.stetson.edu/webapps/Bb-mobile-bb_bb60/)

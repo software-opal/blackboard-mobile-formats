@@ -1,0 +1,1 @@
+ - Mt. San Jacinto College(`client_id=34`) => [`https://my.msjc.edu/webapps/Bb-mobile-bb_bb60/`](https://my.msjc.edu/webapps/Bb-mobile-bb_bb60/)

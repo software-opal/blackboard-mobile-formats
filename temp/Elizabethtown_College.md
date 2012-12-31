@@ -1,0 +1,1 @@
+ - Elizabethtown College(`client_id=611`) => [`https://blackboard9.etown.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard9.etown.edu/webapps/Bb-mobile-bb_bb60/)

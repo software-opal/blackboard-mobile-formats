@@ -1,0 +1,1 @@
+ - University of Southern Indiana(`client_id=134`) => [`http://bb.usi.edu/webapps/Bb-mobile-BBLEARN/`](http://bb.usi.edu/webapps/Bb-mobile-BBLEARN/)

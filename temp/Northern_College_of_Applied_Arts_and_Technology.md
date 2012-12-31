@@ -1,0 +1,1 @@
+ - Northern College of Applied Arts and Technology(`client_id=731`) => [`http://blackboard.northernc.on.ca/webapps/Bb-mobile-bb_bb60/`](http://blackboard.northernc.on.ca/webapps/Bb-mobile-bb_bb60/)

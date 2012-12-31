@@ -1,0 +1,1 @@
+ - FTCC(`client_id=275`) => [`https://faytechcc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://faytechcc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

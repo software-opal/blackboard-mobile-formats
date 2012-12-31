@@ -1,0 +1,1 @@
+ - Wayland Baptist University(`client_id=1044`) => [`https://wbu.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://wbu.blackboard.com/webapps/Bb-mobile-BBLEARN/)

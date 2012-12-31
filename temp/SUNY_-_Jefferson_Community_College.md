@@ -1,0 +1,1 @@
+ - SUNY - Jefferson Community College(`client_id=266`) => [`http://online.sunyjefferson.edu/webapps/Bb-mobile-bb_bb60/`](http://online.sunyjefferson.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Quinnipiac University(`client_id=204`) => [`http://quinnipiac.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://quinnipiac.blackboard.com/webapps/Bb-mobile-BBLEARN/)

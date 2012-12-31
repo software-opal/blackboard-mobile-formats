@@ -1,0 +1,1 @@
+ - North Central State College(`client_id=1697`) => [`http://bb7ncsc.msbb.uc.edu/webapps/Bb-mobile-bb_bb60/`](http://bb7ncsc.msbb.uc.edu/webapps/Bb-mobile-bb_bb60/)

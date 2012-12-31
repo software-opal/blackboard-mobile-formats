@@ -1,0 +1,1 @@
+ - Auckland University of Technology(`client_id=1129`) => [`https://autonline.aut.ac.nz/webapps/Bb-mobile-bb_bb60/`](https://autonline.aut.ac.nz/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Rio Hondo Community College District(`client_id=1447`) => [`http://riohondo.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://riohondo.blackboard.com/webapps/Bb-mobile-bb_bb60/)

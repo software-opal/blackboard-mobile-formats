@@ -1,0 +1,1 @@
+ - Southern University and A & M College(`client_id=968`) => [`http://www.blackboard.subr.edu/webapps/Bb-mobile-bb_bb60/`](http://www.blackboard.subr.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - University of Northern British Columbia - UNBC(`client_id=1494`) => [`https://learn.unbc.ca/webapps/Bb-mobile-BBLEARN/`](https://learn.unbc.ca/webapps/Bb-mobile-BBLEARN/)

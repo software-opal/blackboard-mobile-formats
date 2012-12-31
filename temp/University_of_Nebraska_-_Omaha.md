@@ -1,0 +1,1 @@
+ - University of Nebraska - Omaha(`client_id=29`) => [`http://blackboard.unomaha.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.unomaha.edu/webapps/Bb-mobile-BBLEARN/)

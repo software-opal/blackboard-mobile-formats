@@ -1,0 +1,1 @@
+ - University of North Texas(`client_id=1267`) => [`http://ecampus.unt.edu/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:3c793b4e-c0a8-e833-00d8-72fea6a3b3dc/populateMyWebCT.dowebct/`](http://ecampus.unt.edu/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:3c793b4e-c0a8-e833-00d8-72fea6a3b3dc/populateMyWebCT.dowebct/)

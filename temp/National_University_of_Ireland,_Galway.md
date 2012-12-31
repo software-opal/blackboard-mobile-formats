@@ -1,0 +1,1 @@
+ - National University of Ireland, Galway(`client_id=831`) => [`https://nuigalway.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://nuigalway.blackboard.com/webapps/Bb-mobile-BBLEARN/)

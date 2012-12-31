@@ -1,0 +1,1 @@
+ - Waynesburg University(`client_id=1329`) => [`http://waynesburg.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://waynesburg.blackboard.com/webapps/Bb-mobile-bb_bb60/)

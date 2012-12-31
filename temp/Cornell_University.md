@@ -1,0 +1,1 @@
+ - Cornell University(`client_id=44`) => [`https://blackboard.cornell.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.cornell.edu/webapps/Bb-mobile-bb_bb60/)

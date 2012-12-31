@@ -1,0 +1,1 @@
+ - Minot State University - Minot(`client_id=1715`) => [`http://bblearnweb.minotstateu.edu/webapps/Bb-mobile-BBLEARN/`](http://bblearnweb.minotstateu.edu/webapps/Bb-mobile-BBLEARN/)

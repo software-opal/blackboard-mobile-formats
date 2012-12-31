@@ -1,0 +1,1 @@
+ - The College of Saint Rose(`client_id=18`) => [`http://blackboard.strose.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.strose.edu/webapps/Bb-mobile-bb_bb60/)

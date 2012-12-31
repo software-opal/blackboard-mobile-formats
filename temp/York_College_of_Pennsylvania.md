@@ -1,0 +1,1 @@
+ - York College of Pennsylvania(`client_id=1459`) => [`https://blackboard.ycp.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.ycp.edu/webapps/Bb-mobile-bb_bb60/)

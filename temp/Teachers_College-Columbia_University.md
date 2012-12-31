@@ -1,0 +1,1 @@
+ - Teachers College-Columbia University(`client_id=444`) => [`http://tccolumbia.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://tccolumbia.blackboard.com/webapps/Bb-mobile-bb_bb60/)

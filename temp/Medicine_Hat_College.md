@@ -1,0 +1,1 @@
+ - Medicine Hat College(`client_id=690`) => [`http://bb.mhc.ab.ca/webapps/Bb-mobile-BBLEARN/`](http://bb.mhc.ab.ca/webapps/Bb-mobile-BBLEARN/)

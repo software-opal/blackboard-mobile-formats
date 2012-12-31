@@ -1,0 +1,1 @@
+ - SUNY - Mohawk Valley Community College(`client_id=1094`) => [`https://mvcc.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://mvcc.blackboard.com/webapps/Bb-mobile-BBLEARN/)

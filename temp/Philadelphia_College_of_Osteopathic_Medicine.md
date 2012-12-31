@@ -1,0 +1,1 @@
+ - Philadelphia College of Osteopathic Medicine(`client_id=261`) => [`https://pcom6.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://pcom6.blackboard.com/webapps/Bb-mobile-bb_bb60/)

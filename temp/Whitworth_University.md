@@ -1,0 +1,1 @@
+ - Whitworth University(`client_id=329`) => [`https://bb.whitworth.edu/webapps/Bb-mobile-BBLEARN/`](https://bb.whitworth.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - University of the South(`client_id=1572`) => [`https://sewanee.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://sewanee.blackboard.com/webapps/Bb-mobile-bb_bb60/)

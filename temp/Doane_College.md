@@ -1,0 +1,1 @@
+ - Doane College(`client_id=631`) => [`http://bb2.doane.edu/webapps/Bb-mobile-bb_bb60/`](http://bb2.doane.edu/webapps/Bb-mobile-bb_bb60/)

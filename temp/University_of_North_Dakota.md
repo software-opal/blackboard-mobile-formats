@@ -1,0 +1,1 @@
+ - University of North Dakota(`client_id=72`) => [`https://online.und.edu/webapps/Bb-mobile-bb_bb60/`](https://online.und.edu/webapps/Bb-mobile-bb_bb60/)

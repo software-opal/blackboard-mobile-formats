@@ -1,0 +1,1 @@
+ - Bellarmine University(`client_id=321`) => [`http://bublackboard.bellarmine.edu/webapps/Bb-mobile-bb_bb60/`](http://bublackboard.bellarmine.edu/webapps/Bb-mobile-bb_bb60/)

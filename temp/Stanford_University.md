@@ -1,0 +1,1 @@
+ - Stanford University(`client_id=1196`) => [`http://blackboard.stanford.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.stanford.edu/webapps/Bb-mobile-BBLEARN/)

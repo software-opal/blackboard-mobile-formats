@@ -1,0 +1,1 @@
+ - South Plains College(`client_id=1388`) => [`https://southplainscollege.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://southplainscollege.blackboard.com/webapps/Bb-mobile-BBLEARN/)

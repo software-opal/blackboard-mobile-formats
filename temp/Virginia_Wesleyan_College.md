@@ -1,0 +1,1 @@
+ - Virginia Wesleyan College(`client_id=1002`) => [`http://virginiawesleyan.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://virginiawesleyan.blackboard.com/webapps/Bb-mobile-bb_bb60/)

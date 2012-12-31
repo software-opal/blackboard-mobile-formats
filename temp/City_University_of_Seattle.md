@@ -1,0 +1,1 @@
+ - City University of Seattle(`client_id=732`) => [`http://courses.cityu.edu/webapps/Bb-mobile-bb_bb60/`](http://courses.cityu.edu/webapps/Bb-mobile-bb_bb60/)

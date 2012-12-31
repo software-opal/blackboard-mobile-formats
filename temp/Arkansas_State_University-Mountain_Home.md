@@ -1,0 +1,1 @@
+ - Arkansas State University-Mountain Home(`client_id=1016`) => [`http://blackboard.asumh.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.asumh.edu/webapps/Bb-mobile-bb_bb60/)

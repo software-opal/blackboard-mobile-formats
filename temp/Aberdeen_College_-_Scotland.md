@@ -1,0 +1,1 @@
+ - Aberdeen College - Scotland(`client_id=1061`) => [`https://abcol.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://abcol.blackboard.com/webapps/Bb-mobile-BBLEARN/)

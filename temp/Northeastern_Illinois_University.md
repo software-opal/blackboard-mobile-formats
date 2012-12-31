@@ -1,0 +1,1 @@
+ - Northeastern Illinois University(`client_id=92`) => [`http://neiu.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://neiu.blackboard.com/webapps/Bb-mobile-bb_bb60/)

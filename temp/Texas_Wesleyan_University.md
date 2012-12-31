@@ -1,0 +1,1 @@
+ - Texas Wesleyan University(`client_id=1362`) => [`http://txwes.embanet.com/webapps/Bb-mobile-bb_bb60/`](http://txwes.embanet.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Western Washington University - WWU(`client_id=438`) => [`https://courses.wwu.edu/webapps/Bb-mobile-bb_bb60/`](https://courses.wwu.edu/webapps/Bb-mobile-bb_bb60/)

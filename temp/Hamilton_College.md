@@ -1,0 +1,1 @@
+ - Hamilton College(`client_id=187`) => [`http://blackboard.hamilton.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.hamilton.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Thomas Jefferson University(`client_id=3`) => [`https://pulse.jefferson.edu/webapps/Bb-mobile-bb_bb60/`](https://pulse.jefferson.edu/webapps/Bb-mobile-bb_bb60/)

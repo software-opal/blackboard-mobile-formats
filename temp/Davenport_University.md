@@ -1,0 +1,1 @@
+ - Davenport University(`client_id=735`) => [`https://davenport.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://davenport.blackboard.com/webapps/Bb-mobile-bb_bb60/)

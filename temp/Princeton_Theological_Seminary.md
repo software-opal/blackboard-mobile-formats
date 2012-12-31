@@ -1,0 +1,1 @@
+ - Princeton Theological Seminary(`client_id=70`) => [`https://blackboard.ptsem.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.ptsem.edu/webapps/Bb-mobile-BBLEARN/)

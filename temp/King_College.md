@@ -1,0 +1,1 @@
+ - King College(`client_id=28`) => [`http://blackboard.king.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.king.edu/webapps/Bb-mobile-bb_bb60/)

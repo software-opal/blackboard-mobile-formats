@@ -1,0 +1,1 @@
+ - Le Moyne College Blackboard Mobile(`client_id=395`) => [`http://blackboard.lemoyne.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.lemoyne.edu/webapps/Bb-mobile-BBLEARN/)

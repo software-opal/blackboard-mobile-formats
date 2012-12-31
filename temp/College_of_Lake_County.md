@@ -1,0 +1,1 @@
+ - College of Lake County(`client_id=98`) => [`https://clc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://clc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

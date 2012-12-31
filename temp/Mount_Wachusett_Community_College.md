@@ -1,0 +1,1 @@
+ - Mount Wachusett Community College(`client_id=492`) => [`https://bb.mwcc.edu/webapps/Bb-mobile-bb_bb60/`](https://bb.mwcc.edu/webapps/Bb-mobile-bb_bb60/)

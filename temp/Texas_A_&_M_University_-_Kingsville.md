@@ -1,0 +1,1 @@
+ - Texas A & M University - Kingsville(`client_id=270`) => [`https://blackboard.tamuk.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.tamuk.edu/webapps/Bb-mobile-bb_bb60/)

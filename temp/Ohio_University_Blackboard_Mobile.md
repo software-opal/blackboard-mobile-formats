@@ -1,0 +1,1 @@
+ - Ohio University Blackboard Mobile(`client_id=194`) => [`https://blackboard.ohio.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.ohio.edu/webapps/Bb-mobile-bb_bb60/)

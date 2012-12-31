@@ -1,0 +1,1 @@
+ - University of Tulsa(`client_id=1269`) => [`http://harvey.utulsa.edu/webapps/Bb-mobile-BBPROD/`](http://harvey.utulsa.edu/webapps/Bb-mobile-BBPROD/)

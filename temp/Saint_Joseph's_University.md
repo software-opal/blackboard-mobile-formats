@@ -1,0 +1,1 @@
+ - Saint Joseph's University(`client_id=398`) => [`http://blackboard9.sju.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard9.sju.edu/webapps/Bb-mobile-bb_bb60/)

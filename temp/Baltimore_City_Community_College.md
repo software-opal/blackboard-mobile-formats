@@ -1,0 +1,1 @@
+ - Baltimore City Community College(`client_id=320`) => [`https://bccc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://bccc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

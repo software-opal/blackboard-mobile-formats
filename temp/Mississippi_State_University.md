@@ -1,0 +1,1 @@
+ - Mississippi State University(`client_id=486`) => [`https://mycourses.msstate.edu/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:8f9be293-8212-027a-0091-1e162bcf01ba/populateMyWebCT.dowebct/`](https://mycourses.msstate.edu/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:8f9be293-8212-027a-0091-1e162bcf01ba/populateMyWebCT.dowebct/)

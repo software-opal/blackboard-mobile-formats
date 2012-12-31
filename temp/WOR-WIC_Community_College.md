@@ -1,0 +1,1 @@
+ - WOR-WIC Community College(`client_id=1452`) => [`https://blackboard.worwic.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.worwic.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Central State University(`client_id=1569`) => [`https://centralstate.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://centralstate.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - University of Arkansas(`client_id=1263`) => [`https://learn.uark.edu/webapps/Bb-mobile-BBLEARN/`](https://learn.uark.edu/webapps/Bb-mobile-BBLEARN/)

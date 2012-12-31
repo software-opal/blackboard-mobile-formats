@@ -1,0 +1,1 @@
+ - Newman University(`client_id=821`) => [`https://coursesites.newmanu.edu/webapps/Bb-mobile-BBLEARN/`](https://coursesites.newmanu.edu/webapps/Bb-mobile-BBLEARN/)

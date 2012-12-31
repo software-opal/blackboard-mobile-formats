@@ -1,0 +1,1 @@
+ - Universidad Anahuac(`client_id=1546`) => [`https://anahuac.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://anahuac.blackboard.com/webapps/Bb-mobile-bb_bb60/)

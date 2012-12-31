@@ -1,0 +1,1 @@
+ - Olivet College(`client_id=264`) => [`http://blackboard.olivetcollege.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.olivetcollege.edu/webapps/Bb-mobile-BBLEARN/)

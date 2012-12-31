@@ -1,0 +1,1 @@
+ - Alabama A & M University(`client_id=237`) => [`https://aamu.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://aamu.blackboard.com/webapps/Bb-mobile-BBLEARN/)

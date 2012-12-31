@@ -1,0 +1,1 @@
+ - University of North Carolina at Pembroke(`client_id=239`) => [`https://blackboard.uncp.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.uncp.edu/webapps/Bb-mobile-bb_bb60/)

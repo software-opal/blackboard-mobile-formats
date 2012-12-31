@@ -1,0 +1,1 @@
+ - University of Brighton(`client_id=1017`) => [`https://studentcentral.brighton.ac.uk/webapps/Bb-mobile-bb_bb60/`](https://studentcentral.brighton.ac.uk/webapps/Bb-mobile-bb_bb60/)

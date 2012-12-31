@@ -1,0 +1,1 @@
+ - Capitol College (LEARN@Capitol)(`client_id=848`) => [`https://learn.capitol-college.edu/webapps/Bb-mobile-BBLEARN/`](https://learn.capitol-college.edu/webapps/Bb-mobile-BBLEARN/)

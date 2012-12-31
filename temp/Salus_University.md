@@ -1,0 +1,1 @@
+ - Salus University(`client_id=1142`) => [`https://ecampus.salus.edu/webapps/Bb-mobile-bb_bb60/`](https://ecampus.salus.edu/webapps/Bb-mobile-bb_bb60/)

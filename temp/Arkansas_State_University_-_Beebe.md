@@ -1,0 +1,1 @@
+ - Arkansas State University - Beebe(`client_id=1633`) => [`http://bbapp.asub.edu/webapps/Bb-mobile-BBLEARN/`](http://bbapp.asub.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - George Mason University(`client_id=1241`) => [`https://mymasonportal.gmu.edu/webapps/Bb-mobile-bb_bb60/`](https://mymasonportal.gmu.edu/webapps/Bb-mobile-bb_bb60/)

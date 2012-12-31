@@ -1,0 +1,1 @@
+ - Fordham University(`client_id=235`) => [`https://fordham.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://fordham.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - UNH - University of New Haven(`client_id=575`) => [`https://blackboard.newhaven.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.newhaven.edu/webapps/Bb-mobile-bb_bb60/)

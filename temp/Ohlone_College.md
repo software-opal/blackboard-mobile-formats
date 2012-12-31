@@ -1,0 +1,1 @@
+ - Ohlone College(`client_id=1679`) => [`http://bb-ohlone.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://bb-ohlone.blackboard.com/webapps/Bb-mobile-bb_bb60/)

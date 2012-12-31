@@ -1,0 +1,1 @@
+ - Columbus State Community College(`client_id=22`) => [`http://courses.cscc.edu/webapps/Bb-mobile-bb_bb60/`](http://courses.cscc.edu/webapps/Bb-mobile-bb_bb60/)

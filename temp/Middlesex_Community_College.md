@@ -1,0 +1,1 @@
+ - Middlesex Community College(`client_id=1085`) => [`https://blackboard.middlesex.mass.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.middlesex.mass.edu/webapps/Bb-mobile-BBLEARN/)

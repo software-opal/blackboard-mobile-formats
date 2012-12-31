@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <s>
-<name>New Jersey City University (Learn)</name>
-<id>14490</id>
-<b2_url>http://blackboard.njcu.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<name>New Jersey City University (CE8)</name>
+<id>9238</id>
+<b2_url>http://webct6.njcu.edu/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:59577d8f-0a01-0039-0050-55084ffd38a1/populateMyWebCT.dowebct/</b2_url>
 <has_community_system>0</has_community_system>
-<username_label>GothicNet ID</username_label>
+<username_label>Blackboard User ID</username_label>
 <has_mobile_central>0</has_mobile_central>
 <http_auth>0</http_auth>
 <from_people_soft>1</from_people_soft>
@@ -15,5 +15,5 @@
 </access>
 <people_soft_institution_id>303591</people_soft_institution_id>
 <euse>dlsupport@njcu.edu</euse>
-<euse_label>DL Support</euse_label>
+<euse_label>Department of Online Learning Support</euse_label>
 </s>

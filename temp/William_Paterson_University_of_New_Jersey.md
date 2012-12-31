@@ -1,0 +1,1 @@
+ - William Paterson University of New Jersey(`client_id=346`) => [`https://bb.wpunj.edu/webapps/Bb-mobile-BBLEARN/`](https://bb.wpunj.edu/webapps/Bb-mobile-BBLEARN/)

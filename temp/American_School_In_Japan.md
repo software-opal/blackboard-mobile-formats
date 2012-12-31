@@ -1,0 +1,1 @@
+ - American School In Japan(`client_id=1172`) => [`http://bb.asij.ac.jp/webapps/Bb-mobile-bb_bb60/`](http://bb.asij.ac.jp/webapps/Bb-mobile-bb_bb60/)

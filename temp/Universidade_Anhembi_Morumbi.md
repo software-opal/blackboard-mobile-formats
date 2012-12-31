@@ -1,0 +1,1 @@
+ - Universidade Anhembi Morumbi(`client_id=819`) => [`http://anhembi.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://anhembi.blackboard.com/webapps/Bb-mobile-BBLEARN/)

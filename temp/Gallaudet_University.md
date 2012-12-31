@@ -1,0 +1,1 @@
+ - Gallaudet University(`client_id=1141`) => [`https://my.gallaudet.edu/webapps/Bb-mobile-bb_bb60/`](https://my.gallaudet.edu/webapps/Bb-mobile-bb_bb60/)

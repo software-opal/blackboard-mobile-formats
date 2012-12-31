@@ -1,0 +1,1 @@
+ - James Madison University(`client_id=439`) => [`https://blackboard.jmu.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.jmu.edu/webapps/Bb-mobile-bb_bb60/)

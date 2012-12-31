@@ -1,0 +1,1 @@
+ - Georgian College(`client_id=449`) => [`https://gc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://gc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

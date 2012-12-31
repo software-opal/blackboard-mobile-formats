@@ -1,0 +1,1 @@
+ - Gordon College - MA(`client_id=756`) => [`http://blackboard.gordon.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.gordon.edu/webapps/Bb-mobile-BBLEARN/)

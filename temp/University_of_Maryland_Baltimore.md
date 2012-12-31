@@ -1,0 +1,1 @@
+ - University of Maryland Baltimore(`client_id=253`) => [`https://blackboard.umaryland.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.umaryland.edu/webapps/Bb-mobile-bb_bb60/)

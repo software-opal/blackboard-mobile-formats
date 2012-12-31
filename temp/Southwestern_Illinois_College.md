@@ -1,0 +1,1 @@
+ - Southwestern Illinois College(`client_id=256`) => [`https://blackboard.swic.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.swic.edu/webapps/Bb-mobile-BBLEARN/)

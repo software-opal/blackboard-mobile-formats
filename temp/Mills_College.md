@@ -1,0 +1,1 @@
+ - Mills College(`client_id=1716`) => [`https://mills.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://mills.blackboard.com/webapps/Bb-mobile-bb_bb60/)

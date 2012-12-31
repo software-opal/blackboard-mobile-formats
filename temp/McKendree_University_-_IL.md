@@ -1,0 +1,1 @@
+ - McKendree University - IL(`client_id=10`) => [`https://blackboard.mckendree.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.mckendree.edu/webapps/Bb-mobile-BBLEARN/)

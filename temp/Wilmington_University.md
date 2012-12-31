@@ -1,0 +1,1 @@
+ - Wilmington University(`client_id=924`) => [`https://wilmu.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://wilmu.blackboard.com/webapps/Bb-mobile-bb_bb60/)

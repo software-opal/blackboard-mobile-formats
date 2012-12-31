@@ -1,0 +1,1 @@
+ - Virginia State University(`client_id=1133`) => [`https://blackboard.vsu.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.vsu.edu/webapps/Bb-mobile-BBLEARN/)

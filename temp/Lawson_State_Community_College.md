@@ -1,0 +1,1 @@
+ - Lawson State Community College(`client_id=866`) => [`http://blackboard.lawsonstate.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.lawsonstate.edu/webapps/Bb-mobile-BBLEARN/)

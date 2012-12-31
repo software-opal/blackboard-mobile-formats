@@ -1,0 +1,1 @@
+ - Cincinnati Children's Hospital Medical Center(`client_id=682`) => [`https://cchmc-mobile.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://cchmc-mobile.blackboard.com/webapps/Bb-mobile-BBLEARN/)

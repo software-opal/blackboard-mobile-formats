@@ -1,0 +1,1 @@
+ - Gateway Technical College(`client_id=918`) => [`https://gtc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://gtc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

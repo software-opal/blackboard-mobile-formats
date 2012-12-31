@@ -1,0 +1,1 @@
+ - Northampton Community College(`client_id=263`) => [`http://northampton.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://northampton.blackboard.com/webapps/Bb-mobile-bb_bb60/)

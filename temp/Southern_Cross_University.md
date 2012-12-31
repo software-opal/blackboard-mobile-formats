@@ -1,0 +1,1 @@
+ - Southern Cross University(`client_id=91`) => [`http://learn.scu.edu.au/webapps/Bb-mobile-bb_bb60/`](http://learn.scu.edu.au/webapps/Bb-mobile-bb_bb60/)

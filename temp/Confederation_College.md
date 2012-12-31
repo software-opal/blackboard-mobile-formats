@@ -1,0 +1,1 @@
+ - Confederation College(`client_id=781`) => [`https://confederation.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://confederation.blackboard.com/webapps/Bb-mobile-bb_bb60/)

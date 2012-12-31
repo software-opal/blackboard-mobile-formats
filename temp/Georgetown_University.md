@@ -1,0 +1,1 @@
+ - Georgetown University(`client_id=233`) => [`https://campus.georgetown.edu/webapps/Bb-mobile-bb_bb60/`](https://campus.georgetown.edu/webapps/Bb-mobile-bb_bb60/)

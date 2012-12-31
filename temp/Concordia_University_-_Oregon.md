@@ -1,0 +1,1 @@
+ - Concordia University - Oregon(`client_id=386`) => [`http://cup.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://cup.blackboard.com/webapps/Bb-mobile-BBLEARN/)

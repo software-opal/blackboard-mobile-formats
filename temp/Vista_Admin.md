@@ -1,0 +1,1 @@
+ - Vista Admin(`client_id=1264`) => [`http://learn.uh.edu/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:8aa17723-ac10-2514-013d-73f3a65ffa91/populateMyWebCT.dowebct/`](http://learn.uh.edu/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:8aa17723-ac10-2514-013d-73f3a65ffa91/populateMyWebCT.dowebct/)

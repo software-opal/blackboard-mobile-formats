@@ -1,0 +1,1 @@
+ - Central Oregon Community College(`client_id=908`) => [`https://bb.cocc.edu/webapps/Bb-mobile-bb_bb60/`](https://bb.cocc.edu/webapps/Bb-mobile-bb_bb60/)

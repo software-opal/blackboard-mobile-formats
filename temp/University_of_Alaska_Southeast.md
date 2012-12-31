@@ -1,0 +1,1 @@
+ - University of Alaska Southeast(`client_id=726`) => [`http://blackboard.uas.alaska.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.uas.alaska.edu/webapps/Bb-mobile-BBLEARN/)

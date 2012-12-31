@@ -1,0 +1,1 @@
+ - Mid-Plains Community College(`client_id=1739`) => [`https://mpcc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://mpcc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

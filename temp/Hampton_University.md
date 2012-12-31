@@ -1,0 +1,1 @@
+ - Hampton University(`client_id=550`) => [`https://courses.hamptonu.edu/webapps/Bb-mobile-bb_bb60/`](https://courses.hamptonu.edu/webapps/Bb-mobile-bb_bb60/)

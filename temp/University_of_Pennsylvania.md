@@ -1,0 +1,1 @@
+ - University of Pennsylvania(`client_id=491`) => [`https://courseweb.library.upenn.edu/webapps/Bb-mobile-bb_bb60/`](https://courseweb.library.upenn.edu/webapps/Bb-mobile-bb_bb60/)

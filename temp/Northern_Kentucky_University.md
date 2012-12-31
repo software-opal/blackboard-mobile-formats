@@ -1,0 +1,1 @@
+ - Northern Kentucky University(`client_id=221`) => [`https://learnonline.nku.edu/webapps/Bb-mobile-bb_bb60/`](https://learnonline.nku.edu/webapps/Bb-mobile-bb_bb60/)

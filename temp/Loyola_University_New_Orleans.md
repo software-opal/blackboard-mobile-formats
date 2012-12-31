@@ -1,0 +1,1 @@
+ - Loyola University New Orleans(`client_id=117`) => [`https://loyno.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://loyno.blackboard.com/webapps/Bb-mobile-bb_bb60/)

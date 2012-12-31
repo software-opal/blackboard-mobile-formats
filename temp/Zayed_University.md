@@ -1,0 +1,1 @@
+ - Zayed University(`client_id=1068`) => [`http://learn.zu.ac.ae/webapps/Bb-mobile-bb_bb60/`](http://learn.zu.ac.ae/webapps/Bb-mobile-bb_bb60/)

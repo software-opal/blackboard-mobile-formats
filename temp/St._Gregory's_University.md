@@ -1,0 +1,1 @@
+ - St. Gregory's University(`client_id=1428`) => [`https://stgregorys.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://stgregorys.blackboard.com/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - MCAD: Minneapolis College of Art and Design(`client_id=741`) => [`https://learn.mcad.edu/webapps/Bb-mobile-bb_bb60/`](https://learn.mcad.edu/webapps/Bb-mobile-bb_bb60/)

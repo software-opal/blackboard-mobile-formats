@@ -1,0 +1,1 @@
+ - Manhattanville College(`client_id=123`) => [`https://blackboard9.mville.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard9.mville.edu/webapps/Bb-mobile-BBLEARN/)

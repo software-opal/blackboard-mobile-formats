@@ -1,0 +1,1 @@
+ - Blackboard Mobile Web Services(`client_id=421`) => [`https://courses.taylor.edu/webapps/Bb-mobile-bb_bb60/`](https://courses.taylor.edu/webapps/Bb-mobile-bb_bb60/)

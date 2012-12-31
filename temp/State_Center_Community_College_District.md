@@ -1,0 +1,1 @@
+ - State Center Community College District(`client_id=1375`) => [`http://scccd.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://scccd.blackboard.com/webapps/Bb-mobile-bb_bb60/)

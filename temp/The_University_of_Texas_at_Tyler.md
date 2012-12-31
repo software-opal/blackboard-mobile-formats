@@ -1,0 +1,1 @@
+ - The University of Texas at Tyler(`client_id=1091`) => [`https://blackboard.uttyler.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.uttyler.edu/webapps/Bb-mobile-bb_bb60/)

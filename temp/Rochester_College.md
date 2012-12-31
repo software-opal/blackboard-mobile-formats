@@ -1,0 +1,1 @@
+ - Rochester College(`client_id=1445`) => [`http://rochestercollege.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://rochestercollege.blackboard.com/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - California Lutheran University(`client_id=1583`) => [`https://bblearn.callutheran.edu/webapps/Bb-mobile-bb_bb60/`](https://bblearn.callutheran.edu/webapps/Bb-mobile-bb_bb60/)

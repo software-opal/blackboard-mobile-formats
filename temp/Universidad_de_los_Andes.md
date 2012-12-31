@@ -1,0 +1,1 @@
+ - Universidad de los Andes(`client_id=1541`) => [`https://sicuaplus.uniandes.edu.co/webapps/Bb-mobile-BBLEARN/`](https://sicuaplus.uniandes.edu.co/webapps/Bb-mobile-BBLEARN/)

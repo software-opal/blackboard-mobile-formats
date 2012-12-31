@@ -1,0 +1,1 @@
+ - University of West Alabama(`client_id=1122`) => [`https://bb.uwa.edu/webapps/Bb-mobile-BBLEARN/`](https://bb.uwa.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Jackson State University(`client_id=1793`) => [`https://jsums.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://jsums.blackboard.com/webapps/Bb-mobile-BBLEARN/)

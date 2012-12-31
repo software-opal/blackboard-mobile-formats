@@ -1,0 +1,1 @@
+ - Illinois Valley Community College(`client_id=906`) => [`https://ivcc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://ivcc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

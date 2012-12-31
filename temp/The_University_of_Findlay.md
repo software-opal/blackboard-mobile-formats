@@ -1,0 +1,1 @@
+ - The University of Findlay(`client_id=1173`) => [`https://ufonline.findlay.edu/webapps/Bb-mobile-bb_bb60/`](https://ufonline.findlay.edu/webapps/Bb-mobile-bb_bb60/)

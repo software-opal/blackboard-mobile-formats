@@ -1,0 +1,1 @@
+ - Marion Technical College(`client_id=1015`) => [`http://mycourses.mtc.edu/webapps/Bb-mobile-bb_bb60/`](http://mycourses.mtc.edu/webapps/Bb-mobile-bb_bb60/)

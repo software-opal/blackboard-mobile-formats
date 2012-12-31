@@ -1,0 +1,1 @@
+ - University of Puerto Rico - School of Medicine(`client_id=105`) => [`http://learn.md.rcm.upr.edu/webapps/Bb-mobile-bb_bb60/`](http://learn.md.rcm.upr.edu/webapps/Bb-mobile-bb_bb60/)

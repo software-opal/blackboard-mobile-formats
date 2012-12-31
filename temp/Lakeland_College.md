@@ -1,0 +1,1 @@
+ - Lakeland College(`client_id=1766`) => [`https://lakeland.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://lakeland.blackboard.com/webapps/Bb-mobile-bb_bb60/)

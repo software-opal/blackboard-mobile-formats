@@ -1,0 +1,1 @@
+ - Bowie State University(`client_id=461`) => [`https://bsuonline.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://bsuonline.blackboard.com/webapps/Bb-mobile-BBLEARN/)

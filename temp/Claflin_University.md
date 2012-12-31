@@ -1,0 +1,1 @@
+ - Claflin University(`client_id=1553`) => [`http://blackboard.claflin.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.claflin.edu/webapps/Bb-mobile-BBLEARN/)

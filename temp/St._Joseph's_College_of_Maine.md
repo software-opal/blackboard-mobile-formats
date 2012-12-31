@@ -1,0 +1,1 @@
+ - St. Joseph's College of Maine(`client_id=1425`) => [`http://sjcme.angellearning.com/api/v7.4/mobile.svc/REST/`](http://sjcme.angellearning.com/api/v7.4/mobile.svc/REST/)

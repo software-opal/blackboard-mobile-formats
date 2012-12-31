@@ -1,0 +1,1 @@
+ - Tuskegee University(`client_id=420`) => [`https://tuskegee.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://tuskegee.blackboard.com/webapps/Bb-mobile-bb_bb60/)

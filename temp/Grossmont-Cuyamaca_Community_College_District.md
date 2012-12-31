@@ -1,0 +1,1 @@
+ - Grossmont-Cuyamaca Community College District(`client_id=1189`) => [`https://gcccd.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://gcccd.blackboard.com/webapps/Bb-mobile-bb_bb60/)

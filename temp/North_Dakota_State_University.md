@@ -1,0 +1,1 @@
+ - North Dakota State University(`client_id=468`) => [`https://bb.ndsu.nodak.edu/webapps/Bb-mobile-bb_bb60/`](https://bb.ndsu.nodak.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Sam Houston State University(`client_id=562`) => [`https://shsu.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://shsu.blackboard.com/webapps/Bb-mobile-BBLEARN/)

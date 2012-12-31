@@ -1,0 +1,1 @@
+ - CITADEL - Military College of South Carolina(`client_id=1355`) => [`https://citlearn.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://citlearn.blackboard.com/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Milwaukee School of Engineering(`client_id=1717`) => [`http://blackboard.msoe.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.msoe.edu/webapps/Bb-mobile-bb_bb60/)

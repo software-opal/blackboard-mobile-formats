@@ -1,0 +1,1 @@
+ - Bishop State Community College(`client_id=1594`) => [`https://bishopstate.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://bishopstate.blackboard.com/webapps/Bb-mobile-bb_bb60/)

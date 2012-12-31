@@ -1,0 +1,1 @@
+ - Central Washington University(`client_id=361`) => [`https://courses.cwu.edu/webapps/Bb-mobile-bb_bb60/`](https://courses.cwu.edu/webapps/Bb-mobile-bb_bb60/)

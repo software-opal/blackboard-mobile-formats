@@ -1,0 +1,1 @@
+ - Coastal Carolina Community College(`client_id=342`) => [`https://coastalcarolina.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://coastalcarolina.blackboard.com/webapps/Bb-mobile-bb_bb60/)

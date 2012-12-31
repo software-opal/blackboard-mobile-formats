@@ -1,0 +1,1 @@
+ - Philadelphia University(`client_id=294`) => [`http://blackboard.philau.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.philau.edu/webapps/Bb-mobile-BBLEARN/)

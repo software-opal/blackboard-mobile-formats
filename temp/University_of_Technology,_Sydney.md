@@ -1,0 +1,1 @@
+ - University of Technology, Sydney(`client_id=25`) => [`https://online.uts.edu.au/webapps/Bb-mobile-bb_bb60/`](https://online.uts.edu.au/webapps/Bb-mobile-bb_bb60/)

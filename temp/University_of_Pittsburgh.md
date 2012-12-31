@@ -1,0 +1,1 @@
+ - University of Pittsburgh(`client_id=173`) => [`https://courseweb.pitt.edu/webapps/Bb-mobile-bb_bb60/`](https://courseweb.pitt.edu/webapps/Bb-mobile-bb_bb60/)

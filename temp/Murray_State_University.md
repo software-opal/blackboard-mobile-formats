@@ -1,0 +1,1 @@
+ - Murray State University(`client_id=557`) => [`https://blackboard.murraystate.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.murraystate.edu/webapps/Bb-mobile-bb_bb60/)

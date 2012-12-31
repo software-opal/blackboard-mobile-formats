@@ -1,0 +1,1 @@
+ - Coppin State University(`client_id=838`) => [`https://eaglebb.coppin.edu/webapps/Bb-mobile-bb_bb60/`](https://eaglebb.coppin.edu/webapps/Bb-mobile-bb_bb60/)

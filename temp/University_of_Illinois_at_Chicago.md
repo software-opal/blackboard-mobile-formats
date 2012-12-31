@@ -1,0 +1,1 @@
+ - University of Illinois at Chicago(`client_id=125`) => [`https://blackboard.uic.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.uic.edu/webapps/Bb-mobile-bb_bb60/)

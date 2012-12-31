@@ -1,0 +1,1 @@
+ - Lynn University(`client_id=118`) => [`https://online2.lynn.edu/webapps/Bb-mobile-BBLEARN/`](https://online2.lynn.edu/webapps/Bb-mobile-BBLEARN/)

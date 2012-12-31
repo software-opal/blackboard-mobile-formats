@@ -1,0 +1,1 @@
+ - Susquehanna University(`client_id=202`) => [`https://blackboard.susqu.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.susqu.edu/webapps/Bb-mobile-bb_bb60/)

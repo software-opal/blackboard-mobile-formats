@@ -1,0 +1,1 @@
+ - Point Park University(`client_id=1111`) => [`https://pointpark.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://pointpark.blackboard.com/webapps/Bb-mobile-BBLEARN/)

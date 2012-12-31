@@ -1,0 +1,1 @@
+ - Point Loma Nazarene University(`client_id=627`) => [`https://eclass.pointloma.edu/webapps/Bb-mobile-bb_bb60/`](https://eclass.pointloma.edu/webapps/Bb-mobile-bb_bb60/)

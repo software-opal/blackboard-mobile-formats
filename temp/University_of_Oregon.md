@@ -1,0 +1,1 @@
+ - University of Oregon(`client_id=214`) => [`https://blackboard.uoregon.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.uoregon.edu/webapps/Bb-mobile-bb_bb60/)

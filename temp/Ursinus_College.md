@@ -1,0 +1,1 @@
+ - Ursinus College(`client_id=639`) => [`http://uconline.ursinus.edu/webapps/Bb-mobile-bb_bb60/`](http://uconline.ursinus.edu/webapps/Bb-mobile-bb_bb60/)

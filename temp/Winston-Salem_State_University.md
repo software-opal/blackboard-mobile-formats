@@ -1,0 +1,1 @@
+ - Winston-Salem State University(`client_id=488`) => [`https://blackboard.wssu.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.wssu.edu/webapps/Bb-mobile-bb_bb60/)

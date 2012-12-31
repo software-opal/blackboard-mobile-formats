@@ -1,0 +1,1 @@
+ - California State University, Sacramento(`client_id=1256`) => [`https://bbpilot.csus.edu/webapps/Bb-mobile-BBLEARN/`](https://bbpilot.csus.edu/webapps/Bb-mobile-BBLEARN/)

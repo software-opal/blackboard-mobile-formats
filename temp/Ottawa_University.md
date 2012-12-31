@@ -1,0 +1,1 @@
+ - Ottawa University(`client_id=536`) => [`https://ottawau.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://ottawau.blackboard.com/webapps/Bb-mobile-bb_bb60/)

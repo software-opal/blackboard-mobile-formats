@@ -1,0 +1,1 @@
+ - Howard Payne University(`client_id=1309`) => [`https://blackboard.hputx.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.hputx.edu/webapps/Bb-mobile-BBLEARN/)

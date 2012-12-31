@@ -1,0 +1,1 @@
+ - Worcester State University Community System(`client_id=232`) => [`http://community.worcester.edu/webapps/Bb-mobile-bb_bb60/`](http://community.worcester.edu/webapps/Bb-mobile-bb_bb60/)

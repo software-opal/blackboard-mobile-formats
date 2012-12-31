@@ -1,0 +1,1 @@
+ - Wallace State Community College - Hanceville(`client_id=1322`) => [`https://learn.wallacestate.edu/webapps/Bb-mobile-BBLEARN/`](https://learn.wallacestate.edu/webapps/Bb-mobile-BBLEARN/)

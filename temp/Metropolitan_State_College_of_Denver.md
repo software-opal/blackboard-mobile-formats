@@ -1,0 +1,1 @@
+ - Metropolitan State College of Denver(`client_id=1734`) => [`https://metrostate-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://metrostate-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/)

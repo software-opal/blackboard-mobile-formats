@@ -1,0 +1,1 @@
+ - University of Arkansas Community College at Batesville(`client_id=1522`) => [`http://uaccb.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://uaccb.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Haagse Hogeschool(`client_id=899`) => [`https://blackboard.hhs.nl/webapps/Bb-mobile-bb_bb60/`](https://blackboard.hhs.nl/webapps/Bb-mobile-bb_bb60/)

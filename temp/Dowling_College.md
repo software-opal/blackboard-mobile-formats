@@ -1,0 +1,1 @@
+ - Dowling College(`client_id=188`) => [`http://blackboard.dowling.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.dowling.edu/webapps/Bb-mobile-bb_bb60/)

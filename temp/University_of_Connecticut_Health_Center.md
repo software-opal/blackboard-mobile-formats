@@ -1,0 +1,1 @@
+ - University of Connecticut Health Center(`client_id=318`) => [`http://blackboard.uchc.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.uchc.edu/webapps/Bb-mobile-bb_bb60/)

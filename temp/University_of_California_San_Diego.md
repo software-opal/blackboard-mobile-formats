@@ -1,0 +1,1 @@
+ - University of California San Diego(`client_id=778`) => [`http://ted.ucsd.edu/webapps/Bb-mobile-BBLEARN/`](http://ted.ucsd.edu/webapps/Bb-mobile-BBLEARN/)

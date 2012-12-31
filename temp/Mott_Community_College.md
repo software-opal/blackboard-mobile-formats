@@ -1,0 +1,1 @@
+ - Mott Community College(`client_id=288`) => [`http://blackboard.mcc.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.mcc.edu/webapps/Bb-mobile-bb_bb60/)

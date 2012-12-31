@@ -1,0 +1,1 @@
+ - Chestnut Hill College(`client_id=1027`) => [`http://chc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://chc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

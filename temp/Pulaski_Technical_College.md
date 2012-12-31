@@ -1,0 +1,1 @@
+ - Pulaski Technical College(`client_id=1439`) => [`https://bb-pulaskitech.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://bb-pulaskitech.blackboard.com/webapps/Bb-mobile-BBLEARN/)

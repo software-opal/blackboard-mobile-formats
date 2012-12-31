@@ -1,0 +1,1 @@
+ - Tarleton State University(`client_id=1367`) => [`https://blackboardlearn.tarleton.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboardlearn.tarleton.edu/webapps/Bb-mobile-BBLEARN/)

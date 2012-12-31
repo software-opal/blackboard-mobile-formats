@@ -1,0 +1,1 @@
+ - Univ of Virginia - McIntire School of Commerce(`client_id=873`) => [`https://blackboard.comm.virginia.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.comm.virginia.edu/webapps/Bb-mobile-BBLEARN/)

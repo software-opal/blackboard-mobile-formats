@@ -1,0 +1,1 @@
+ - Niagara University(`client_id=24`) => [`http://blackboard.niagara.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.niagara.edu/webapps/Bb-mobile-BBLEARN/)

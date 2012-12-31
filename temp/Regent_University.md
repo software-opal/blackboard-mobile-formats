@@ -1,0 +1,1 @@
+ - Regent University(`client_id=159`) => [`https://regent.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://regent.blackboard.com/webapps/Bb-mobile-bb_bb60/)

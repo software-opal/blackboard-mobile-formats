@@ -1,0 +1,1 @@
+ - Marymount Manhattan College(`client_id=1217`) => [`http://marymount6.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://marymount6.blackboard.com/webapps/Bb-mobile-bb_bb60/)

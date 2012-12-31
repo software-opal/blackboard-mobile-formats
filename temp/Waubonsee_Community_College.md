@@ -1,0 +1,1 @@
+ - Waubonsee Community College(`client_id=166`) => [`http://www5.waubonsee.edu/webapps/Bb-mobile-bb_bb60/`](http://www5.waubonsee.edu/webapps/Bb-mobile-bb_bb60/)

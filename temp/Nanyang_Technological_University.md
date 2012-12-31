@@ -1,0 +1,1 @@
+ - Nanyang Technological University(`client_id=49`) => [`http://edventure.ntu.edu.sg/webapps/Bb-mobile-bb_bb60/`](http://edventure.ntu.edu.sg/webapps/Bb-mobile-bb_bb60/)

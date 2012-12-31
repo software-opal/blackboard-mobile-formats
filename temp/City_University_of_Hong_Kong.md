@@ -1,0 +1,1 @@
+ - City University of Hong Kong(`client_id=733`) => [`https://eportal.cityu.edu.hk/webapps/Bb-mobile-bb_bb60/`](https://eportal.cityu.edu.hk/webapps/Bb-mobile-bb_bb60/)

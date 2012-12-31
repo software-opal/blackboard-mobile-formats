@@ -1,0 +1,1 @@
+ - New York Institute of Technology(`client_id=655`) => [`https://nyitonline.nyit.edu/webapps/Bb-mobile-bb_bb60/`](https://nyitonline.nyit.edu/webapps/Bb-mobile-bb_bb60/)

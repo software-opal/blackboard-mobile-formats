@@ -1,0 +1,1 @@
+ - AUDENCIA(`client_id=928`) => [`https://audencia.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://audencia.blackboard.com/webapps/Bb-mobile-bb_bb60/)

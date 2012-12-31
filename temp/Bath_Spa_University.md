@@ -1,0 +1,1 @@
+ - Bath Spa University(`client_id=1273`) => [`https://minerva.bathspa.ac.uk/webapps/Bb-mobile-bb_bb60/`](https://minerva.bathspa.ac.uk/webapps/Bb-mobile-bb_bb60/)

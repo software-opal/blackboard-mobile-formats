@@ -1,0 +1,1 @@
+ - Christopher Newport University(`client_id=1232`) => [`https://scholar.cnu.edu/webapps/Bb-mobile-bb_bb60/`](https://scholar.cnu.edu/webapps/Bb-mobile-bb_bb60/)

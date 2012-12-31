@@ -1,0 +1,1 @@
+ - St. Ambrose University(`client_id=1039`) => [`https://blackboard.sau.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.sau.edu/webapps/Bb-mobile-bb_bb60/)

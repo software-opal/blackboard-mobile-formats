@@ -1,0 +1,1 @@
+ - Butler University(`client_id=64`) => [`https://blackboard.butler.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.butler.edu/webapps/Bb-mobile-bb_bb60/)

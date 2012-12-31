@@ -1,0 +1,1 @@
+ - Moravian College(`client_id=615`) => [`http://blackboard.moravian.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.moravian.edu/webapps/Bb-mobile-bb_bb60/)

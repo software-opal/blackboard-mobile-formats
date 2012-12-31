@@ -1,0 +1,1 @@
+ - United States Merchant Marine Academy(`client_id=340`) => [`https://blackboard.usmma.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.usmma.edu/webapps/Bb-mobile-bb_bb60/)

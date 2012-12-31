@@ -1,0 +1,1 @@
+ - Lawrence Technological University(`client_id=560`) => [`https://my.ltu.edu/webapps/Bb-mobile-BBLEARN/`](https://my.ltu.edu/webapps/Bb-mobile-BBLEARN/)

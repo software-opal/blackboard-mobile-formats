@@ -1,0 +1,1 @@
+ - University of Kansas(`client_id=85`) => [`https://courseware.ku.edu/webapps/Bb-mobile-bb_bb60/`](https://courseware.ku.edu/webapps/Bb-mobile-bb_bb60/)

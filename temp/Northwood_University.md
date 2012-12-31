@@ -1,0 +1,1 @@
+ - Northwood University(`client_id=1682`) => [`https://my.northwood.edu/webapps/Bb-mobile-bb_bb60/`](https://my.northwood.edu/webapps/Bb-mobile-bb_bb60/)

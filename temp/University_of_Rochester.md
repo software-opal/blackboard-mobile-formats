@@ -1,0 +1,1 @@
+ - University of Rochester(`client_id=941`) => [`https://my.rochester.edu/webapps/Bb-mobile-bb_bb60/`](https://my.rochester.edu/webapps/Bb-mobile-bb_bb60/)

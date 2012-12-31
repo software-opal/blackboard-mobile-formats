@@ -1,0 +1,1 @@
+ - Morgan State Blackboard(`client_id=1101`) => [`https://morgan.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://morgan.blackboard.com/webapps/Bb-mobile-bb_bb60/)

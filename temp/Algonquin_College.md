@@ -1,0 +1,1 @@
+ - Algonquin College(`client_id=328`) => [`http://blackboard.algonquincollege.com/webapps/Bb-mobile-bb_bb60/`](http://blackboard.algonquincollege.com/webapps/Bb-mobile-bb_bb60/)

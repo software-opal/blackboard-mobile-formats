@@ -1,0 +1,1 @@
+ - Des Moines Area Community College(`client_id=1600`) => [`https://dmacc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://dmacc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

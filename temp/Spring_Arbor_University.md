@@ -1,0 +1,1 @@
+ - Spring Arbor University(`client_id=1176`) => [`https://sauonline.arbor.edu/webapps/Bb-mobile-bb_bb60/`](https://sauonline.arbor.edu/webapps/Bb-mobile-bb_bb60/)

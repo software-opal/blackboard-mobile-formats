@@ -1,0 +1,1 @@
+ - Niagara College Canada(`client_id=1187`) => [`https://niagara.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://niagara.blackboard.com/webapps/Bb-mobile-bb_bb60/)

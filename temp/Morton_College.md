@@ -1,0 +1,1 @@
+ - Morton College(`client_id=1704`) => [`http://blackboard.morton.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.morton.edu/webapps/Bb-mobile-BBLEARN/)

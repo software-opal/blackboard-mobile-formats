@@ -1,0 +1,1 @@
+ - Methodist University(`client_id=78`) => [`http://muonline.methodist.edu/webapps/Bb-mobile-bb_bb60/`](http://muonline.methodist.edu/webapps/Bb-mobile-bb_bb60/)

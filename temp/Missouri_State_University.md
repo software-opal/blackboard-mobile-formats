@@ -1,0 +1,1 @@
+ - Missouri State University(`client_id=23`) => [`https://blackboard.missouristate.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.missouristate.edu/webapps/Bb-mobile-BBLEARN/)

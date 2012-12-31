@@ -1,0 +1,1 @@
+ - Loyola University Chicago(`client_id=796`) => [`https://blackboard.luc.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.luc.edu/webapps/Bb-mobile-bb_bb60/)

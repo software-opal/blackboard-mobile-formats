@@ -1,0 +1,1 @@
+ - Richard Stockton College of NJ(`client_id=1446`) => [`https://bbweb.stockton.edu/webapps/Bb-mobile-BBLEARN/`](https://bbweb.stockton.edu/webapps/Bb-mobile-BBLEARN/)

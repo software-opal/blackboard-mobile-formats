@@ -1,0 +1,1 @@
+ - Cabrini College(`client_id=352`) => [`https://cabrini.dcollege.net/webapps/Bb-mobile-BBCABRIN/`](https://cabrini.dcollege.net/webapps/Bb-mobile-BBCABRIN/)

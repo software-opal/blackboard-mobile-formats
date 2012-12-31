@@ -1,0 +1,1 @@
+ - Concordia University - Illinois(`client_id=332`) => [`http://bb9.cuchicago.edu/webapps/Bb-mobile-bb_bb60/`](http://bb9.cuchicago.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Strayer University(`client_id=209`) => [`https://blackboard.strayer.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.strayer.edu/webapps/Bb-mobile-bb_bb60/)

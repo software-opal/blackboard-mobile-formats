@@ -1,0 +1,1 @@
+ - Baptist Theological Seminary at Richmond(`client_id=1315`) => [`http://blackboard.btsr.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.btsr.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Air Force Institute of Technology/Air University(`client_id=1146`) => [`https://au.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://au.blackboard.com/webapps/Bb-mobile-bb_bb60/)

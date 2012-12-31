@@ -1,0 +1,1 @@
+ - Northern Arizona University(`client_id=1248`) => [`https://bblearn.nau.edu/webapps/Bb-mobile-BBLEARN/`](https://bblearn.nau.edu/webapps/Bb-mobile-BBLEARN/)

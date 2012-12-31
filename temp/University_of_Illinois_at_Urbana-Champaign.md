@@ -1,0 +1,1 @@
+ - University of Illinois at Urbana-Champaign(`client_id=262`) => [`https://compass2g.illinois.edu/webapps/Bb-mobile-BBLEARN/`](https://compass2g.illinois.edu/webapps/Bb-mobile-BBLEARN/)

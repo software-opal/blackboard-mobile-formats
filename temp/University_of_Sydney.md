@@ -1,0 +1,1 @@
+ - University of Sydney(`client_id=1466`) => [`https://elearning.sydney.edu.au/webapps/Bb-mobile-BBPRD/`](https://elearning.sydney.edu.au/webapps/Bb-mobile-BBPRD/)

@@ -1,0 +1,1 @@
+ - Northeastern State University(`client_id=1358`) => [`https://bb.nsuok.edu/webapps/Bb-mobile-BBLEARN/`](https://bb.nsuok.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - University of Toledo(`client_id=1268`) => [`https://blackboard.utdl.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.utdl.edu/webapps/Bb-mobile-BBLEARN/)

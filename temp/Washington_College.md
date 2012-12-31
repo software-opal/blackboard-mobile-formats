@@ -1,0 +1,1 @@
+ - Washington College(`client_id=310`) => [`https://blackboard.washcoll.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.washcoll.edu/webapps/Bb-mobile-bb_bb60/)

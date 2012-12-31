@@ -1,0 +1,1 @@
+ - Wheaton College(`client_id=932`) => [`http://bbweb1.wheaton.edu/webapps/Bb-mobile-BBLEARN/`](http://bbweb1.wheaton.edu/webapps/Bb-mobile-BBLEARN/)

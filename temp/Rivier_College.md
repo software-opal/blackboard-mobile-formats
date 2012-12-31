@@ -1,0 +1,1 @@
+ - Rivier College(`client_id=1019`) => [`https://blackboard.rivier.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.rivier.edu/webapps/Bb-mobile-bb_bb60/)

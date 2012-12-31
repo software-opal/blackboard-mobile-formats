@@ -1,0 +1,1 @@
+ - University of Dallas(`client_id=840`) => [`http://blackboard2.udallas.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard2.udallas.edu/webapps/Bb-mobile-BBLEARN/)

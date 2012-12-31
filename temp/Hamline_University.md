@@ -1,0 +1,1 @@
+ - Hamline University(`client_id=914`) => [`http://hamline.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://hamline.blackboard.com/webapps/Bb-mobile-BBLEARN/)

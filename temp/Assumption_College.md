@@ -1,0 +1,1 @@
+ - Assumption College(`client_id=991`) => [`https://blackboard.assumption.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.assumption.edu/webapps/Bb-mobile-BBLEARN/)

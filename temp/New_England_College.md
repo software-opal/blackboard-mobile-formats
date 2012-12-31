@@ -1,0 +1,1 @@
+ - New England College(`client_id=864`) => [`http://nec.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://nec.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Western University of Health Sciences(`client_id=260`) => [`https://bb.westernu.edu/webapps/Bb-mobile-BBLEARN/`](https://bb.westernu.edu/webapps/Bb-mobile-BBLEARN/)

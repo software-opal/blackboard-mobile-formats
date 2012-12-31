@@ -1,0 +1,1 @@
+ - Baker College(`client_id=527`) => [`https://ol.baker.edu/webapps/Bb-mobile-bb_bb60/`](https://ol.baker.edu/webapps/Bb-mobile-bb_bb60/)

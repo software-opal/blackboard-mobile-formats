@@ -1,0 +1,1 @@
+ - Case Western Reserve University(`client_id=431`) => [`https://blackboard.case.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.case.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Allan Hancock College(`client_id=371`) => [`https://hancockcollege.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://hancockcollege.blackboard.com/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - South Arkansas Community College(`client_id=1379`) => [`http://blackboard.southark.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.southark.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Huddersfield New College(`client_id=834`) => [`http://huddnewcoll.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://huddnewcoll.blackboard.com/webapps/Bb-mobile-BBLEARN/)

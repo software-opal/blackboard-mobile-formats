@@ -1,0 +1,1 @@
+ - Clatsop Community College(`client_id=1558`) => [`https://bb4.clatsopcc.edu/webapps/Bb-mobile-bb_bb60/`](https://bb4.clatsopcc.edu/webapps/Bb-mobile-bb_bb60/)

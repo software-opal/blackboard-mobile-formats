@@ -1,0 +1,1 @@
+ - Mount Royal University(`client_id=473`) => [`https://courseware.mymru.ca/webapps/Bb-mobile-bb_bb60/`](https://courseware.mymru.ca/webapps/Bb-mobile-bb_bb60/)

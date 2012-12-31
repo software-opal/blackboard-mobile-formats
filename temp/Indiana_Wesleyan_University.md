@@ -1,0 +1,1 @@
+ - Indiana Wesleyan University(`client_id=901`) => [`https://indwes.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://indwes.blackboard.com/webapps/Bb-mobile-bb_bb60/)

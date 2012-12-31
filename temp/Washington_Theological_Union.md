@@ -1,0 +1,1 @@
+ - Washington Theological Union(`client_id=907`) => [`http://blackboard.wtu.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.wtu.edu/webapps/Bb-mobile-bb_bb60/)

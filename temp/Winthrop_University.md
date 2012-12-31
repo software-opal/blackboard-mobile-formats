@@ -1,0 +1,1 @@
+ - Winthrop University(`client_id=1449`) => [`https://bb-winthrop.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://bb-winthrop.blackboard.com/webapps/Bb-mobile-BBLEARN/)

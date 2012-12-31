@@ -1,0 +1,1 @@
+ - University of San Francisco(`client_id=1125`) => [`https://blackboard9.usfca.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard9.usfca.edu/webapps/Bb-mobile-BBLEARN/)

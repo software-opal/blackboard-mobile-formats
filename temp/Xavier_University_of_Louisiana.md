@@ -1,0 +1,1 @@
+ - Xavier University of Louisiana(`client_id=750`) => [`https://blackboard.xula.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.xula.edu/webapps/Bb-mobile-BBLEARN/)

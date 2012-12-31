@@ -1,0 +1,1 @@
+ - Vincennes University(`client_id=487`) => [`http://bb01.vinu.edu/webapps/Bb-mobile-BBLEARN/`](http://bb01.vinu.edu/webapps/Bb-mobile-BBLEARN/)

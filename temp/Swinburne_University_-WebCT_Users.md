@@ -1,0 +1,1 @@
+ - Swinburne University -WebCT Users(`client_id=240`) => [`http://webct.swin.edu.au/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:8ecadf69-88ba-0144-00a2-423c3085cbdd/populateMyWebCT.dowebct/`](http://webct.swin.edu.au/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:8ecadf69-88ba-0144-00a2-423c3085cbdd/populateMyWebCT.dowebct/)

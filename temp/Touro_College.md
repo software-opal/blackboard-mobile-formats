@@ -1,0 +1,1 @@
+ - Touro College(`client_id=45`) => [`https://bb-tc.touro.edu/webapps/Bb-mobile-bb_bb60/`](https://bb-tc.touro.edu/webapps/Bb-mobile-bb_bb60/)

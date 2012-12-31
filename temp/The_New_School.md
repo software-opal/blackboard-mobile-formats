@@ -1,0 +1,1 @@
+ - The New School(`client_id=892`) => [`http://blackboard.newschool.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.newschool.edu/webapps/Bb-mobile-bb_bb60/)

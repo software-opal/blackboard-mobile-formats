@@ -1,0 +1,1 @@
+ - Livingstone College(`client_id=672`) => [`https://courseinfo.livingstone.edu/webapps/Bb-mobile-bb_bb60/`](https://courseinfo.livingstone.edu/webapps/Bb-mobile-bb_bb60/)

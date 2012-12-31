@@ -1,0 +1,1 @@
+ - St. Mary's College of Maryland(`client_id=451`) => [`http://smcm.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://smcm.blackboard.com/webapps/Bb-mobile-BBLEARN/)

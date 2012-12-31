@@ -1,0 +1,1 @@
+ - Kingston University(`client_id=199`) => [`https://studyspace.kingston.ac.uk/webapps/Bb-mobile-bb_bb60/`](https://studyspace.kingston.ac.uk/webapps/Bb-mobile-bb_bb60/)

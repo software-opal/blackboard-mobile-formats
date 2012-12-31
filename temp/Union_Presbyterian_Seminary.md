@@ -1,0 +1,1 @@
+ - Union Presbyterian Seminary(`client_id=535`) => [`http://union-psce.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://union-psce.blackboard.com/webapps/Bb-mobile-bb_bb60/)

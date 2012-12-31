@@ -1,0 +1,1 @@
+ - Gogebic Community College(`client_id=1155`) => [`http://blackboard.gogebic.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.gogebic.edu/webapps/Bb-mobile-bb_bb60/)

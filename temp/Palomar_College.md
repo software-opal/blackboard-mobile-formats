@@ -1,0 +1,1 @@
+ - Palomar College(`client_id=567`) => [`https://learn.palomar.edu/webapps/Bb-mobile-BBLEARN/`](https://learn.palomar.edu/webapps/Bb-mobile-BBLEARN/)

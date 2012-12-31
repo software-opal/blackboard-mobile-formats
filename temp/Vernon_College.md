@@ -1,0 +1,1 @@
+ - Vernon College(`client_id=1480`) => [`https://vernoncollege.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://vernoncollege.blackboard.com/webapps/Bb-mobile-BBLEARN/)

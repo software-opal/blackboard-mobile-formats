@@ -1,0 +1,1 @@
+ - SUNY Upstate Medical University(`client_id=1298`) => [`http://bb.upstate.edu/webapps/Bb-mobile-BB/`](http://bb.upstate.edu/webapps/Bb-mobile-BB/)

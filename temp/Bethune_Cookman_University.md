@@ -1,0 +1,1 @@
+ - Bethune Cookman University(`client_id=1627`) => [`http://elearning.cookman.edu/webapps/Bb-mobile-bb_bb60/`](http://elearning.cookman.edu/webapps/Bb-mobile-bb_bb60/)

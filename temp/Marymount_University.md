@@ -1,0 +1,1 @@
+ - Marymount University(`client_id=76`) => [`http://austin.marymount.edu/webapps/Bb-mobile-bb_bb60/`](http://austin.marymount.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Sistema Universitario Ana G. Mendez(`client_id=974`) => [`http://ecampus.suagm.edu/webapps/Bb-mobile-bb_bb60/`](http://ecampus.suagm.edu/webapps/Bb-mobile-bb_bb60/)

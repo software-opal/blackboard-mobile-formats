@@ -1,0 +1,1 @@
+ - Campbell University(`client_id=937`) => [`https://blackboard.campbell.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.campbell.edu/webapps/Bb-mobile-BBLEARN/)

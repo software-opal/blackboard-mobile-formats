@@ -1,0 +1,1 @@
+ - Fisher College(`client_id=528`) => [`http://fisher.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://fisher.blackboard.com/webapps/Bb-mobile-bb_bb60/)

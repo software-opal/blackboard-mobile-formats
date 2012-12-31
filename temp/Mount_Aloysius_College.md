@@ -1,0 +1,1 @@
+ - Mount Aloysius College(`client_id=812`) => [`http://blackboard.mtaloy.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.mtaloy.edu/webapps/Bb-mobile-bb_bb60/)

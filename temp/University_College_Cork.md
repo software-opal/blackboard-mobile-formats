@@ -1,0 +1,1 @@
+ - University College Cork(`client_id=1100`) => [`https://blackboard.ucc.ie/webapps/Bb-mobile-bb_bb60/`](https://blackboard.ucc.ie/webapps/Bb-mobile-bb_bb60/)

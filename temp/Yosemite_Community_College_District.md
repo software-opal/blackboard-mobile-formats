@@ -1,0 +1,1 @@
+ - Yosemite Community College District(`client_id=1455`) => [`https://yccd.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://yccd.blackboard.com/webapps/Bb-mobile-bb_bb60/)

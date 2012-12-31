@@ -1,0 +1,1 @@
+ - Inter American Univ of Puerto Rico(`client_id=1791`) => [`https://interbb.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://interbb.blackboard.com/webapps/Bb-mobile-BBLEARN/)

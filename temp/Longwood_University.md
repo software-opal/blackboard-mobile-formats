@@ -1,0 +1,1 @@
+ - Longwood University(`client_id=481`) => [`http://blackboard.longwood.edu/webapps/Bb-mobile-BBD9PROD/`](http://blackboard.longwood.edu/webapps/Bb-mobile-BBD9PROD/)

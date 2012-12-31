@@ -1,0 +1,1 @@
+ - Mid-State Technical College(`client_id=915`) => [`https://mstc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://mstc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

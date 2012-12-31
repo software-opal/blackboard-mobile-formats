@@ -1,0 +1,1 @@
+ - ASU - Arizona State University(`client_id=747`) => [`https://myasucourses.asu.edu/webapps/Bb-mobile-bb_bb60/`](https://myasucourses.asu.edu/webapps/Bb-mobile-bb_bb60/)

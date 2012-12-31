@@ -1,0 +1,1 @@
+ - Wake Technical Community College(`client_id=518`) => [`https://dist-ed.waketech.edu/webapps/Bb-mobile-bb_bb60/`](https://dist-ed.waketech.edu/webapps/Bb-mobile-bb_bb60/)

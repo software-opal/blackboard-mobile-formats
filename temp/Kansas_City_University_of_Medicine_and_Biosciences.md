@@ -1,0 +1,1 @@
+ - Kansas City University of Medicine and Biosciences(`client_id=605`) => [`https://blackboard.kcumb.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.kcumb.edu/webapps/Bb-mobile-bb_bb60/)

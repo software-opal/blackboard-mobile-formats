@@ -1,0 +1,1 @@
+ - Meharry Medical College(`client_id=687`) => [`http://blackboard.mmc.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.mmc.edu/webapps/Bb-mobile-bb_bb60/)

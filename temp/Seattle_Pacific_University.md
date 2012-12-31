@@ -1,0 +1,1 @@
+ - Seattle Pacific University(`client_id=471`) => [`http://bbweb-prod.spu.edu/webapps/Bb-mobile-bb_bb60/`](http://bbweb-prod.spu.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Hanzehogeschool University of Applied Sciences(`client_id=110`) => [`https://bb.helo.hanze.nl/webapps/Bb-mobile-bb_bb60/`](https://bb.helo.hanze.nl/webapps/Bb-mobile-bb_bb60/)

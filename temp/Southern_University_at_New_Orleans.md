@@ -1,0 +1,1 @@
+ - Southern University at New Orleans(`client_id=155`) => [`http://suno.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://suno.blackboard.com/webapps/Bb-mobile-bb_bb60/)

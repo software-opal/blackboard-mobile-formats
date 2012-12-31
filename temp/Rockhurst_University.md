@@ -1,0 +1,1 @@
+ - Rockhurst University(`client_id=1417`) => [`http://courses.rockhurst.edu/webapps/Bb-mobile-BBLEARN/`](http://courses.rockhurst.edu/webapps/Bb-mobile-BBLEARN/)

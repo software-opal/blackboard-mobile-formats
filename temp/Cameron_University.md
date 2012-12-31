@@ -1,0 +1,1 @@
+ - Cameron University(`client_id=624`) => [`http://cameron.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://cameron.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Gonzaga(`client_id=983`) => [`https://learn.gonzaga.edu/webapps/Bb-mobile-bb_bb60/`](https://learn.gonzaga.edu/webapps/Bb-mobile-bb_bb60/)

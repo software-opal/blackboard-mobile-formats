@@ -1,0 +1,1 @@
+ - Hofstra Blackboard(`client_id=717`) => [`https://hofstra.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://hofstra.blackboard.com/webapps/Bb-mobile-bb_bb60/)

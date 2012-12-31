@@ -1,0 +1,1 @@
+ - Paris Junior College(`client_id=1655`) => [`https://parisjc.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://parisjc.blackboard.com/webapps/Bb-mobile-BBLEARN/)

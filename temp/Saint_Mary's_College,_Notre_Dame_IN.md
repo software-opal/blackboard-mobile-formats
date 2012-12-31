@@ -1,0 +1,1 @@
+ - Saint Mary's College, Notre Dame IN(`client_id=51`) => [`https://bb.saintmarys.edu/webapps/Bb-mobile-bb_bb60/`](https://bb.saintmarys.edu/webapps/Bb-mobile-bb_bb60/)

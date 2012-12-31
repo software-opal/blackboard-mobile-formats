@@ -1,0 +1,1 @@
+ - Samuel Merritt University(`client_id=628`) => [`https://samuelmerritt.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://samuelmerritt.blackboard.com/webapps/Bb-mobile-bb_bb60/)

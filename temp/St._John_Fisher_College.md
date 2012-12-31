@@ -1,0 +1,1 @@
+ - St. John Fisher College(`client_id=566`) => [`https://blackboard.sjfc.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.sjfc.edu/webapps/Bb-mobile-BBLEARN/)

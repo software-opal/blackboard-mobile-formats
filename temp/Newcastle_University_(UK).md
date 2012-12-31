@@ -1,0 +1,1 @@
+ - Newcastle University (UK)(`client_id=1213`) => [`https://blackboard.ncl.ac.uk/webapps/Bb-mobile-BBLEARN/`](https://blackboard.ncl.ac.uk/webapps/Bb-mobile-BBLEARN/)

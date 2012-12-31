@@ -1,0 +1,1 @@
+ - Nipissing University(`client_id=1489`) => [`https://learn.nipissingu.ca/webapps/Bb-mobile-BBLEARN/`](https://learn.nipissingu.ca/webapps/Bb-mobile-BBLEARN/)

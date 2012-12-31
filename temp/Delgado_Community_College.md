@@ -1,0 +1,1 @@
+ - Delgado Community College(`client_id=195`) => [`https://dcc.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://dcc.blackboard.com/webapps/Bb-mobile-BBLEARN/)

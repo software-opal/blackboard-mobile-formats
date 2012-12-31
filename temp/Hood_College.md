@@ -1,0 +1,1 @@
+ - Hood College(`client_id=544`) => [`http://blackboard.hood.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.hood.edu/webapps/Bb-mobile-BBLEARN/)

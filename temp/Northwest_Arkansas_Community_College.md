@@ -1,0 +1,1 @@
+ - Northwest Arkansas Community College(`client_id=1695`) => [`https://nwacc-bb9.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://nwacc-bb9.blackboard.com/webapps/Bb-mobile-BBLEARN/)

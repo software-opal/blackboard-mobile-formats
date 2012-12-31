@@ -1,0 +1,1 @@
+ - Towson University(`client_id=230`) => [`https://bbweb.towson.edu/webapps/Bb-mobile-bb_bb60/`](https://bbweb.towson.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Florida State College at Jacksonville(`client_id=642`) => [`https://bb.fscj.edu/webapps/Bb-mobile-BBLEARN/`](https://bb.fscj.edu/webapps/Bb-mobile-BBLEARN/)

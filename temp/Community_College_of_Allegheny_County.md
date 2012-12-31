@@ -1,0 +1,1 @@
+ - Community College of Allegheny County(`client_id=489`) => [`https://courses.ccac.edu/webapps/Bb-mobile-BBLEARN/`](https://courses.ccac.edu/webapps/Bb-mobile-BBLEARN/)

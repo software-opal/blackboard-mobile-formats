@@ -1,0 +1,1 @@
+ - Liberty University(`client_id=302`) => [`http://bb7.liberty.edu/webapps/Bb-mobile-bb_bb60/`](http://bb7.liberty.edu/webapps/Bb-mobile-bb_bb60/)

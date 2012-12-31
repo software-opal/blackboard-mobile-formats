@@ -1,0 +1,1 @@
+ - Gaston College(`client_id=507`) => [`https://gcvlc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://gcvlc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

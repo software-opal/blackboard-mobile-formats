@@ -1,0 +1,1 @@
+ - Seneca College(`client_id=506`) => [`https://my.senecacollege.ca/webapps/Bb-mobile-bb_bb60/`](https://my.senecacollege.ca/webapps/Bb-mobile-bb_bb60/)

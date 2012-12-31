@@ -1,0 +1,1 @@
+ - University of the Sunshine Coast(`client_id=679`) => [`https://online.usc.edu.au/webapps/Bb-mobile-bb_bb60/`](https://online.usc.edu.au/webapps/Bb-mobile-bb_bb60/)

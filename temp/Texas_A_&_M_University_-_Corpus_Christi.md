@@ -1,0 +1,1 @@
+ - Texas A & M University - Corpus Christi(`client_id=1364`) => [`https://bb9.tamucc.edu/webapps/Bb-mobile-BBLEARN/`](https://bb9.tamucc.edu/webapps/Bb-mobile-BBLEARN/)

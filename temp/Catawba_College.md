@@ -1,0 +1,1 @@
+ - Catawba College(`client_id=573`) => [`https://blackboard.catawba.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.catawba.edu/webapps/Bb-mobile-bb_bb60/)

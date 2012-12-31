@@ -1,0 +1,1 @@
+ - Universiteit Antwerpen(`client_id=842`) => [`https://blackboard.ua.ac.be/webapps/Bb-mobile-bb_bb60/`](https://blackboard.ua.ac.be/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Clemson University(`client_id=1234`) => [`https://bb.clemson.edu/webapps/Bb-mobile-bb_bb60/`](https://bb.clemson.edu/webapps/Bb-mobile-bb_bb60/)

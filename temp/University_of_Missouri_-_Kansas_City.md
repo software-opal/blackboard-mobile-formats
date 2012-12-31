@@ -1,0 +1,1 @@
+ - University of Missouri - Kansas City(`client_id=942`) => [`https://blackboard.umkc.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.umkc.edu/webapps/Bb-mobile-bb_bb60/)

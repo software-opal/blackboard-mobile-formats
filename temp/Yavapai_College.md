@@ -1,0 +1,1 @@
+ - Yavapai College(`client_id=751`) => [`https://blackboard.yc.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.yc.edu/webapps/Bb-mobile-BBLEARN/)

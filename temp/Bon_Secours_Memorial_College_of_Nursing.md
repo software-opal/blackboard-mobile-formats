@@ -1,0 +1,1 @@
+ - Bon Secours Memorial College of Nursing(`client_id=863`) => [`https://bsmcon.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://bsmcon.blackboard.com/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Antelope Valley College(`client_id=1638`) => [`https://avc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://avc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

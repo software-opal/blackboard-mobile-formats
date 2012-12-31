@@ -1,0 +1,1 @@
+ - University of New Hampshire(`client_id=583`) => [`https://blackboard.unh.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.unh.edu/webapps/Bb-mobile-bb_bb60/)

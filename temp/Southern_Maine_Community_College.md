@@ -1,0 +1,1 @@
+ - Southern Maine Community College(`client_id=1382`) => [`https://blackboard.smccme.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.smccme.edu/webapps/Bb-mobile-BBLEARN/)

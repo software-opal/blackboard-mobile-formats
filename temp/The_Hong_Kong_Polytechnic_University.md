@@ -1,0 +1,1 @@
+ - The Hong Kong Polytechnic University(`client_id=1802`) => [`http://learn.polyu.edu.hk/webapps/Bb-mobile-BBLEARN/`](http://learn.polyu.edu.hk/webapps/Bb-mobile-BBLEARN/)

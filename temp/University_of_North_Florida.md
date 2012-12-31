@@ -1,0 +1,1 @@
+ - University of North Florida(`client_id=496`) => [`https://blackboard.unf.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.unf.edu/webapps/Bb-mobile-bb_bb60/)

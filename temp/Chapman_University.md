@@ -1,0 +1,1 @@
+ - Chapman University(`client_id=401`) => [`https://blackboard.chapman.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.chapman.edu/webapps/Bb-mobile-BBLEARN/)

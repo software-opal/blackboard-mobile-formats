@@ -1,0 +1,1 @@
+ - Atlantic Cape Community College(`client_id=1612`) => [`https://atlanticbb9.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://atlanticbb9.blackboard.com/webapps/Bb-mobile-BBLEARN/)

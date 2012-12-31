@@ -1,0 +1,1 @@
+ - Allegany College of Maryland(`client_id=952`) => [`http://blackboard.allegany.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.allegany.edu/webapps/Bb-mobile-bb_bb60/)

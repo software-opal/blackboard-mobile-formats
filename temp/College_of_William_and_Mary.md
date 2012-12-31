@@ -1,0 +1,1 @@
+ - College of William and Mary(`client_id=484`) => [`https://blackboard.wm.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.wm.edu/webapps/Bb-mobile-BBLEARN/)

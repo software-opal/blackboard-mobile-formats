@@ -1,0 +1,1 @@
+ - Eastern Gateway Community College(`client_id=1794`) => [`http://jcc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://jcc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

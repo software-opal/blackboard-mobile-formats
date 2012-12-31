@@ -1,0 +1,1 @@
+ - Saint Vincent College(`client_id=982`) => [`https://stvincent.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://stvincent.blackboard.com/webapps/Bb-mobile-bb_bb60/)

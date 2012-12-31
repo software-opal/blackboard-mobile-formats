@@ -1,0 +1,1 @@
+ - Berkeley College(`client_id=997`) => [`https://my.berkeleycollege.edu/webapps/Bb-mobile-bb_bb60/`](https://my.berkeleycollege.edu/webapps/Bb-mobile-bb_bb60/)

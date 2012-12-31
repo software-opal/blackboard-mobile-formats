@@ -1,0 +1,1 @@
+ - Temasek Polytechnic(`client_id=531`) => [`https://lms.tp.edu.sg/webapps/Bb-mobile-bb_bb60/`](https://lms.tp.edu.sg/webapps/Bb-mobile-bb_bb60/)

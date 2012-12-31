@@ -1,0 +1,1 @@
+ - Mercer University(`client_id=1246`) => [`http://bb-mercer.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://bb-mercer.blackboard.com/webapps/Bb-mobile-BBLEARN/)

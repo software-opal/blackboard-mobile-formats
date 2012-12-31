@@ -1,0 +1,1 @@
+ - Babson College(`client_id=1104`) => [`https://blackboard.babson.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.babson.edu/webapps/Bb-mobile-bb_bb60/)

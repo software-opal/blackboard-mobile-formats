@@ -1,0 +1,1 @@
+ - Benedictine College(`client_id=1083`) => [`http://bcblackboard.benedictine.edu/webapps/Bb-mobile-BBLEARN/`](http://bcblackboard.benedictine.edu/webapps/Bb-mobile-BBLEARN/)

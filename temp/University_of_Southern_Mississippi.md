@@ -1,0 +1,1 @@
+ - University of Southern Mississippi(`client_id=1467`) => [`https://usm.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://usm.blackboard.com/webapps/Bb-mobile-BBLEARN/)

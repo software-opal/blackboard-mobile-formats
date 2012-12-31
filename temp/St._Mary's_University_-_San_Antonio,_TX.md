@@ -1,0 +1,1 @@
+ - St. Mary's University - San Antonio, TX(`client_id=296`) => [`https://bb9.stmarytx.edu/webapps/Bb-mobile-bb_bb60/`](https://bb9.stmarytx.edu/webapps/Bb-mobile-bb_bb60/)

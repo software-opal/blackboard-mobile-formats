@@ -1,0 +1,1 @@
+ - Mississippi University for Women(`client_id=1720`) => [`https://muw.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://muw.blackboard.com/webapps/Bb-mobile-BBLEARN/)

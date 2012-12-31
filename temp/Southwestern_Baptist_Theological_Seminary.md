@@ -1,0 +1,1 @@
+ - Southwestern Baptist Theological Seminary(`client_id=521`) => [`https://blackboard.swbts.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.swbts.edu/webapps/Bb-mobile-bb_bb60/)

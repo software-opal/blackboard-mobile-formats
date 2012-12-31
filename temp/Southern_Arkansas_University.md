@@ -1,0 +1,1 @@
+ - Southern Arkansas University(`client_id=1006`) => [`http://blackboard.saumag.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.saumag.edu/webapps/Bb-mobile-BBLEARN/)

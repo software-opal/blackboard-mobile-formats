@@ -1,0 +1,1 @@
+ - Hardin-Simmons University(`client_id=446`) => [`https://hsubb.hsutx.edu/webapps/Bb-mobile-bb_bb60/`](https://hsubb.hsutx.edu/webapps/Bb-mobile-bb_bb60/)

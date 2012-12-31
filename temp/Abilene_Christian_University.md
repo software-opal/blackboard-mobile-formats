@@ -1,0 +1,1 @@
+ - Abilene Christian University(`client_id=1348`) => [`http://courses.acu.edu/webapps/Bb-mobile-bb_bb60/`](http://courses.acu.edu/webapps/Bb-mobile-bb_bb60/)

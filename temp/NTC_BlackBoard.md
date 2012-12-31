@@ -1,0 +1,1 @@
+ - NTC BlackBoard(`client_id=956`) => [`https://elearn.ntc.edu/webapps/Bb-mobile-BBLEARN/`](https://elearn.ntc.edu/webapps/Bb-mobile-BBLEARN/)

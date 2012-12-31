@@ -1,0 +1,1 @@
+ - NHL Hogeschool(`client_id=1183`) => [`http://elo.nhl.nl/webapps/Bb-mobile-bb_bb60/`](http://elo.nhl.nl/webapps/Bb-mobile-bb_bb60/)

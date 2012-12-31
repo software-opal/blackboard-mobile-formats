@@ -1,0 +1,1 @@
+ - Owens Community College(`client_id=686`) => [`http://bbowens.msbb.uc.edu/webapps/Bb-mobile-bb_bb60/`](http://bbowens.msbb.uc.edu/webapps/Bb-mobile-bb_bb60/)

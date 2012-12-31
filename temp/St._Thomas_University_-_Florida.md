@@ -1,0 +1,1 @@
+ - St. Thomas University - Florida(`client_id=208`) => [`https://blackboard.stu.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.stu.edu/webapps/Bb-mobile-bb_bb60/)

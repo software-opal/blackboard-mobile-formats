@@ -1,0 +1,1 @@
+ - Lake Michigan College(`client_id=977`) => [`https://blackboard.lakemichigancollege.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.lakemichigancollege.edu/webapps/Bb-mobile-BBLEARN/)

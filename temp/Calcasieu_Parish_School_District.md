@@ -1,0 +1,1 @@
+ - Calcasieu Parish School District(`client_id=1076`) => [`http://blackboard.cpsb.org/webapps/Bb-mobile-bb_bb60/`](http://blackboard.cpsb.org/webapps/Bb-mobile-bb_bb60/)

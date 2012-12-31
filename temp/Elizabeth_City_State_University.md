@@ -1,0 +1,1 @@
+ - Elizabeth City State University(`client_id=437`) => [`http://ecsu.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://ecsu.blackboard.com/webapps/Bb-mobile-bb_bb60/)

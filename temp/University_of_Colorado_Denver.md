@@ -1,0 +1,1 @@
+ - University of Colorado Denver(`client_id=218`) => [`http://blackboard.cuonline.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.cuonline.edu/webapps/Bb-mobile-bb_bb60/)

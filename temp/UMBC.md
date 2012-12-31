@@ -1,0 +1,1 @@
+ - UMBC(`client_id=119`) => [`http://blackboard.umbc.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.umbc.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Ball State University(`client_id=97`) => [`https://blackboard.bsu.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.bsu.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Wilson Community College(`client_id=171`) => [`http://wilsoncc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://wilsoncc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

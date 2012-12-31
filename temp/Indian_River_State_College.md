@@ -1,0 +1,1 @@
+ - Indian River State College(`client_id=832`) => [`https://angel.irsc.edu/api/v7.4/mobile.svc/REST/`](https://angel.irsc.edu/api/v7.4/mobile.svc/REST/)

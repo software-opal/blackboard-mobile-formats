@@ -1,0 +1,1 @@
+ - Heartland Community College(`client_id=988`) => [`https://blackboard.heartland.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.heartland.edu/webapps/Bb-mobile-bb_bb60/)

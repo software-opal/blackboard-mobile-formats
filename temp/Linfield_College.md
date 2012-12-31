@@ -1,0 +1,1 @@
+ - Linfield College(`client_id=1755`) => [`https://bblearn.linfield.edu/webapps/Bb-mobile-BBLEARN/`](https://bblearn.linfield.edu/webapps/Bb-mobile-BBLEARN/)

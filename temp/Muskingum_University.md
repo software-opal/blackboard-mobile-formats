@@ -1,0 +1,1 @@
+ - Muskingum University(`client_id=893`) => [`http://courses.muskingum.edu/webapps/Bb-mobile-BBLEARN/`](http://courses.muskingum.edu/webapps/Bb-mobile-BBLEARN/)

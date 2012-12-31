@@ -1,0 +1,1 @@
+ - La Sierra University(`client_id=1776`) => [`https://blackboard.lasierra.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.lasierra.edu/webapps/Bb-mobile-BBLEARN/)

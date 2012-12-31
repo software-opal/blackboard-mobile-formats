@@ -1,0 +1,1 @@
+ - Genesee Intermediate School District(`client_id=1222`) => [`http://gennetbb.geneseeisd.org/webapps/Bb-mobile-bb_bb60/`](http://gennetbb.geneseeisd.org/webapps/Bb-mobile-bb_bb60/)

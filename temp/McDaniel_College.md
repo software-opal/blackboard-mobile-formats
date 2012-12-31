@@ -1,0 +1,1 @@
+ - McDaniel College(`client_id=1089`) => [`http://bb.mcdaniel.edu/webapps/Bb-mobile-BBLEARN/`](http://bb.mcdaniel.edu/webapps/Bb-mobile-BBLEARN/)

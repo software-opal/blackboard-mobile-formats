@@ -1,0 +1,1 @@
+ - Coast Community College District(`client_id=1565`) => [`https://bb9-cccd.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://bb9-cccd.blackboard.com/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - North Central College(`client_id=596`) => [`https://blackboard.noctrl.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.noctrl.edu/webapps/Bb-mobile-bb_bb60/)

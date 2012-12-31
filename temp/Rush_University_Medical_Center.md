@@ -1,0 +1,1 @@
+ - Rush University Medical Center(`client_id=1415`) => [`https://rush.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://rush.blackboard.com/webapps/Bb-mobile-bb_bb60/)

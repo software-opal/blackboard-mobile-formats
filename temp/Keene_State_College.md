@@ -1,0 +1,1 @@
+ - Keene State College(`client_id=353`) => [`http://keene.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://keene.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - University of Washington, Tacoma(`client_id=324`) => [`http://www.bb.tacoma.uw.edu/webapps/Bb-mobile-BBLEARN/`](http://www.bb.tacoma.uw.edu/webapps/Bb-mobile-BBLEARN/)

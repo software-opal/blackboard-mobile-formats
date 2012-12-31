@@ -1,0 +1,1 @@
+ - Savannah College of Art and Design(`client_id=570`) => [`https://elearning.scad.edu/webapps/Bb-mobile-BBLEARN/`](https://elearning.scad.edu/webapps/Bb-mobile-BBLEARN/)

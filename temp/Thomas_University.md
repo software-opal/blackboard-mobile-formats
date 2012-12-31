@@ -1,0 +1,1 @@
+ - Thomas University(`client_id=1351`) => [`http://bb.thomasu.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://bb.thomasu.blackboard.com/webapps/Bb-mobile-bb_bb60/)

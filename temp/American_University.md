@@ -1,0 +1,1 @@
+ - American University(`client_id=162`) => [`https://blackboard.american.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.american.edu/webapps/Bb-mobile-BBLEARN/)

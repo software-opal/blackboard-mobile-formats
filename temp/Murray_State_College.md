@@ -1,0 +1,1 @@
+ - Murray State College(`client_id=1069`) => [`http://nyx-ws.mscok.edu/webapps/Bb-mobile-bb_bb60/`](http://nyx-ws.mscok.edu/webapps/Bb-mobile-bb_bb60/)

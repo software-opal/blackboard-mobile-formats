@@ -1,0 +1,1 @@
+ - Olivet Nazarene University Blackboard(`client_id=649`) => [`https://blackboard.olivet.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.olivet.edu/webapps/Bb-mobile-bb_bb60/)

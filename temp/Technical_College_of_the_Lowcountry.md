@@ -1,0 +1,1 @@
+ - Technical College of the Lowcountry(`client_id=1365`) => [`http://tclbb.vmc3.com/webapps/Bb-mobile-bb_bb60/`](http://tclbb.vmc3.com/webapps/Bb-mobile-bb_bb60/)

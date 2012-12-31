@@ -1,0 +1,1 @@
+ - Frostburg State University(`client_id=931`) => [`https://blackboard.frostburg.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.frostburg.edu/webapps/Bb-mobile-bb_bb60/)

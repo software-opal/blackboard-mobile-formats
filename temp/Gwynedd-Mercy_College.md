@@ -1,0 +1,1 @@
+ - Gwynedd-Mercy College(`client_id=862`) => [`https://blackboard.gmc.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.gmc.edu/webapps/Bb-mobile-BBLEARN/)

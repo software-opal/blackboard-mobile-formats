@@ -1,0 +1,1 @@
+ - North Glasgow College(`client_id=768`) => [`https://north-gla.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://north-gla.blackboard.com/webapps/Bb-mobile-BBLEARN/)

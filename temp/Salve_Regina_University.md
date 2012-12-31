@@ -1,0 +1,1 @@
+ - Salve Regina University(`client_id=1432`) => [`http://mywebcourses.salve.edu/webapps/Bb-mobile-BBLEARN/`](http://mywebcourses.salve.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Adrian College(`client_id=1648`) => [`http://bb.adrian.edu/webapps/Bb-mobile-bb_bb60/`](http://bb.adrian.edu/webapps/Bb-mobile-bb_bb60/)

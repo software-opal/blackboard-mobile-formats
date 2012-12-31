@@ -1,0 +1,1 @@
+ - Stephens College(`client_id=540`) => [`https://stephens.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://stephens.blackboard.com/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Southwestern Community College, NC(`client_id=525`) => [`https://classroom.southwesterncc.edu/webapps/Bb-mobile-bb_bb60/`](https://classroom.southwesterncc.edu/webapps/Bb-mobile-bb_bb60/)

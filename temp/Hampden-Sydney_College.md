@@ -1,0 +1,1 @@
+ - Hampden-Sydney College(`client_id=561`) => [`http://blackboard.hsc.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.hsc.edu/webapps/Bb-mobile-BBLEARN/)

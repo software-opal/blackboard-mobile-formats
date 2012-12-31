@@ -1,0 +1,1 @@
+ - University of Detroit Mercy SSL(`client_id=447`) => [`https://knowledge.udmercy.edu/webapps/Bb-mobile-BBLEARN/`](https://knowledge.udmercy.edu/webapps/Bb-mobile-BBLEARN/)

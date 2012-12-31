@@ -1,0 +1,1 @@
+ - Grand Rapids Community College(`client_id=585`) => [`https://bb.grcc.edu/webapps/Bb-mobile-bb_bb60/`](https://bb.grcc.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Merrimack College(`client_id=767`) => [`https://blackboard.merrimack.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.merrimack.edu/webapps/Bb-mobile-bb_bb60/)

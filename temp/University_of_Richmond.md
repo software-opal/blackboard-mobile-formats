@@ -1,0 +1,1 @@
+ - University of Richmond(`client_id=228`) => [`http://blackboard.richmond.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.richmond.edu/webapps/Bb-mobile-bb_bb60/)

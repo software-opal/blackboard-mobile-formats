@@ -1,0 +1,1 @@
+ - Wichita State University(`client_id=472`) => [`https://blackboard.wichita.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.wichita.edu/webapps/Bb-mobile-BBLEARN/)

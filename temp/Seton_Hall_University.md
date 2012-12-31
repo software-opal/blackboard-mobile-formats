@@ -1,0 +1,1 @@
+ - Seton Hall University(`client_id=100`) => [`http://myweb.shu.edu/webapps/Bb-mobile-bb_bb60/`](http://myweb.shu.edu/webapps/Bb-mobile-bb_bb60/)

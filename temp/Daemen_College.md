@@ -1,0 +1,1 @@
+ - Daemen College(`client_id=456`) => [`https://learning.daemen.edu/webapps/Bb-mobile-bb_bb60/`](https://learning.daemen.edu/webapps/Bb-mobile-bb_bb60/)

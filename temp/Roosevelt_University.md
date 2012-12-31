@@ -1,0 +1,1 @@
+ - Roosevelt University(`client_id=1066`) => [`http://blackboard.roosevelt.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.roosevelt.edu/webapps/Bb-mobile-bb_bb60/)

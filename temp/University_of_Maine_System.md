@@ -1,0 +1,1 @@
+ - University of Maine System(`client_id=348`) => [`https://www.courses.maine.edu/webapps/Bb-mobile-bb_bb60/`](https://www.courses.maine.edu/webapps/Bb-mobile-bb_bb60/)

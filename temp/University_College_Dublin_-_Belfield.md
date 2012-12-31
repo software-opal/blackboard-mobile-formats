@@ -1,0 +1,1 @@
+ - University College Dublin - Belfield(`client_id=1098`) => [`http://elearning.ucd.ie/webapps/Bb-mobile-bb_bb60/`](http://elearning.ucd.ie/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Aiken Technical College(`client_id=1649`) => [`http://atc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://atc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

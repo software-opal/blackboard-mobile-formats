@@ -1,0 +1,1 @@
+ - University of Illinois at Springfield(`client_id=450`) => [`https://bb.uis.edu/webapps/Bb-mobile-BBLEARN/`](https://bb.uis.edu/webapps/Bb-mobile-BBLEARN/)

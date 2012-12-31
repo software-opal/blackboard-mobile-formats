@@ -1,0 +1,1 @@
+ - Framingham State University(`client_id=457`) => [`https://framingham.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://framingham.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Principia College(`client_id=1191`) => [`http://blackboard.principia.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.principia.edu/webapps/Bb-mobile-BBLEARN/)

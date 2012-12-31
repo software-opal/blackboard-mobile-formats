@@ -1,0 +1,1 @@
+ - Amarillo College(`client_id=1646`) => [`https://actx.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://actx.blackboard.com/webapps/Bb-mobile-BBLEARN/)

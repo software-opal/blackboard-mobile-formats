@@ -1,0 +1,1 @@
+ - University of Mississippi(`client_id=122`) => [`https://blackboard.olemiss.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.olemiss.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Northern Illinois University(`client_id=317`) => [`https://webcourses.niu.edu/webapps/Bb-mobile-bb_bb60/`](https://webcourses.niu.edu/webapps/Bb-mobile-bb_bb60/)

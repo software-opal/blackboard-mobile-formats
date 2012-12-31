@@ -1,0 +1,1 @@
+ - Northeast Texas Community College(`client_id=1694`) => [`https://ntcc-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://ntcc-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/)

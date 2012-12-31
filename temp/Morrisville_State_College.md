@@ -1,0 +1,1 @@
+ - Morrisville State College(`client_id=1371`) => [`https://blackboard.morrisville.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.morrisville.edu/webapps/Bb-mobile-bb_bb60/)

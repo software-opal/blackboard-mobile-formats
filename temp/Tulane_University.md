@@ -1,0 +1,1 @@
+ - Tulane University(`client_id=385`) => [`https://mytulane.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://mytulane.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -15009,3 +15009,1848 @@
 <euse>servicioalclientedti@uniandes.edu.co</euse>
 <euse_label>Servicio Al Cliente DTI</euse_label>
 </s>
+<s>
+<name>Universidad de Sevilla</name>
+<id>15215</id>
+<b2_url>http://cumulo1.us.es/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<from_people_soft>1</from_people_soft>
+<client_id>1542</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>301949</people_soft_institution_id>
+</s>
+<s>
+<name>Universidad Regiomontana (UR)</name>
+<id>8776</id>
+<b2_url>http://blackboard.ur.mx/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>User Name</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>1</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1544</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>301959</people_soft_institution_id>
+</s>
+<s>
+<name>Universidad Anahuac</name>
+<id>60</id>
+<b2_url>https://anahuac.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>Username</username_label>
+<force_web_login>https://anahuac.blackboard.com/webapps/Bb-mobile-bb_bb60/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1546</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>301966</people_soft_institution_id>
+<euse>jose.ruiz@anahuac.mx</euse>
+<euse_label>Soporte Blackboard Universidad AnÃ¡huac</euse_label>
+</s>
+<s>
+<name>Claflin University</name>
+<id>5696</id>
+<b2_url>http://blackboard.claflin.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1553</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302032</people_soft_institution_id>
+<euse>blackboardadmin@claflin.edu</euse>
+<euse_label>blackboardadmin@claflin.edu</euse_label>
+</s>
+<s>
+<name>Clear Creek Independent School District</name>
+<id>17991</id>
+<b2_url>https://e4.ccisd.net/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1557</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302051</people_soft_institution_id>
+<euse>applications@ccisd.net</euse>
+<euse_label>Blackboard Support</euse_label>
+</s>
+<s>
+<name>Clatsop Community College</name>
+<id>15575</id>
+<b2_url>https://bb4.clatsopcc.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1558</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302054</people_soft_institution_id>
+<euse>khorning@clatsopcc.edu</euse>
+<euse_label>Online Education Help</euse_label>
+</s>
+<s>
+<name>Cisco College</name>
+<id>2973</id>
+<b2_url>http://blackboard.cisco.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1563</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302074</people_soft_institution_id>
+<euse>blackboard@cisco.edu</euse>
+<euse_label>blackboard@cisco.edu</euse_label>
+</s>
+<s>
+<name>Coconino County Community College</name>
+<has_community_system>1</has_community_system>
+<has_mobile_central>0</has_mobile_central>
+<error_message>We hate to be the bearer of bad news, but Blackboard Mobile Learn is not currently available at your institution. We won't bore you with the details here, but you can visit Help to contact our support team for more information.</error_message>
+<client_id>1564</client_id>
+<people_soft_id>302080</people_soft_id>
+<demo_id>3230</demo_id>
+<demo_user>bbstu</demo_user>
+<demo_password>b0ll0ck$</demo_password>
+<demo_name>Monumental U.</demo_name>
+<demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url>
+<demo_has_community_system>1</demo_has_community_system>
+</s>
+<s>
+<name>Coast Community College District</name>
+<id>11991</id>
+<b2_url>https://bb9-cccd.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1565</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302087</people_soft_institution_id>
+<euse>ehobbs@occ.cccd.edu</euse>
+<euse_label>Coast Community College District Support</euse_label>
+</s>
+<s>
+<name>Central Penn College</name>
+<id>11639</id>
+<b2_url>http://centralpennbb9.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1568</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302107</people_soft_institution_id>
+</s>
+<s>
+<name>Central State University</name>
+<id>14956</id>
+<b2_url>https://centralstate.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>User Name</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1569</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302110</people_soft_institution_id>
+<euse>szeeb@centralstate.edu</euse>
+</s>
+<s>
+<name>University of the South</name>
+<id>15271</id>
+<b2_url>https://sewanee.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1572</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302147</people_soft_institution_id>
+<euse>dsyler@sewanee.edu</euse>
+</s>
+<s>
+<name>Charles R Drew University of Medicine and Science</name>
+<id>16117</id>
+<b2_url>https://cdrewu.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1573</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302152</people_soft_institution_id>
+<euse>bbhelpdesk@cdrewu.edu</euse>
+<euse_label>Balckboard Heldesk</euse_label>
+</s>
+<s>
+<name>Chemeketa Community College</name>
+<id>16522</id>
+<b2_url>https://chemeketa-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>eLearn User Name</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1575</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302191</people_soft_institution_id>
+<euse>online@chemeketa.edu</euse>
+<euse_label>Chemeketa Online Support</euse_label>
+</s>
+<s>
+<name>Cabrillo College Blackboard</name>
+<id>15361</id>
+<b2_url>https://cabrillo.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1578</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302198</people_soft_institution_id>
+</s>
+<s>
+<name>Calhoun Community College</name>
+<id>2242</id>
+<b2_url>http://blackboard9.calhoun.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1579</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302202</people_soft_institution_id>
+<euse>blackboard@calhoun.edu</euse>
+<euse_label>VITEL</euse_label>
+</s>
+<s>
+<name>CSU - Chico</name>
+<id>17839</id>
+<b2_url>https://learn.csuchico.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>Portal ID</username_label>
+<force_web_login>https://learn.csuchico.edu/webapps/Bb-mobile-BBLEARN/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1582</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>302213</people_soft_institution_id>
+<euse>itss@csuchico.edu</euse>
+<euse_label>ITSS</euse_label>
+</s>
+<s>
+<name>California Lutheran University</name>
+<id>1543</id>
+<b2_url>https://bblearn.callutheran.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>Username</username_label>
+<force_web_login>https://bblearn.callutheran.edu/webapps/Bb-mobile-bb_bb60/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1583</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>302220</people_soft_institution_id>
+<euse>helpdesk@callutheran.edu</euse>
+<euse_label>CLU Helpdesk</euse_label>
+</s>
+<s>
+<name>VA Desert Pacific Healthcare Network</name>
+<id>7037</id>
+<b2_url>https://visn22.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1584</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302231</people_soft_institution_id>
+<euse>timothy.harvey2@va.gov</euse>
+</s>
+<s>
+<name>Carl Albert State College</name>
+<id>11378</id>
+<b2_url>http://web.carlalbert.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1589</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302315</people_soft_institution_id>
+</s>
+<s>
+<name>Carleton University</name>
+<has_community_system>1</has_community_system>
+<has_mobile_central>0</has_mobile_central>
+<error_message>We hate to be the bearer of bad news, but Blackboard Mobile Learn is not currently available at your institution. We won't bore you with the details here, but you can visit Help to contact our support team for more information.</error_message>
+<client_id>1591</client_id>
+<people_soft_id>302319</people_soft_id>
+<demo_id>3230</demo_id>
+<demo_user>bbstu</demo_user>
+<demo_password>b0ll0ck$</demo_password>
+<demo_name>Monumental U.</demo_name>
+<demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url>
+<demo_has_community_system>1</demo_has_community_system>
+</s>
+<s>
+<name>Bishop State Community College</name>
+<id>14610</id>
+<b2_url>https://bishopstate.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1594</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302367</people_soft_institution_id>
+<euse>rmcwilliams@bishop.edu</euse>
+<euse_label>Robert McWilliams (Blackboard Mobile Learn Help Desk)</euse_label>
+</s>
+<s>
+<name>Blue Valley School District</name>
+<id>2240</id>
+<b2_url>http://bluevalleyk12.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1599</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>302394</people_soft_institution_id>
+<euse>jjohnston01@bluevalleyk12.org</euse>
+<euse_label>jjohnston01@bluevalleyk12.org</euse_label>
+</s>
+<s>
+<name>Des Moines Area Community College</name>
+<id>1504</id>
+<b2_url>https://dmacc.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>DMACC ID</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1600</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>305969</people_soft_institution_id>
+<euse>OnlineLearning@dmacc.edu</euse>
+</s>
+<s>
+<name>Branson School Online</name>
+<id>15199</id>
+<b2_url>https://bransonschoolonline.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1602</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302423</people_soft_institution_id>
+</s>
+<s>
+<name>Burlington County College</name>
+<id>8376</id>
+<b2_url>https://bcc.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1610</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302555</people_soft_institution_id>
+<euse>dlearn@bcc.edu</euse>
+<euse_label>BCC Office of Distance Education</euse_label>
+</s>
+<s>
+<name>Atlantic Cape Community College</name>
+<id>11749</id>
+<b2_url>https://atlanticbb9.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1612</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302587</people_soft_institution_id>
+</s>
+<s>
+<name>Bethune Cookman University</name>
+<id>1891</id>
+<b2_url>http://elearning.cookman.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1627</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302731</people_soft_institution_id>
+<euse>helpdesk@cookman.edu</euse>
+<euse_label>CIT Help Desk</euse_label>
+</s>
+<s>
+<name>Bevill State Community College</name>
+<id>8561</id>
+<b2_url>https://bsccbbapp.bscc.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>BbID</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1628</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302733</people_soft_institution_id>
+<euse>darnold@bscc.edu</euse>
+<euse_label>darnold@bscc.edu</euse_label>
+</s>
+<s>
+<name>Biola University</name>
+<id>9451</id>
+<b2_url>https://biola.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Biola ID Number</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1630</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302759</people_soft_institution_id>
+<euse>it.helpdesk@biola.edu</euse>
+<euse_label>IT Help Desk</euse_label>
+</s>
+<s>
+<name>Arkansas State University - Beebe</name>
+<id>9849</id>
+<b2_url>http://bbapp.asub.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Student ID</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1633</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302786</people_soft_institution_id>
+<euse>dsharness@asub.edu</euse>
+<euse_label>ASU Beebe Blackboard Support</euse_label>
+</s>
+<s>
+<name>Antelope Valley College</name>
+<id>16238</id>
+<b2_url>https://avc.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1638</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>302880</people_soft_institution_id>
+</s>
+<s>
+<name>Alamo Community College District</name>
+<has_community_system>1</has_community_system>
+<has_mobile_central>0</has_mobile_central>
+<error_message>We hate to be the bearer of bad news, but Blackboard Mobile Learn is not currently available at your institution. We won't bore you with the details here, but you can visit Help to contact our support team for more information.</error_message>
+<client_id>1642</client_id>
+<people_soft_id>303003</people_soft_id>
+<demo_id>3230</demo_id>
+<demo_user>bbstu</demo_user>
+<demo_password>b0ll0ck$</demo_password>
+<demo_name>Monumental U.</demo_name>
+<demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url>
+<demo_has_community_system>1</demo_has_community_system>
+</s>
+<s>
+<name>Alabama Southern Community College</name>
+<has_community_system>1</has_community_system>
+<has_mobile_central>0</has_mobile_central>
+<error_message>We hate to be the bearer of bad news, but Blackboard Mobile Learn is not currently available at your institution. We won't bore you with the details here, but you can visit Help to contact our support team for more information.</error_message>
+<client_id>1643</client_id>
+<people_soft_id>303020</people_soft_id>
+<demo_id>3230</demo_id>
+<demo_user>bbstu</demo_user>
+<demo_password>b0ll0ck$</demo_password>
+<demo_name>Monumental U.</demo_name>
+<demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url>
+<demo_has_community_system>1</demo_has_community_system>
+</s>
+<s>
+<name>Albany College of Pharmacy</name>
+<id>15803</id>
+<b2_url>https://community.acphs.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1644</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303026</people_soft_institution_id>
+</s>
+<s>
+<name>Alvernia University</name>
+<id>11534</id>
+<b2_url>http://elearning.alvernia.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>'Username'</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1645</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303034</people_soft_institution_id>
+<euse>edtech@alvernia.edu</euse>
+<euse_label>Alvernia Blackboard Help Desk</euse_label>
+</s>
+<s>
+<name>Amarillo College</name>
+<id>15590</id>
+<b2_url>https://actx.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1646</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303061</people_soft_institution_id>
+</s>
+<s>
+<name>Alvin Community College</name>
+<has_community_system>1</has_community_system>
+<has_mobile_central>0</has_mobile_central>
+<error_message>We hate to be the bearer of bad news, but Blackboard Mobile Learn is not currently available at your institution. We won't bore you with the details here, but you can visit Help to contact our support team for more information.</error_message>
+<client_id>1647</client_id>
+<people_soft_id>303062</people_soft_id>
+<demo_id>3230</demo_id>
+<demo_user>bbstu</demo_user>
+<demo_password>b0ll0ck$</demo_password>
+<demo_name>Monumental U.</demo_name>
+<demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url>
+<demo_has_community_system>1</demo_has_community_system>
+</s>
+<s>
+<name>Adrian College</name>
+<id>9696</id>
+<b2_url>http://bb.adrian.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1648</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303133</people_soft_institution_id>
+</s>
+<s>
+<name>Aiken Technical College</name>
+<id>3605</id>
+<b2_url>http://atc.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1649</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303149</people_soft_institution_id>
+</s>
+<s>
+<name>Adams State University</name>
+<id>14164</id>
+<b2_url>https://adams9-1.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1651</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303175</people_soft_institution_id>
+<euse>asaitc@adams.edu</euse>
+<euse_label>Academic Instructional Technology Center</euse_label>
+</s>
+<s>
+<name>Paris Junior College</name>
+<id>8021</id>
+<b2_url>https://parisjc.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1655</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303211</people_soft_institution_id>
+<euse>redmonson@parisjc.edu</euse>
+<euse_label>Roy Edmonson</euse_label>
+</s>
+<s>
+<name>Pasadena City College</name>
+<id>7614</id>
+<b2_url>https://bb-pcc.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Network ID</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1656</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>303215</people_soft_institution_id>
+<euse>distanceed@pasadena.edu</euse>
+<euse_label>PCC Distance Education</euse_label>
+</s>
+<s>
+<name>Passaic County Community College</name>
+<id>14892</id>
+<b2_url>https://pccc.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1657</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303218</people_soft_institution_id>
+</s>
+<s>
+<name>Phillips Academy Andover</name>
+<id>4397</id>
+<b2_url>http://panet.andover.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>PAnet Login</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1663</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>303329</people_soft_institution_id>
+<euse>helpdesk@andover.edu</euse>
+<euse_label>Email the Helpdesk</euse_label>
+</s>
+<s>
+<name>Phillips Community College of the Univ of Arkansas</name>
+<id>5806</id>
+<b2_url>https://pccua.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<from_people_soft>1</from_people_soft>
+<client_id>1664</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303330</people_soft_institution_id>
+</s>
+<s>
+<name>Piedmont International University</name>
+<id>15257</id>
+<b2_url>https://piu.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1666</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303338</people_soft_institution_id>
+</s>
+<s>
+<name>Oregon Institute of Technology</name>
+<id>16626</id>
+<b2_url>https://online.oit.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1671</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>303415</people_soft_institution_id>
+<euse>helpdesk@oit.edu</euse>
+<euse_label>ITS Help Desk</euse_label>
+<force_web_login_polling>0</force_web_login_polling>
+</s>
+<s>
+<name>Our Lady of the Lake University</name>
+<has_community_system>1</has_community_system>
+<has_mobile_central>0</has_mobile_central>
+<error_message>We hate to be the bearer of bad news, but Blackboard Mobile Learn is not currently available at your institution. We won't bore you with the details here, but you can visit Help to contact our support team for more information.</error_message>
+<client_id>1672</client_id>
+<people_soft_id>303420</people_soft_id>
+<demo_id>3230</demo_id>
+<demo_user>bbstu</demo_user>
+<demo_password>b0ll0ck$</demo_password>
+<demo_name>Monumental U.</demo_name>
+<demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url>
+<demo_has_community_system>1</demo_has_community_system>
+</s>
+<s>
+<name>Ohio Northern University</name>
+<has_community_system>1</has_community_system>
+<has_mobile_central>0</has_mobile_central>
+<error_message>We hate to be the bearer of bad news, but Blackboard Mobile Learn is not currently available at your institution. We won't bore you with the details here, but you can visit Help to contact our support team for more information.</error_message>
+<client_id>1676</client_id>
+<people_soft_id>303475</people_soft_id>
+<demo_id>3230</demo_id>
+<demo_user>bbstu</demo_user>
+<demo_password>b0ll0ck$</demo_password>
+<demo_name>Monumental U.</demo_name>
+<demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url>
+<demo_has_community_system>1</demo_has_community_system>
+</s>
+<s>
+<name>Ohio Wesleyan University</name>
+<id>5880</id>
+<b2_url>http://bb.owu.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1678</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303482</people_soft_institution_id>
+<euse>helpdesk@OWU.edu</euse>
+<euse_label>OWU IS Help Desk</euse_label>
+</s>
+<s>
+<name>Ohlone College</name>
+<id>1781</id>
+<b2_url>http://bb-ohlone.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<from_people_soft>1</from_people_soft>
+<client_id>1679</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303483</people_soft_institution_id>
+</s>
+<s>
+<name>Northwood University</name>
+<id>16530</id>
+<b2_url>https://my.northwood.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>Northwood Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1682</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303505</people_soft_institution_id>
+<euse>helpdesk@northwood.edu</euse>
+<euse_label>Help Desk</euse_label>
+</s>
+<s>
+<name>Nova Southeastern University</name>
+<id>18855</id>
+<b2_url>https://sharklearn.nova.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>NSU</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1683</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>303524</people_soft_institution_id>
+<euse>help@nova.edu</euse>
+<euse_label>NSU Help Desk</euse_label>
+</s>
+<s>
+<name>New Jersey City University (CE8)</name>
+<id>9238</id>
+<b2_url>http://webct6.njcu.edu/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:59577d8f-0a01-0039-0050-55084ffd38a1/populateMyWebCT.dowebct/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Blackboard User ID</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1690</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>303591</people_soft_institution_id>
+<euse>dlsupport@njcu.edu</euse>
+<euse_label>Department of Online Learning Support</euse_label>
+</s>
+<s>
+<name>Northeast Texas Community College</name>
+<id>13957</id>
+<b2_url>https://ntcc-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1694</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303654</people_soft_institution_id>
+</s>
+<s>
+<name>Northwest Arkansas Community College</name>
+<id>14088</id>
+<b2_url>https://nwacc-bb9.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1695</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303656</people_soft_institution_id>
+<euse>dl@nwacc.edu</euse>
+<euse_label>NWACC Distance Learning</euse_label>
+</s>
+<s>
+<name>Northern Oklahoma College</name>
+<id>15760</id>
+<b2_url>http://nocbb.onenet.net/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<from_people_soft>1</from_people_soft>
+<client_id>1696</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303677</people_soft_institution_id>
+</s>
+<s>
+<name>North Central State College</name>
+<id>6068</id>
+<b2_url>http://bb7ncsc.msbb.uc.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1697</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303692</people_soft_institution_id>
+<euse>dl@ncstatecollege.edu</euse>
+<euse_label>NC State DIstance Learning Dept.</euse_label>
+</s>
+<s>
+<name>Cypress College</name>
+<id>2084</id>
+<b2_url>https://nocccd.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<from_people_soft>1</from_people_soft>
+<client_id>1698</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303698</people_soft_institution_id>
+</s>
+<s>
+<name>North Greenville University</name>
+<id>1516</id>
+<b2_url>http://ngu.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1699</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303705</people_soft_institution_id>
+<euse>helpdesk@ngu.edu</euse>
+<euse_label>NGU Help Desk</euse_label>
+</s>
+<s>
+<name>Northeast Alabama Community College</name>
+<id>2920</id>
+<b2_url>http://www.blackboard9.nacc.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1702</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303715</people_soft_institution_id>
+<euse>leaj@nacc.edu</euse>
+<euse_label>boydstonr@nacc.edu</euse_label>
+</s>
+<s>
+<name>Morton College</name>
+<id>11657</id>
+<b2_url>http://blackboard.morton.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>User ID</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1704</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303753</people_soft_institution_id>
+<euse>helpdesk@morton.edu</euse>
+<euse_label>Morton Helpdesk</euse_label>
+</s>
+<s>
+<name>Mt. Hood Community College</name>
+<id>14358</id>
+<b2_url>https://mhcc.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Student ID</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1706</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303762</people_soft_institution_id>
+<euse>vogtc@mhcc.edu</euse>
+<euse_label>MHCC DL Student Support</euse_label>
+</s>
+<s>
+<name>National Louis University</name>
+<has_community_system>1</has_community_system>
+<has_mobile_central>0</has_mobile_central>
+<error_message>We hate to be the bearer of bad news, but Blackboard Mobile Learn is not currently available at your institution. We won't bore you with the details here, but you can visit Help to contact our support team for more information.</error_message>
+<client_id>1712</client_id>
+<people_soft_id>303887</people_soft_id>
+<demo_id>3230</demo_id>
+<demo_user>bbstu</demo_user>
+<demo_password>b0ll0ck$</demo_password>
+<demo_name>Monumental U.</demo_name>
+<demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url>
+<demo_has_community_system>1</demo_has_community_system>
+</s>
+<s>
+<name>Minot State University - Minot</name>
+<id>11873</id>
+<b2_url>http://bblearnweb.minotstateu.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1715</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303934</people_soft_institution_id>
+<euse>helpdesk@minotstateu.edu</euse>
+</s>
+<s>
+<name>Mills College</name>
+<id>1528</id>
+<b2_url>https://mills.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<from_people_soft>1</from_people_soft>
+<client_id>1716</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303945</people_soft_institution_id>
+<euse>blackboard@mills.edu</euse>
+<euse_label>Blackboard Help</euse_label>
+</s>
+<s>
+<name>Milwaukee School of Engineering</name>
+<id>3454</id>
+<b2_url>http://blackboard.msoe.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1717</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303952</people_soft_institution_id>
+<euse>helpdesk@msoe.edu</euse>
+<euse_label>MSOE User Services</euse_label>
+</s>
+<s>
+<name>Mississippi University for Women</name>
+<id>7092</id>
+<b2_url>https://muw.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1720</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303991</people_soft_institution_id>
+<euse>helpdesk@muw.edu</euse>
+<euse_label>Help Desk</euse_label>
+</s>
+<s>
+<name>Georgia Health Sciences University</name>
+<id>8014</id>
+<b2_url>https://ghsu-view.blackboard.com/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:adf2079d-7f00-0001-003d-ce1e0a421567/populateMyWebCT.dowebct/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>GHSU net ID</username_label>
+<force_web_login>https://ghsu-view.blackboard.com/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:adf2079d-7f00-0001-003d-ce1e0a421567/populateMyWebCT.dowebct/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1730</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>304048</people_soft_institution_id>
+<euse>ITSERVICE@georgiahealth.edu</euse>
+<euse_label>GHSU Service Desk</euse_label>
+</s>
+<s>
+<name>Medical University of South Carolina</name>
+<id>3769</id>
+<b2_url>https://musc.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1731</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304066</people_soft_institution_id>
+<euse>bb-email@musc.edu</euse>
+<euse_label>MUSC Blackboard Help</euse_label>
+</s>
+<s>
+<name>Metropolitan State College of Denver</name>
+<id>8458</id>
+<b2_url>https://metrostate-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label></username_label>
+<force_web_login>https://metrostate-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1734</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304083</people_soft_institution_id>
+<force_web_login_polling>1</force_web_login_polling>
+</s>
+<s>
+<name>Drury University</name>
+<id>15132</id>
+<b2_url>https://druryonline.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>Drury Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1738</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>565412</people_soft_institution_id>
+<euse>andynelson@drury.edu</euse>
+<euse_label>Contact Tech Support</euse_label>
+</s>
+<s>
+<name>Mid-Plains Community College</name>
+<id>17993</id>
+<b2_url>https://mpcc.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1739</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304112</people_soft_institution_id>
+<euse>BBHelp@mpcc.edu</euse>
+<euse_label>BBHelp</euse_label>
+</s>
+<s>
+<name>Loyalist College</name>
+<id>14464</id>
+<b2_url>http://learn.myloyalist.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<from_people_soft>1</from_people_soft>
+<client_id>1742</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>304137</people_soft_institution_id>
+</s>
+<s>
+<name>Mayo Clinic</name>
+<id>14516</id>
+<b2_url>https://eduonline.mayo.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label></username_label>
+<force_web_login>https://eduonline.mayo.edu/webapps/Bb-mobile-bb_bb60/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1747</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304225</people_soft_institution_id>
+</s>
+<s>
+<name>Long Island University</name>
+<id>1365</id>
+<b2_url>https://blackboard.liu.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1752</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304310</people_soft_institution_id>
+</s>
+<s>
+<name>Linfield College</name>
+<id>5296</id>
+<b2_url>https://bblearn.linfield.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>CatNet ID</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1755</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>304354</people_soft_institution_id>
+<euse>support@linfield.edu</euse>
+<euse_label>Linfield ITS Support</euse_label>
+</s>
+<s>
+<name>Logan College of Chiropractic</name>
+<id>6029</id>
+<b2_url>https://logancc.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1756</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304372</people_soft_institution_id>
+<euse>vince.mcgee@logan.edu</euse>
+</s>
+<s>
+<name>Leeds Metropolitan University - X-stream</name>
+<id>18015</id>
+<b2_url>http://x-stream.leedsmet.ac.uk/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1757</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>304397</people_soft_institution_id>
+<euse>x-stream@leedsmet.ac.uk</euse>
+<euse_label>X-stream</euse_label>
+</s>
+<s>
+<name>Lewis and Clark Community College</name>
+<id>15027</id>
+<b2_url>https://blackboard.lc.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1759</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304400</people_soft_institution_id>
+<euse>bb-support@lc.edu</euse>
+<euse_label>bb-support@lc.edu</euse_label>
+</s>
+<s>
+<name>Lander University</name>
+<id>9509</id>
+<b2_url>http://bb.lander.edu/webapps/Bb-mobile-BBPROD/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1760</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304429</people_soft_institution_id>
+<euse>goconnor@lander.edu</euse>
+<euse_label>BB Mobile Support</euse_label>
+</s>
+<s>
+<name>LAMAR UNIVERSITY</name>
+<id>14698</id>
+<b2_url>https://luonline.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<force_web_login>https://luonline.blackboard.com/webapps/Bb-mobile-BBLEARN/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1764</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>304450</people_soft_institution_id>
+<euse>cde@lamar.edu</euse>
+<euse_label>cde@lamar.edu</euse_label>
+</s>
+<s>
+<name>Lakeland College</name>
+<id>360</id>
+<b2_url>https://lakeland.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1766</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>304458</people_soft_institution_id>
+<euse>helpdesk@lakeland.edu</euse>
+<euse_label>Lakeland Helpdesk</euse_label>
+</s>
+<s>
+<name>Kyushu University</name>
+<has_community_system>1</has_community_system>
+<has_mobile_central>0</has_mobile_central>
+<error_message>We hate to be the bearer of bad news, but Blackboard Mobile Learn is not currently available at your institution. We won't bore you with the details here, but you can visit Help to contact our support team for more information.</error_message>
+<client_id>1772</client_id>
+<people_soft_id>304515</people_soft_id>
+<demo_id>3230</demo_id>
+<demo_user>bbstu</demo_user>
+<demo_password>b0ll0ck$</demo_password>
+<demo_name>Monumental U.</demo_name>
+<demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url>
+<demo_has_community_system>1</demo_has_community_system>
+</s>
+<s>
+<name>La Sierra University</name>
+<id>3291</id>
+<b2_url>https://blackboard.lasierra.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1776</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304561</people_soft_institution_id>
+<euse>bblearn@lasierra.edu</euse>
+<euse_label>LSU Blackboard Support</euse_label>
+</s>
+<s>
+<name>Lake Superior State University</name>
+<has_community_system>1</has_community_system>
+<has_mobile_central>0</has_mobile_central>
+<error_message>We hate to be the bearer of bad news, but Blackboard Mobile Learn is not currently available at your institution. We won't bore you with the details here, but you can visit Help to contact our support team for more information.</error_message>
+<client_id>1778</client_id>
+<people_soft_id>304567</people_soft_id>
+<demo_id>3230</demo_id>
+<demo_user>bbstu</demo_user>
+<demo_password>b0ll0ck$</demo_password>
+<demo_name>Monumental U.</demo_name>
+<demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url>
+<demo_has_community_system>1</demo_has_community_system>
+</s>
+<s>
+<name>Lake Forest Graduate School of Management</name>
+<id>18097</id>
+<b2_url>http://lakeforest.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1780</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304577</people_soft_institution_id>
+</s>
+<s>
+<name>Kennebec Valley Community College</name>
+<has_community_system>1</has_community_system>
+<has_mobile_central>0</has_mobile_central>
+<error_message>We hate to be the bearer of bad news, but Blackboard Mobile Learn is not currently available at your institution. We won't bore you with the details here, but you can visit Help to contact our support team for more information.</error_message>
+<client_id>1781</client_id>
+<people_soft_id>304580</people_soft_id>
+<demo_id>3230</demo_id>
+<demo_user>bbstu</demo_user>
+<demo_password>b0ll0ck$</demo_password>
+<demo_name>Monumental U.</demo_name>
+<demo_b2_url>http://demo02.medu.com/webapps/Bb-mobile-BBLEARN/</demo_b2_url>
+<demo_has_community_system>1</demo_has_community_system>
+</s>
+<s>
+<name>University of Keele</name>
+<id>16630</id>
+<b2_url>https://bb.vle.keele.ac.uk/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>Keele username:</username_label>
+<force_web_login>https://bb.vle.keele.ac.uk/webapps/Bb-mobile-BBLEARN/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1782</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304588</people_soft_institution_id>
+<euse>it.service@keele.ac.uk</euse>
+<euse_label>IT Service Desk</euse_label>
+</s>
+<s>
+<name>Kent State University</name>
+<id>5753</id>
+<b2_url>https://learn.kent.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Flashline Login</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1784</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>304592</people_soft_institution_id>
+<euse>vistasupport@kent.edu</euse>
+<euse_label>E-learning Help Desk</euse_label>
+</s>
+<s>
+<name>Kaskaskia College</name>
+<id>17553</id>
+<b2_url>http://bb9.kaskaskia.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>KC ID</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1785</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304612</people_soft_institution_id>
+<euse>onlinehelp@kaskaskia.edu</euse>
+<euse_label>onlinehelp@kaskaskia.edu</euse_label>
+</s>
+<s>
+<name>Jones College</name>
+<id>16372</id>
+<b2_url>https://blackboard.jones.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1788</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304656</people_soft_institution_id>
+<euse>support@jones.edu</euse>
+<euse_label>support@jones.edu</euse_label>
+</s>
+<s>
+<name>Inter American Univ of Puerto Rico</name>
+<id>15283</id>
+<b2_url>https://interbb.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1791</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304724</people_soft_institution_id>
+</s>
+<s>
+<name>Jackson State University</name>
+<id>18701</id>
+<b2_url>https://jsums.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1793</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304793</people_soft_institution_id>
+</s>
+<s>
+<name>Eastern Gateway Community College</name>
+<id>991</id>
+<b2_url>http://jcc.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<force_web_login>http://jcc.blackboard.com/webapps/Bb-mobile-bb_bb60/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1794</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304795</people_soft_institution_id>
+<force_web_login_polling>1</force_web_login_polling>
+</s>
+<s>
+<name>Jewish Theological Seminary</name>
+<id>16162</id>
+<b2_url>https://jtsa.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1796</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304808</people_soft_institution_id>
+</s>
+<s>
+<name>Jefferson Davis Community College</name>
+<id>1249</id>
+<b2_url>https://blackboard.jdcc.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<from_people_soft>1</from_people_soft>
+<client_id>1797</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304816</people_soft_institution_id>
+<euse>support@jdcc.edu</euse>
+<euse_label>JDCC HelpDesk</euse_label>
+</s>
+<s>
+<name>Iowa State University Blackboard Learn</name>
+<id>138</id>
+<b2_url>https://bb.its.iastate.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1800</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304851</people_soft_institution_id>
+<euse>bbsysadmin@iastate.edu</euse>
+<euse_label>Blackboard System Support</euse_label>
+</s>
+<s>
+<name>The Hong Kong Polytechnic University</name>
+<id>10333</id>
+<b2_url>http://learn.polyu.edu.hk/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1802</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>304891</people_soft_institution_id>
+<euse>itbb@inet.polyu.edu.hk</euse>
+<euse_label>PolyU Blackboard Support</euse_label>
+</s>
+<s>
+<name>Houston Baptist University Learn 9</name>
+<id>17643</id>
+<b2_url>https://learn.hbu.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1805</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304908</people_soft_institution_id>
+<euse>blackboard@hbu.edu</euse>
+<euse_label>Information Technology Services</euse_label>
+</s>

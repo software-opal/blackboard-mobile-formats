@@ -1,0 +1,1 @@
+ - California Baptist University(`client_id=692`) => [`https://calbaptist.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://calbaptist.blackboard.com/webapps/Bb-mobile-BBLEARN/)

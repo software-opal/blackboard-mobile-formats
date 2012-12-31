@@ -1,0 +1,1 @@
+ - Jefferson Davis Community College(`client_id=1797`) => [`https://blackboard.jdcc.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.jdcc.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Fitchburg State University(`client_id=499`) => [`https://blackboard.fitchburgstate.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.fitchburgstate.edu/webapps/Bb-mobile-bb_bb60/)

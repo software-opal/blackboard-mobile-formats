@@ -1,0 +1,1 @@
+ - Ivy Tech Blackboard 9(`client_id=683`) => [`https://online.ivytech.edu/webapps/Bb-mobile-BBLEARN/`](https://online.ivytech.edu/webapps/Bb-mobile-BBLEARN/)

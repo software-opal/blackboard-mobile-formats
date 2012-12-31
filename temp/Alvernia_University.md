@@ -1,0 +1,1 @@
+ - Alvernia University(`client_id=1645`) => [`http://elearning.alvernia.edu/webapps/Bb-mobile-BBLEARN/`](http://elearning.alvernia.edu/webapps/Bb-mobile-BBLEARN/)

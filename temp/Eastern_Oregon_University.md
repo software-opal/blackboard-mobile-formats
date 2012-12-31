@@ -1,0 +1,1 @@
+ - Eastern Oregon University(`client_id=84`) => [`http://blackboard.eou.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.eou.edu/webapps/Bb-mobile-bb_bb60/)

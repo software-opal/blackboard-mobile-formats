@@ -1,0 +1,1 @@
+ - Saint Mary's University of Minnesota(`client_id=1050`) => [`https://courses.smumn.edu/webapps/Bb-mobile-bb_bb60/`](https://courses.smumn.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - University of Aberdeen(`client_id=1528`) => [`https://abdn.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://abdn.blackboard.com/webapps/Bb-mobile-BBLEARN/)

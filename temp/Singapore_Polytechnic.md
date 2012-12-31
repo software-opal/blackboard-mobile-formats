@@ -1,0 +1,1 @@
+ - Singapore Polytechnic(`client_id=316`) => [`https://esp.sp.edu.sg/webapps/Bb-mobile-bb_bb60/`](https://esp.sp.edu.sg/webapps/Bb-mobile-bb_bb60/)

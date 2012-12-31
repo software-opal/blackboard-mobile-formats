@@ -1,0 +1,1 @@
+ - McDowell Technical Community College(`client_id=359`) => [`http://mcdowelltech.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://mcdowelltech.blackboard.com/webapps/Bb-mobile-bb_bb60/)

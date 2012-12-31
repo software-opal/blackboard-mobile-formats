@@ -1,0 +1,1 @@
+ - Long Island University(`client_id=1752`) => [`https://blackboard.liu.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.liu.edu/webapps/Bb-mobile-bb_bb60/)

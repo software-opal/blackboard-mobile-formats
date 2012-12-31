@@ -1,0 +1,1 @@
+ - Edgewood College(`client_id=1123`) => [`https://blackboard.edgewood.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.edgewood.edu/webapps/Bb-mobile-BBLEARN/)

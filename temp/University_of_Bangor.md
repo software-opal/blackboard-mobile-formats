@@ -1,0 +1,1 @@
+ - University of Bangor(`client_id=1524`) => [`http://academix.bangor.ac.uk/webapps/Bb-mobile-bb_bb60/`](http://academix.bangor.ac.uk/webapps/Bb-mobile-bb_bb60/)

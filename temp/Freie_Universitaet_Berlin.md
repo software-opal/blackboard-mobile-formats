@@ -1,0 +1,1 @@
+ - Freie Universitaet Berlin(`client_id=1166`) => [`https://lms.fu-berlin.de/webapps/Bb-mobile-bb_bb60/`](https://lms.fu-berlin.de/webapps/Bb-mobile-bb_bb60/)

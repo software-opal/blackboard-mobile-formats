@@ -1,0 +1,1 @@
+ - Western Wyoming Community College(`client_id=775`) => [`http://bb.wwcc.wy.edu/webapps/Bb-mobile-BBLEARN/`](http://bb.wwcc.wy.edu/webapps/Bb-mobile-BBLEARN/)

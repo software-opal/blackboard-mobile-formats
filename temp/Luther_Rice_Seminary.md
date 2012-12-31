@@ -1,0 +1,1 @@
+ - Luther Rice Seminary(`client_id=664`) => [`https://bb.lru.edu/webapps/Bb-mobile-BBLEARN/`](https://bb.lru.edu/webapps/Bb-mobile-BBLEARN/)

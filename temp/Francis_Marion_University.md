@@ -1,0 +1,1 @@
+ - Francis Marion University(`client_id=304`) => [`https://blackboard9.fmarion.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard9.fmarion.edu/webapps/Bb-mobile-bb_bb60/)

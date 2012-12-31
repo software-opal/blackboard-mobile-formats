@@ -1,0 +1,1 @@
+ - Caribbean University(`client_id=936`) => [`http://caribbean2.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://caribbean2.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Redlands Community College(`client_id=1444`) => [`http://courses.redlandscc.edu/webapps/Bb-mobile-bb_bb60/`](http://courses.redlandscc.edu/webapps/Bb-mobile-bb_bb60/)

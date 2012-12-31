@@ -1,0 +1,1 @@
+ - SUNY New Paltz(`client_id=972`) => [`https://blackboard.newpaltz.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.newpaltz.edu/webapps/Bb-mobile-bb_bb60/)

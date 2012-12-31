@@ -1,0 +1,1 @@
+ - Johnston Community College(`client_id=314`) => [`http://bb.johnstoncc.edu/webapps/Bb-mobile-bb_bb60/`](http://bb.johnstoncc.edu/webapps/Bb-mobile-bb_bb60/)

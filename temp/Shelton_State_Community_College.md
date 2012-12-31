@@ -1,0 +1,1 @@
+ - Shelton State Community College(`client_id=1406`) => [`https://elearning.sheltonstate.edu/webapps/Bb-mobile-BBLEARN/`](https://elearning.sheltonstate.edu/webapps/Bb-mobile-BBLEARN/)

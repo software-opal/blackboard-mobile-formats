@@ -1,0 +1,1 @@
+ - The University of Adelaide(`client_id=273`) => [`https://myuni.adelaide.edu.au/webapps/Bb-mobile-bb_bb60/`](https://myuni.adelaide.edu.au/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - University of Texas at Brownsville(`client_id=1468`) => [`http://myutb.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://myutb.blackboard.com/webapps/Bb-mobile-bb_bb60/)

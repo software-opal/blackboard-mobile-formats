@@ -1,0 +1,1 @@
+ - St. John's University(`client_id=1400`) => [`https://bbprod.stjohns.edu/webapps/Bb-mobile-BBLEARN/`](https://bbprod.stjohns.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - University of the Incarnate Word(`client_id=828`) => [`https://blackboard.uiwtx.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.uiwtx.edu/webapps/Bb-mobile-bb_bb60/)

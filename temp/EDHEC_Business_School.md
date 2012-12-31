@@ -1,0 +1,1 @@
+ - EDHEC Business School(`client_id=1072`) => [`http://www.netedhec.com/webapps/Bb-mobile-bb_bb60/`](http://www.netedhec.com/webapps/Bb-mobile-bb_bb60/)

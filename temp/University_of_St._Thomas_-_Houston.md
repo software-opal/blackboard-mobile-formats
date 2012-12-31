@@ -1,0 +1,1 @@
+ - University of St. Thomas - Houston(`client_id=749`) => [`https://blackboard.stthom.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.stthom.edu/webapps/Bb-mobile-BBLEARN/)

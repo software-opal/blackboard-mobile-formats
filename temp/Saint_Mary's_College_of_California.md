@@ -1,0 +1,1 @@
+ - Saint Mary's College of California(`client_id=700`) => [`http://blackboard4.stmarys-ca.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard4.stmarys-ca.edu/webapps/Bb-mobile-bb_bb60/)

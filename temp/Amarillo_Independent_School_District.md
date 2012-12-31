@@ -1,0 +1,1 @@
+ - Amarillo Independent School District(`client_id=1012`) => [`https://blackboard.amaisd.org/webapps/Bb-mobile-bb_bb60/`](https://blackboard.amaisd.org/webapps/Bb-mobile-bb_bb60/)

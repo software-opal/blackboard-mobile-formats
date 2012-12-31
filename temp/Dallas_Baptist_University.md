@@ -1,0 +1,1 @@
+ - Dallas Baptist University(`client_id=719`) => [`http://online.dbu.edu/webapps/Bb-mobile-bb_bb60/`](http://online.dbu.edu/webapps/Bb-mobile-bb_bb60/)

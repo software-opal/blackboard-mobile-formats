@@ -1,0 +1,1 @@
+ - Central Penn College(`client_id=1568`) => [`http://centralpennbb9.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://centralpennbb9.blackboard.com/webapps/Bb-mobile-BBLEARN/)

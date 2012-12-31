@@ -1,0 +1,1 @@
+ - Waukesha County Technical College(`client_id=933`) => [`https://wctc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://wctc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

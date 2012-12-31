@@ -1,0 +1,1 @@
+ - MSVCC(`client_id=975`) => [`https://msvcc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://msvcc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

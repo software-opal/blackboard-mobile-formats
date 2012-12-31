@@ -1,0 +1,1 @@
+ - Kaskaskia College(`client_id=1785`) => [`http://bb9.kaskaskia.edu/webapps/Bb-mobile-BBLEARN/`](http://bb9.kaskaskia.edu/webapps/Bb-mobile-BBLEARN/)

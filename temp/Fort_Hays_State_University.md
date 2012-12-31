@@ -1,0 +1,1 @@
+ - Fort Hays State University(`client_id=38`) => [`https://blackboard.fhsu.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.fhsu.edu/webapps/Bb-mobile-bb_bb60/)

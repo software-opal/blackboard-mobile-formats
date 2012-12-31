@@ -1,0 +1,1 @@
+ - University of Tennessee at Chattanooga(`client_id=326`) => [`https://bb4.utc.edu/webapps/Bb-mobile-BBLEARN/`](https://bb4.utc.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Charles R Drew University of Medicine and Science(`client_id=1573`) => [`https://cdrewu.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://cdrewu.blackboard.com/webapps/Bb-mobile-BBLEARN/)

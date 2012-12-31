@@ -1,0 +1,1 @@
+ - Princeton University(`client_id=432`) => [`https://blackboard.princeton.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.princeton.edu/webapps/Bb-mobile-bb_bb60/)

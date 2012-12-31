@@ -1,0 +1,1 @@
+ - Montclair State University(`client_id=574`) => [`https://blackboard.montclair.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.montclair.edu/webapps/Bb-mobile-bb_bb60/)

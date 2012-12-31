@@ -1,0 +1,1 @@
+ - University of Manchester(`client_id=1503`) => [`https://online.manchester.ac.uk/webapps/Bb-mobile-BBLEARN/`](https://online.manchester.ac.uk/webapps/Bb-mobile-BBLEARN/)

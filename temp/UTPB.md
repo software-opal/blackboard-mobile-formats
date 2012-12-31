@@ -1,0 +1,1 @@
+ - UTPB(`client_id=1469`) => [`https://online.utpb.edu/webapps/Bb-mobile-bb_bb60/`](https://online.utpb.edu/webapps/Bb-mobile-bb_bb60/)

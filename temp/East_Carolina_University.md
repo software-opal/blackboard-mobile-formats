@@ -1,0 +1,1 @@
+ - East Carolina University(`client_id=130`) => [`https://blackboard.ecu.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.ecu.edu/webapps/Bb-mobile-bb_bb60/)

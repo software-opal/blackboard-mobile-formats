@@ -1,0 +1,1 @@
+ - Carlow University(`client_id=797`) => [`https://carlow.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://carlow.blackboard.com/webapps/Bb-mobile-bb_bb60/)

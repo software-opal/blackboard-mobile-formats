@@ -1,0 +1,1 @@
+ - Iowa State University Blackboard Learn(`client_id=1800`) => [`https://bb.its.iastate.edu/webapps/Bb-mobile-BBLEARN/`](https://bb.its.iastate.edu/webapps/Bb-mobile-BBLEARN/)

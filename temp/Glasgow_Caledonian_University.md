@@ -1,0 +1,1 @@
+ - Glasgow Caledonian University(`client_id=153`) => [`https://blackboard.gcal.ac.uk/webapps/Bb-mobile-bb_bb60/`](https://blackboard.gcal.ac.uk/webapps/Bb-mobile-bb_bb60/)

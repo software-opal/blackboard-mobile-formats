@@ -1,0 +1,1 @@
+ - Southern Arkansas University Tech(`client_id=1386`) => [`http://sautech.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://sautech.blackboard.com/webapps/Bb-mobile-BBLEARN/)

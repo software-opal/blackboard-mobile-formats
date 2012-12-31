@@ -1,0 +1,1 @@
+ - Washtenaw Community College(`client_id=127`) => [`https://blackboard.wccnet.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.wccnet.edu/webapps/Bb-mobile-BBLEARN/)

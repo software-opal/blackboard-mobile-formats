@@ -1,0 +1,1 @@
+ - Charleston Southern University(`client_id=147`) => [`http://online.csuniv.edu/webapps/Bb-mobile-bb_bb60/`](http://online.csuniv.edu/webapps/Bb-mobile-bb_bb60/)

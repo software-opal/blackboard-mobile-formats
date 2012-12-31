@@ -1,0 +1,1 @@
+ - Medical University of South Carolina(`client_id=1731`) => [`https://musc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://musc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

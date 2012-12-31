@@ -1,0 +1,1 @@
+ - Athens State University(`client_id=1208`) => [`https://athens.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://athens.blackboard.com/webapps/Bb-mobile-bb_bb60/)

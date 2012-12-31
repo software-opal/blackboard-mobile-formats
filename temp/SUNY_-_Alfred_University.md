@@ -1,0 +1,1 @@
+ - SUNY - Alfred University(`client_id=896`) => [`http://blackboard.alfred.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.alfred.edu/webapps/Bb-mobile-bb_bb60/)

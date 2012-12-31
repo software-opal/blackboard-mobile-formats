@@ -1,0 +1,1 @@
+ - University of Nebraska - Kearney(`client_id=592`) => [`http://bb.unk.edu/webapps/Bb-mobile-bb_bb60/`](http://bb.unk.edu/webapps/Bb-mobile-bb_bb60/)

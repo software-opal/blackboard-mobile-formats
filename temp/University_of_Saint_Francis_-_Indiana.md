@@ -1,0 +1,1 @@
+ - University of Saint Francis - Indiana(`client_id=554`) => [`https://sf.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://sf.blackboard.com/webapps/Bb-mobile-bb_bb60/)

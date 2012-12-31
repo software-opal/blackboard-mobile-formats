@@ -1,0 +1,1 @@
+ - University of California - Riverside(`client_id=26`) => [`https://ilearn.ucr.edu/webapps/Bb-mobile-bb_bb60/`](https://ilearn.ucr.edu/webapps/Bb-mobile-bb_bb60/)

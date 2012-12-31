@@ -1,0 +1,1 @@
+ - Schoolcraft College(`client_id=579`) => [`http://blackboard.schoolcraft.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.schoolcraft.edu/webapps/Bb-mobile-bb_bb60/)

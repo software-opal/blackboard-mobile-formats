@@ -1,0 +1,1 @@
+ - Cisco College(`client_id=1563`) => [`http://blackboard.cisco.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.cisco.edu/webapps/Bb-mobile-bb_bb60/)

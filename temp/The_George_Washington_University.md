@@ -1,0 +1,1 @@
+ - The George Washington University(`client_id=703`) => [`https://blackboard.gwu.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.gwu.edu/webapps/Bb-mobile-bb_bb60/)

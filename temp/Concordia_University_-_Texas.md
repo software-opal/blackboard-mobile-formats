@@ -1,0 +1,1 @@
+ - Concordia University - Texas(`client_id=859`) => [`https://blackboard.concordia.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.concordia.edu/webapps/Bb-mobile-bb_bb60/)

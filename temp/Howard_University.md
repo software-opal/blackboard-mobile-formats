@@ -1,0 +1,1 @@
+ - Howard University(`client_id=654`) => [`http://blackboard.howard.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.howard.edu/webapps/Bb-mobile-bb_bb60/)

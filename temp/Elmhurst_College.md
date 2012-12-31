@@ -1,0 +1,1 @@
+ - Elmhurst College(`client_id=770`) => [`http://bb.elmhurst.edu/webapps/Bb-mobile-bb_bb60/`](http://bb.elmhurst.edu/webapps/Bb-mobile-bb_bb60/)

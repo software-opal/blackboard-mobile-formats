@@ -1,0 +1,1 @@
+ - University of Central Missouri(`client_id=343`) => [`https://ucmo.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://ucmo.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Life University BB9(`client_id=227`) => [`https://blackboard.life.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.life.edu/webapps/Bb-mobile-BBLEARN/)

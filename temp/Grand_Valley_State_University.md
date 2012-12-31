@@ -1,0 +1,1 @@
+ - Grand Valley State University(`client_id=509`) => [`https://mybb.gvsu.edu/webapps/Bb-mobile-BBLEARN/`](https://mybb.gvsu.edu/webapps/Bb-mobile-BBLEARN/)

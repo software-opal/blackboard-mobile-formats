@@ -1,0 +1,1 @@
+ - The University of Queensland(`client_id=921`) => [`https://blackboard.elearning.uq.edu.au/webapps/Bb-mobile-bb_bb60/`](https://blackboard.elearning.uq.edu.au/webapps/Bb-mobile-bb_bb60/)

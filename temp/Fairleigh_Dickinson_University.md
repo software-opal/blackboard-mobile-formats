@@ -1,0 +1,1 @@
+ - Fairleigh Dickinson University(`client_id=306`) => [`http://webcampus.fdu.edu/webapps/Bb-mobile-bb_bb60/`](http://webcampus.fdu.edu/webapps/Bb-mobile-bb_bb60/)

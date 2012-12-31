@@ -1,0 +1,1 @@
+ - University of Cumbria(`client_id=857`) => [`https://mylearning.cumbria.ac.uk/webapps/Bb-mobile-bb_bb60/`](https://mylearning.cumbria.ac.uk/webapps/Bb-mobile-bb_bb60/)

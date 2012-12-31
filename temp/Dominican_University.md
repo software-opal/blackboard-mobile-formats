@@ -1,0 +1,1 @@
+ - Dominican University(`client_id=1014`) => [`https://blackboard.dom.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.dom.edu/webapps/Bb-mobile-bb_bb60/)

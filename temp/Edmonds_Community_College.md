@@ -1,0 +1,1 @@
+ - Edmonds Community College(`client_id=143`) => [`https://blackboard.edcc.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.edcc.edu/webapps/Bb-mobile-bb_bb60/)

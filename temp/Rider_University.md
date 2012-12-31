@@ -1,0 +1,1 @@
+ - Rider University(`client_id=211`) => [`http://blackboard.rider.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.rider.edu/webapps/Bb-mobile-BBLEARN/)
