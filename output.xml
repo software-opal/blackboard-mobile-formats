@@ -1,99 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
 <s>
-<name>Moody Bible Institute</name>
-<id>16008</id>
-<b2_url>https://blackboard9.moody.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<name>Dallas Community Colleges</name>
+<id>9769</id>
+<b2_url>https://blackboard2.dcccd.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
 <has_community_system>1</has_community_system>
 <username_label>Username</username_label>
 <has_mobile_central>0</has_mobile_central>
 <http_auth>0</http_auth>
 <from_people_soft>1</from_people_soft>
-<client_id>30</client_id>
+<client_id>1</client_id>
 <can_has_ssl_login>true</can_has_ssl_login>
 <access><wifi>1</wifi>
 <carrier>1</carrier>
 <sprint_local>0</sprint_local>
 </access>
-<people_soft_institution_id>100053</people_soft_institution_id>
-<euse>ets@moody.edu</euse>
-<euse_label>ets@moody.edu</euse_label>
+<people_soft_institution_id>100004</people_soft_institution_id>
 </s>
 <s>
-<name>Tilburg University</name>
-<id>13701</id>
-<b2_url>https://edubb.uvt.nl/webapps/Bb-mobile-bb_bb60/</b2_url>
-<has_community_system>1</has_community_system>
-<username_label>Username</username_label>
-<force_web_login>https://edubb.uvt.nl/webapps/Bb-mobile-bb_bb60/customAuthDevice</force_web_login>
+<name>Classes</name>
+<id>6881</id>
+<b2_url>https://classes.uaa.alaska.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
 <has_mobile_central>0</has_mobile_central>
 <http_auth>0</http_auth>
 <from_people_soft>1</from_people_soft>
-<client_id>31</client_id>
+<client_id>2</client_id>
 <can_has_ssl_login>true</can_has_ssl_login>
 <access><wifi>1</wifi>
 <carrier>1</carrier>
 <sprint_local>0</sprint_local>
 </access>
-<people_soft_institution_id>100054</people_soft_institution_id>
-<euse>bbmaster@uvt.nl</euse>
-<euse_label>bbmaster@uvt.nl</euse_label>
+<people_soft_institution_id>100005</people_soft_institution_id>
+<euse>callcenter@uaa.alaska.edu</euse>
+<euse_label>IT Call Center</euse_label>
 </s>
 <s>
-<name>Mt. San Jacinto College</name>
-<id>2926</id>
-<b2_url>https://my.msjc.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<name>Thomas Jefferson University</name>
+<id>1075</id>
+<b2_url>https://pulse.jefferson.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
 <has_community_system>1</has_community_system>
-<username_label>Username</username_label>
+<username_label>Campus Key</username_label>
 <has_mobile_central>0</has_mobile_central>
 <http_auth>0</http_auth>
 <from_people_soft>1</from_people_soft>
-<client_id>34</client_id>
+<client_id>3</client_id>
 <can_has_ssl_login>true</can_has_ssl_login>
 <access><wifi>0</wifi>
 <carrier>0</carrier>
 <sprint_local>0</sprint_local>
 </access>
 <userpay>1</userpay>
-<people_soft_institution_id>100065</people_soft_institution_id>
-<euse>help@msjc.edu</euse>
-<euse_label>Help Desk</euse_label>
+<people_soft_institution_id>100008</people_soft_institution_id>
+<euse>aisrcf@jefferson.edu</euse>
 </s>
 <s>
-<name>Fort Hays State University</name>
-<id>756</id>
-<b2_url>https://blackboard.fhsu.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
-<has_community_system>0</has_community_system>
-<username_label>TigerTracks Username</username_label>
-<force_web_login>https://blackboard.fhsu.edu/webapps/Bb-mobile-bb_bb60/customAuthDevice</force_web_login>
+<name>Arlington Public Schools</name>
+<id>14434</id>
+<b2_url>https://apsva.blackboard.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>Username</username_label>
 <has_mobile_central>0</has_mobile_central>
 <http_auth>0</http_auth>
 <from_people_soft>1</from_people_soft>
-<client_id>38</client_id>
+<client_id>5</client_id>
 <can_has_ssl_login>true</can_has_ssl_login>
 <access><wifi>1</wifi>
 <carrier>1</carrier>
 <sprint_local>0</sprint_local>
 </access>
-<people_soft_institution_id>100070</people_soft_institution_id>
+<people_soft_institution_id>100012</people_soft_institution_id>
+<euse>bb.support@apsva.us</euse>
+<euse_label>APS BB Support</euse_label>
 </s>
 <s>
-<name>Piedmont Community College</name>
-<id>11019</id>
-<b2_url>https://courses.piedmontcc.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<name>McKendree University - IL</name>
+<id>13283</id>
+<b2_url>https://blackboard.mckendree.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
 <has_community_system>0</has_community_system>
 <username_label>Username</username_label>
 <has_mobile_central>0</has_mobile_central>
 <http_auth>0</http_auth>
 <from_people_soft>1</from_people_soft>
-<client_id>39</client_id>
+<client_id>10</client_id>
 <can_has_ssl_login>true</can_has_ssl_login>
 <access><wifi>0</wifi>
 <carrier>0</carrier>
 <sprint_local>0</sprint_local>
 </access>
 <userpay>1</userpay>
-<people_soft_institution_id>100073</people_soft_institution_id>
-<euse>mcphaul@piedmontcc.edu</euse>
+<people_soft_institution_id>100022</people_soft_institution_id>
+<euse>helpdesk@mckendree.edu</euse>
+<euse_label>helpdesk@mckendree.edu</euse_label>
 </s>
 </data>
