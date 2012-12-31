@@ -4,7 +4,7 @@ URL_PRE="https://mlcs.medu.com/api/b2_registration/refresh_info?q=&carrier_code=
 URL_POST="&timestamp=&registration_id=&f=xml&device_id=&android=1&v=1&language=en_GB&ver=3.1.2"
 MAX_CLIENT_ID=10 #22000
 showBar() {
-    width=$((`tput cols` - 10 - 6))
+    width=$((`tput cols` - 11 - 7))
     percent=$(( 100 * $1 / $2 ))
     printf "\r%3d%% [" $percent 1>&2
 
@@ -19,7 +19,7 @@ showBar() {
     else
         printf "=="
     fi
-    printf "] %6d" $1 1>&2
+    printf "] %7d" $1 1>&2
 }
 
 OUTPUT_XML_FILE="output.xml"
@@ -78,14 +78,14 @@ echo " - Provider Names with Client IDs" >> "$OUTPUT_MARKDOWN_FILE"
 LAST_FIRST_CHARACTER=""
 IFS='
 '
-rm "temp/finalFile.md"
+rm "temp/finalFile.md" > /dev/null 2>&1
 FILES=$(ls -1 temp/ )
 for FILE_NAME in $(echo "$FILES"); do
     if [ "$FILE_NAME" != "finalFile.md" ]; then
         FIRST_CHARACTER=`echo "$FILE_NAME" | sed "s|^\(.\).*|\1|"`
         if [ "$LAST_FIRST_CHARACTER" != "$FIRST_CHARACTER" ]; then
             LAST_FIRST_CHARACTER="$FIRST_CHARACTER"
-            echo "<a name=\"$FIRST_CHARACTER\"></a>" >> "temp/finalFile.md"
+            echo "\n<a name=\"$FIRST_CHARACTER\"></a>" >> "temp/finalFile.md"
             echo "##$FIRST_CHARACTER##\n" >> "temp/finalFile.md"
         fi
         cat "temp/$FILE_NAME" >> "temp/finalFile.md"
@@ -93,7 +93,7 @@ for FILE_NAME in $(echo "$FILES"); do
 done
 
 grep "[#]\+" "temp/finalFile.md" | sed -e "s|#\{1\}| |g" -e "s|\([^ ]\)[ ]*$|\1|" -e "s|\([ ]*\)\(.*\)|\1 - <a href=\"#\2\">\2</a>|" >> "$OUTPUT_MARKDOWN_FILE"
-echo "---------------------"
+echo "\n---------------------\n"  >> "$OUTPUT_MARKDOWN_FILE"
 cat "temp/finalFile.md" >> "$OUTPUT_MARKDOWN_FILE"
 
 rm -rf "temp/" > /dev/null 2>&1
