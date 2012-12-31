@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>Mott Community College</name>
+<id>3933</id>
+<b2_url>http://blackboard.mcc.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>User ID</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>288</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>100510</people_soft_institution_id>
+<euse>2help@mcc.edu</euse>
+<euse_label>MCC Computing Support Services</euse_label>
+</s>

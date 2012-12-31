@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>North Carolina Community College System</name>
+<id>3195</id>
+<b2_url>http://sobb9.ncccs.local/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<from_people_soft>1</from_people_soft>
+<client_id>290</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>100515</people_soft_institution_id>
+</s>

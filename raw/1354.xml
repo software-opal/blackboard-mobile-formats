@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>The Chinese University of Hong Kong</name>
+<id>14738</id>
+<b2_url>https://elearn.cuhk.edu.hk/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label></username_label>
+<force_web_login>https://elearn.cuhk.edu.hk/webapps/Bb-mobile-BBLEARN/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1354</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>300478</people_soft_institution_id>
+<euse>elearning@cuhk.edu.hk</euse>
+<euse_label>ITSC eLearning Team</euse_label>
+</s>

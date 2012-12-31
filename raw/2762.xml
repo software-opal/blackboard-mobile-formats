@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>Wyoming City Schools</name>
+<id>2694</id>
+<b2_url>http://bb.wyomingcityschools.org/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<from_people_soft>1</from_people_soft>
+<client_id>2762</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>332206</people_soft_institution_id>
+<euse>support@learn21.org</euse>
+<euse_label>Learn21 Support</euse_label>
+</s>

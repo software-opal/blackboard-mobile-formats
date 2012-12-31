@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>Edith Cowan University</name>
+<id>16148</id>
+<b2_url>http://blackboard.ecu.edu.au/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label></username_label>
+<force_web_login>http://blackboard.ecu.edu.au/webapps/Bb-mobile-bb_bb60/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>614</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>101118</people_soft_institution_id>
+</s>

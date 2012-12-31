@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>University of Oregon</name>
+<id>962</id>
+<b2_url>https://blackboard.uoregon.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>214</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>100373</people_soft_institution_id>
+<euse>blackboard@ithelp.uoregon.edu</euse>
+<euse_label>Blackboard Help</euse_label>
+</s>

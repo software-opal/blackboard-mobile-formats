@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>Park Hill School District</name>
+<id>16244</id>
+<b2_url>http://blackboard.parkhill.k12.mo.us/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>2038</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>306965</people_soft_institution_id>
+<euse>helpdesk@parkhill.k12.mo.us</euse>
+<euse_label>Help Desk</euse_label>
+</s>

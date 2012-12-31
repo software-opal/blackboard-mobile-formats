@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>University of Texas at San Antonio</name>
+<id>15389</id>
+<b2_url>http://bbdev.utsa.edu/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:a7222861-8173-7416-0182-38476f891c25/populateMyWebCT.dowebct/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<force_web_login>http://bbdev.utsa.edu/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:a7222861-8173-7416-0182-38476f891c25/populateMyWebCT.dowebct/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>2295</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>309436</people_soft_institution_id>
+<force_web_login_polling>0</force_web_login_polling>
+</s>

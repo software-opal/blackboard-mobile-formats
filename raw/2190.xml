@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>London Metropolitan University</name>
+<id>16037</id>
+<b2_url>https://bblearn.londonmet.ac.uk/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>Londonmet username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>2190</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>309180</people_soft_institution_id>
+<euse>ictservicedesk@londonmet.ac.uk</euse>
+<euse_label>ICT Service Desk</euse_label>
+</s>

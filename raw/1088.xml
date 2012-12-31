@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>Associatie KU Leuven - Toledo</name>
+<id>14321</id>
+<b2_url>https://cygnus.cc.kuleuven.be/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>toledo</username_label>
+<force_web_login>https://cygnus.cc.kuleuven.be/webapps/Bb-mobile-bb_bb60/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1088</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>174089</people_soft_institution_id>
+<euse>toledo@cc.kuleuven.be</euse>
+<euse_label>toledo</euse_label>
+</s>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>Northwest Arkansas Community College</name>
+<id>14088</id>
+<b2_url>https://nwacc-bb9.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1695</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>303656</people_soft_institution_id>
+<euse>dl@nwacc.edu</euse>
+<euse_label>NWACC Distance Learning</euse_label>
+</s>

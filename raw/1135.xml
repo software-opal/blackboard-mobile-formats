@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>New Trier Township High School District 203</name>
+<id>4384</id>
+<b2_url>http://ntblackboard.newtrier.k12.il.us/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Student ID</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1135</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>181829</people_soft_institution_id>
+<euse>pritchaj@newtrier.k12.il.us</euse>
+<euse_label>Blackboard Help</euse_label>
+</s>

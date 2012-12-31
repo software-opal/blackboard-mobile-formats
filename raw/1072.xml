@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>EDHEC Business School</name>
+<id>16708</id>
+<b2_url>http://www.netedhec.com/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>sdefrenne</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1072</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>171741</people_soft_institution_id>
+<euse>stephane.defrenne@edhec.edu</euse>
+<euse_label>stephane.defrenne@edhec.edu</euse_label>
+</s>

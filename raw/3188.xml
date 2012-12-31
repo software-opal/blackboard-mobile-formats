@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>West Texas A and M University</name>
+<id>10161</id>
+<b2_url>https://wtclass.wtamu.edu/api/v7.4/mobile.svc/REST/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>WTAMU User Name</username_label>
+<force_web_login>https://wtclass.wtamu.edu/api/v7.4/mobile.svc/REST/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>3188</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>101047</people_soft_institution_id>
+<euse>ITSC@wtamu.edu</euse>
+<euse_label>IT Service Center</euse_label>
+</s>

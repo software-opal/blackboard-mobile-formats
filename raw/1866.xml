@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>Dublin Institute of Technology</name>
+<id>7193</id>
+<b2_url>https://dit-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>User Name</username_label>
+<force_web_login>https://dit-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/customAuthDevice</force_web_login>
+<redirect_auth_url_prefix>https://dit-bb.blackboard.com/webapps/bb-auth-provider-shibboleth-BBLEARN/execute/shibbolethLogin</redirect_auth_url_prefix>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1866</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>305735</people_soft_institution_id>
+<euse>support@dit.ie</euse>
+<euse_label>Support</euse_label>
+<force_web_login_polling>1</force_web_login_polling>
+</s>

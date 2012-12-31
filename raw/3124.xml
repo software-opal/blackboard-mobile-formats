@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>SUNY - Finger Lakes Community College</name>
+<id>6501</id>
+<b2_url>https://flcc.sln.suny.edu/api/v7.4/mobile.svc/REST/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>Username</username_label>
+<force_web_login>https://flcc.sln.suny.edu/api/v7.4/mobile.svc/REST/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>3124</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>305613</people_soft_institution_id>
+<euse>duganls@flcc.edu</euse>
+<euse_label>Larry Dugan</euse_label>
+</s>

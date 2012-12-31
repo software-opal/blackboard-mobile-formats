@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>Georgia Health Sciences University</name>
+<id>8014</id>
+<b2_url>https://ghsu-view.blackboard.com/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:adf2079d-7f00-0001-003d-ce1e0a421567/populateMyWebCT.dowebct/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>GHSU net ID</username_label>
+<force_web_login>https://ghsu-view.blackboard.com/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:adf2079d-7f00-0001-003d-ce1e0a421567/populateMyWebCT.dowebct/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1730</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>304048</people_soft_institution_id>
+<euse>ITSERVICE@georgiahealth.edu</euse>
+<euse_label>GHSU Service Desk</euse_label>
+</s>

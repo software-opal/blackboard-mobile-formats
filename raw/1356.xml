@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>College of Saint Scholastica</name>
+<id>2829</id>
+<b2_url>https://courses.css.edu/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label></username_label>
+<force_web_login>https://courses.css.edu/webapps/Bb-mobile-BBLEARN/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1356</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>300482</people_soft_institution_id>
+</s>

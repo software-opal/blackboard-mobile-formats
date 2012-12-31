@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>Brooklands College</name>
+<id>4564</id>
+<b2_url>http://vle.brooklands.ac.uk/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1973</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>306502</people_soft_institution_id>
+<euse>helpdesk@brooklands.ac.uk</euse>
+<euse_label>Brooklands IT Helpdesk</euse_label>
+</s>

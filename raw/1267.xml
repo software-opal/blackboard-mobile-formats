@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>University of North Texas</name>
+<id>8564</id>
+<b2_url>http://ecampus.unt.edu/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:3c793b4e-c0a8-e833-00d8-72fea6a3b3dc/populateMyWebCT.dowebct/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1267</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>210036</people_soft_institution_id>
+<euse>helpdesk@unt.edu</euse>
+<euse_label>HelpDesk</euse_label>
+</s>

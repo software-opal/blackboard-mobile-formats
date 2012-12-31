@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>Blue Ridge Community and Technical College</name>
+<id>12333</id>
+<b2_url>http://bb00.wvnet.edu/webapps/Bb-mobile-BB00LRN/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<from_people_soft>1</from_people_soft>
+<client_id>2628</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>330018</people_soft_institution_id>
+</s>

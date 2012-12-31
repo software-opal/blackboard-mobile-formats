@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>Columbia Public Schools</name>
+<id>11383</id>
+<b2_url>http://angel.columbia.k12.mo.us/api/v7.4/mobile.svc/REST/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>Username</username_label>
+<force_web_login>http://angel.columbia.k12.mo.us/api/v7.4/mobile.svc/REST/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>2877</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>195212</people_soft_institution_id>
+<euse>aheath@columbia.k12.mo.us</euse>
+<euse_label>Technology Services</euse_label>
+</s>

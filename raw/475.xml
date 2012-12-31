@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>Calumet College of Saint Joseph</name>
+<id>10116</id>
+<b2_url>http://discovery.ccsj.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label></username_label>
+<force_web_login>http://discovery.ccsj.edu/webapps/Bb-mobile-bb_bb60/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>475</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>100829</people_soft_institution_id>
+<euse>akoslow@ccsj.edu</euse>
+<euse_label>akoslow@ccsj.edu</euse_label>
+</s>

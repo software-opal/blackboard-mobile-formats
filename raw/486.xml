@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>Mississippi State University</name>
+<id>13881</id>
+<b2_url>https://mycourses.msstate.edu/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:8f9be293-8212-027a-0091-1e162bcf01ba/populateMyWebCT.dowebct/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>MSU NetID</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>486</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>100854</people_soft_institution_id>
+<euse>helpdesk@msstate.edu</euse>
+<euse_label>Contact Helpdesk</euse_label>
+</s>

@@ -4,36 +4,12 @@
 
 ##Table Of Contents##
  - <a href="#provider-names-with-client-ids">Provider Names with Client IDs</a>
-   - <a href="#A">A</a>
-   - <a href="#C">C</a>
-   - <a href="#D">D</a>
-   - <a href="#M">M</a>
-   - <a href="#T">T</a>
+   - <a href="#L">L</a>
 
 ---------------------
 
 
-<a name="A"></a>
-##A##
+<a name="L"></a>
+##L##
 
- - Arlington Public Schools(`client_id=5`) => [`https://apsva.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://apsva.blackboard.com/webapps/Bb-mobile-bb_bb60/)
-
-<a name="C"></a>
-##C##
-
- - Classes(`client_id=2`) => [`https://classes.uaa.alaska.edu/webapps/Bb-mobile-bb_bb60/`](https://classes.uaa.alaska.edu/webapps/Bb-mobile-bb_bb60/)
-
-<a name="D"></a>
-##D##
-
- - Dallas Community Colleges(`client_id=1`) => [`https://blackboard2.dcccd.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard2.dcccd.edu/webapps/Bb-mobile-BBLEARN/)
-
-<a name="M"></a>
-##M##
-
- - McKendree University - IL(`client_id=10`) => [`https://blackboard.mckendree.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.mckendree.edu/webapps/Bb-mobile-BBLEARN/)
-
-<a name="T"></a>
-##T##
-
- - Thomas Jefferson University(`client_id=3`) => [`https://pulse.jefferson.edu/webapps/Bb-mobile-bb_bb60/`](https://pulse.jefferson.edu/webapps/Bb-mobile-bb_bb60/)
+ - Luzerne County Community College(`client_id=1145`) => [`https://learn.luzerne.edu/webapps/Bb-mobile-BBLEARN/`](https://learn.luzerne.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>University of Tulsa</name>
+<id>14971</id>
+<b2_url>http://harvey.utulsa.edu/webapps/Bb-mobile-BBPROD/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label></username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>1269</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>210051</people_soft_institution_id>
+<euse>bblearn-admin@utulsa.edu</euse>
+<euse_label>Bblearn Admin</euse_label>
+</s>

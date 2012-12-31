@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>Wisconsin Virtual Learning</name>
+<id>17605</id>
+<b2_url>http://nosd.angellearning.com/api/v7.4/mobile.svc/REST/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>User ID</username_label>
+<force_web_login>http://nosd.angellearning.com/api/v7.4/mobile.svc/REST/customAuthDevice</force_web_login>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>3038</client_id>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>326002</people_soft_institution_id>
+<euse>mhorn@nosd.edu</euse>
+<euse_label>Melissa Horn</euse_label>
+</s>

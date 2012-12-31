@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>Technical and Vocational Training Corporation TVTC</name>
+<id>8822</id>
+<b2_url>http://lms.elearning.edu.sa/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>Username</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>2369</client_id>
+<access><wifi>1</wifi>
+<carrier>1</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<people_soft_institution_id>310445</people_soft_institution_id>
+<euse>LMSADMIN@TVTC.GOV.SA</euse>
+<euse_label>LMSADMIN</euse_label>
+</s>

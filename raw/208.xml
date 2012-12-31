@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>St. Thomas University - Florida</name>
+<id>3361</id>
+<b2_url>https://blackboard.stu.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
+<has_community_system>0</has_community_system>
+<username_label>stu\[username]</username_label>
+<force_web_login>https://blackboard.stu.edu/webapps/Bb-mobile-bb_bb60/customAuthDevice</force_web_login>
+<redirect_auth_url_prefix>https://blackboard.stu.edu/CookieAuth.dll</redirect_auth_url_prefix>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>208</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>100366</people_soft_institution_id>
+<euse>support@embanet.com</euse>
+<euse_label>24/7 Help Desk</euse_label>
+</s>
