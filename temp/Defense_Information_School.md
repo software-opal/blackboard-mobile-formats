@@ -1,0 +1,1 @@
+ - Defense Information School(`client_id=2412`) => [`http://dinfos.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://dinfos.blackboard.com/webapps/Bb-mobile-bb_bb60/)

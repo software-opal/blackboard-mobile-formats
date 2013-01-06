@@ -1,0 +1,1 @@
+ - Youngstown State University(`client_id=2683`) => [`https://ysu.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://ysu.blackboard.com/webapps/Bb-mobile-bb_bb60/)

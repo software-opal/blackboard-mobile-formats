@@ -1,0 +1,1 @@
+ - University of the Fraser Valley(`client_id=2272`) => [`https://bblearn.ufv.ca/webapps/Bb-mobile-BBLEARN/`](https://bblearn.ufv.ca/webapps/Bb-mobile-BBLEARN/)

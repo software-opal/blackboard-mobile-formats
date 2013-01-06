@@ -1,0 +1,1 @@
+ - Lethbridge College(`client_id=2983`) => [`https://www.lconline.ca/api/v7.4/mobile.svc/REST/`](https://www.lconline.ca/api/v7.4/mobile.svc/REST/)

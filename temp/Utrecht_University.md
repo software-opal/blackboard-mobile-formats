@@ -1,0 +1,1 @@
+ - Utrecht University(`client_id=2303`) => [`https://uu.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://uu.blackboard.com/webapps/Bb-mobile-bb_bb60/)

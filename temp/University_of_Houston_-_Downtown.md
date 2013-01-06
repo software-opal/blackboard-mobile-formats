@@ -1,0 +1,1 @@
+ - University of Houston - Downtown(`client_id=2722`) => [`https://bb.uhd.edu/webapps/Bb-mobile-BBLEARN/`](https://bb.uhd.edu/webapps/Bb-mobile-BBLEARN/)

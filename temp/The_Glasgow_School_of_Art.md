@@ -1,0 +1,1 @@
+ - The Glasgow School of Art(`client_id=2060`) => [`https://vle.gsa.ac.uk/webapps/Bb-mobile-BBLEARN/`](https://vle.gsa.ac.uk/webapps/Bb-mobile-BBLEARN/)

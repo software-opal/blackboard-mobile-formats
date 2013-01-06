@@ -1,0 +1,1 @@
+ - College of the Mainland(`client_id=1904`) => [`https://de.com.edu/webapps/Bb-mobile-BBLEARN/`](https://de.com.edu/webapps/Bb-mobile-BBLEARN/)

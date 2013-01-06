@@ -1,0 +1,1 @@
+ - St. Lawrence College(`client_id=1997`) => [`http://blackboard.sl.on.ca/webapps/Bb-mobile-BBLEARN/`](http://blackboard.sl.on.ca/webapps/Bb-mobile-BBLEARN/)

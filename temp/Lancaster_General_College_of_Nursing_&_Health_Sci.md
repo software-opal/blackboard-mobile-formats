@@ -1,0 +1,1 @@
+ - Lancaster General College of Nursing & Health Sci(`client_id=2332`) => [`https://pacollege.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://pacollege.blackboard.com/webapps/Bb-mobile-BBLEARN/)

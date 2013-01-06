@@ -1,0 +1,1 @@
+ - Payne Theological Seminary(`client_id=2649`) => [`https://payne.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://payne.blackboard.com/webapps/Bb-mobile-bb_bb60/)

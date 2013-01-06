@@ -1,0 +1,1 @@
+ - Edison State College(`client_id=1877`) => [`http://edison-bb9.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://edison-bb9.blackboard.com/webapps/Bb-mobile-BBLEARN/)

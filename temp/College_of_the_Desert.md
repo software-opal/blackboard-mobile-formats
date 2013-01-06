@@ -1,0 +1,1 @@
+ - College of the Desert(`client_id=1903`) => [`https://collegeofthedesert.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://collegeofthedesert.blackboard.com/webapps/Bb-mobile-bb_bb60/)

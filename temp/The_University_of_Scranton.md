@@ -1,0 +1,1 @@
+ - The University of Scranton(`client_id=3171`) => [`https://lms.scranton.edu/api/v7.4/mobile.svc/REST/`](https://lms.scranton.edu/api/v7.4/mobile.svc/REST/)

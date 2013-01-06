@@ -1,0 +1,1 @@
+ - Hong Kong Baptist University(`client_id=16496`) => [`https://hkbu.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://hkbu.blackboard.com/webapps/Bb-mobile-BBLEARN/)

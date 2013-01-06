@@ -1,0 +1,1 @@
+ - Bryant & Stratton College Online(`client_id=2843`) => [`http://angel.bryantstratton.edu/api/v7.4/mobile.svc/REST/`](http://angel.bryantstratton.edu/api/v7.4/mobile.svc/REST/)

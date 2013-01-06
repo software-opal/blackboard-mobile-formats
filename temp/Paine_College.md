@@ -1,0 +1,1 @@
+ - Paine College(`client_id=2772`) => [`http://paine.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://paine.blackboard.com/webapps/Bb-mobile-BBLEARN/)

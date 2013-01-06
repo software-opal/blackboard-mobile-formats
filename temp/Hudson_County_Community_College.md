@@ -1,0 +1,1 @@
+ - Hudson County Community College(`client_id=1808`) => [`http://hudsonccc.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://hudsonccc.blackboard.com/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Hawaii Pacific University(`client_id=1828`) => [`https://hpu.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://hpu.blackboard.com/webapps/Bb-mobile-BBLEARN/)

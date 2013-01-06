@@ -1,0 +1,1 @@
+ - JSOU(`client_id=2394`) => [`https://jsou.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://jsou.blackboard.com/webapps/Bb-mobile-bb_bb60/)

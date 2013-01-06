@@ -1,0 +1,1 @@
+ - SUNY - Cayuga Community College - ANGEL(`client_id=3117`) => [`https://cayuga.sln.suny.edu/api/v7.4/mobile.svc/REST/`](https://cayuga.sln.suny.edu/api/v7.4/mobile.svc/REST/)

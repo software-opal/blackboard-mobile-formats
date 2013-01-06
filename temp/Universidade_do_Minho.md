@@ -1,0 +1,1 @@
+ - Universidade do Minho(`client_id=2357`) => [`http://elearning.uminho.pt/webapps/Bb-mobile-bb_bb60/`](http://elearning.uminho.pt/webapps/Bb-mobile-bb_bb60/)

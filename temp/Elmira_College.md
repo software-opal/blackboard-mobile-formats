@@ -1,0 +1,1 @@
+ - Elmira College(`client_id=2895`) => [`http://angel.elmira.edu/api/v7.4/mobile.svc/REST/`](http://angel.elmira.edu/api/v7.4/mobile.svc/REST/)

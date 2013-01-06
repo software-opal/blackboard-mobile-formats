@@ -1,0 +1,1 @@
+ - Riverside Community College District(`client_id=2367`) => [`https://rccdopencampus.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://rccdopencampus.blackboard.com/webapps/Bb-mobile-BBLEARN/)

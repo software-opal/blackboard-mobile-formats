@@ -1,0 +1,1 @@
+ - Erikson Institute(`client_id=1850`) => [`http://erikson.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://erikson.blackboard.com/webapps/Bb-mobile-bb_bb60/)

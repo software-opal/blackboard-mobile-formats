@@ -1,0 +1,1 @@
+ - Luiss Business School(`client_id=2547`) => [`https://luiss.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://luiss.blackboard.com/webapps/Bb-mobile-bb_bb60/)

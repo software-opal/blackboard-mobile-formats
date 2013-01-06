@@ -1,0 +1,1 @@
+ - SUNY Oswego(`client_id=3138`) => [`https://oswego.sln.suny.edu/api/v7.4/mobile.svc/REST/`](https://oswego.sln.suny.edu/api/v7.4/mobile.svc/REST/)

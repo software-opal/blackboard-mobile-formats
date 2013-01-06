@@ -1,0 +1,1 @@
+ - Keiser University(`client_id=17788`) => [`http://keiseruniversity.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://keiseruniversity.blackboard.com/webapps/Bb-mobile-BBLEARN/)

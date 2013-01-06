@@ -1,0 +1,1 @@
+ - blendedschools.net(`client_id=1942`) => [`http://blendedschools.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://blendedschools.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - UC Berkeley Extension(`client_id=3165`) => [`https://elearning.berkeley.edu/api/v7.4/mobile.svc/REST/`](https://elearning.berkeley.edu/api/v7.4/mobile.svc/REST/)

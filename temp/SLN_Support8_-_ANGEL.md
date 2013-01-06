@@ -1,0 +1,1 @@
+ - SLN Support8 - ANGEL(`client_id=3723`) => [`https://support8.sln.suny.edu/api/v7.4/mobile.svc/REST/`](https://support8.sln.suny.edu/api/v7.4/mobile.svc/REST/)

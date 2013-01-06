@@ -1,0 +1,1 @@
+ - Washington State Board for Community and Technical Colleges(`client_id=3182`) => [`http://angel.waol.org/api/v7.4/mobile.svc/REST/`](http://angel.waol.org/api/v7.4/mobile.svc/REST/)

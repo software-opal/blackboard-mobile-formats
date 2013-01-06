@@ -1,0 +1,1 @@
+ - Polytechnic University of Puerto Rico(`client_id=2741`) => [`https://virtualcampus.pupr.edu/webapps/Bb-mobile-bb_bb60/`](https://virtualcampus.pupr.edu/webapps/Bb-mobile-bb_bb60/)

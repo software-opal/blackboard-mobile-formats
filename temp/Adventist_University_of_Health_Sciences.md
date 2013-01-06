@@ -1,0 +1,1 @@
+ - Adventist University of Health Sciences(`client_id=2910`) => [`https://learn.fhchs.edu/api/v7.4/mobile.svc/REST/`](https://learn.fhchs.edu/api/v7.4/mobile.svc/REST/)

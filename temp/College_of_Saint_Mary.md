@@ -1,0 +1,1 @@
+ - College of Saint Mary(`client_id=2872`) => [`https://angel.csm.edu/api/v7.4/mobile.svc/REST/`](https://angel.csm.edu/api/v7.4/mobile.svc/REST/)

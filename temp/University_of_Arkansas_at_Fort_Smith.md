@@ -1,0 +1,1 @@
+ - University of Arkansas at Fort Smith(`client_id=2029`) => [`http://learn.uafortsmith.edu/webapps/Bb-mobile-BBLPROD/`](http://learn.uafortsmith.edu/webapps/Bb-mobile-BBLPROD/)

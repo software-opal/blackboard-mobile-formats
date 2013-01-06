@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+<name>K12 Inc.</name>
+<id>11501</id>
+<b2_url>https://devedlearn.blackboard.com/webapps/Bb-mobile-BBLEARN/</b2_url>
+<has_community_system>1</has_community_system>
+<username_label>User Name</username_label>
+<has_mobile_central>0</has_mobile_central>
+<http_auth>0</http_auth>
+<from_people_soft>1</from_people_soft>
+<client_id>17623</client_id>
+<can_has_ssl_login>true</can_has_ssl_login>
+<access><wifi>0</wifi>
+<carrier>0</carrier>
+<sprint_local>0</sprint_local>
+</access>
+<userpay>1</userpay>
+<people_soft_institution_id>304637</people_soft_institution_id>
+<euse>none@none.com</euse>
+<euse_label>End User Support</euse_label>
+</s>

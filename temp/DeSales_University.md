@@ -1,0 +1,1 @@
+ - DeSales University(`client_id=546`) => [`https://desales.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://desales.blackboard.com/webapps/Bb-mobile-BBLEARN/)

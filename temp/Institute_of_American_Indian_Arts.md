@@ -1,0 +1,1 @@
+ - Institute of American Indian Arts(`client_id=17015`) => [`https://iaiaonline.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://iaiaonline.blackboard.com/webapps/Bb-mobile-BBLEARN/)

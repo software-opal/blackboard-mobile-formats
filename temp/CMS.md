@@ -1,0 +1,1 @@
+ - CMS(`client_id=2079`) => [`http://cmso.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://cmso.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Indian Institute of Management Kozikode(`client_id=16920`) => [`http://iimk.edu.in/webapps/Bb-mobile-BBLEARN/`](http://iimk.edu.in/webapps/Bb-mobile-BBLEARN/)

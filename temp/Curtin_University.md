@@ -1,0 +1,1 @@
+ - Curtin University(`client_id=1885`) => [`https://lms.curtin.edu.au/webapps/Bb-mobile-bb_bb60/`](https://lms.curtin.edu.au/webapps/Bb-mobile-bb_bb60/)

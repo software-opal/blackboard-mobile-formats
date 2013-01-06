@@ -1,0 +1,1 @@
+ - Pole Universitaire Leonard De Vinci(`client_id=1947`) => [`http://devinci.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://devinci.blackboard.com/webapps/Bb-mobile-bb_bb60/)

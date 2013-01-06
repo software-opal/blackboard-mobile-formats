@@ -1,0 +1,1 @@
+ - Concordia Admin Info Systems - River Forest(`client_id=2123`) => [`http://caisrh1.cuis.edu/webapps/Bb-mobile-bb_bb60/`](http://caisrh1.cuis.edu/webapps/Bb-mobile-bb_bb60/)

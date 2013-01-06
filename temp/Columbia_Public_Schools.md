@@ -1,0 +1,1 @@
+ - Columbia Public Schools(`client_id=2877`) => [`http://angel.columbia.k12.mo.us/api/v7.4/mobile.svc/REST/`](http://angel.columbia.k12.mo.us/api/v7.4/mobile.svc/REST/)

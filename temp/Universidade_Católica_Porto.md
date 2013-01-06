@@ -1,0 +1,1 @@
+ - Universidade Católica Porto(`client_id=2043`) => [`https://campus.porto.ucp.pt/webapps/Bb-mobile-BBLEARN/`](https://campus.porto.ucp.pt/webapps/Bb-mobile-BBLEARN/)

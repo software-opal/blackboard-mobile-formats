@@ -1,0 +1,1 @@
+ - Concordia University - St. Paul(`client_id=1928`) => [`http://cspbb3012.csp.edu/webapps/Bb-mobile-BBLEARN/`](http://cspbb3012.csp.edu/webapps/Bb-mobile-BBLEARN/)

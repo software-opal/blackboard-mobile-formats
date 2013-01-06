@@ -1,0 +1,1 @@
+ - University of Santo Tomas(`client_id=2809`) => [`http://eleap.ust.edu.ph/webapps/Bb-mobile-BBLEARN/`](http://eleap.ust.edu.ph/webapps/Bb-mobile-BBLEARN/)

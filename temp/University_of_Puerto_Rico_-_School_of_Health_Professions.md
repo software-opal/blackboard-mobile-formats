@@ -1,0 +1,1 @@
+ - University of Puerto Rico - School of Health Professions(`client_id=3256`) => [`http://epsblackboard.rcm.upr.edu:8080/webapps/Bb-mobile-bb_bb60/`](http://epsblackboard.rcm.upr.edu:8080/webapps/Bb-mobile-bb_bb60/)

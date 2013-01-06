@@ -1,0 +1,1 @@
+ - University of Alberta - School of Business(`client_id=2599`) => [`https://ulearn.ualberta.ca/webapps/Bb-mobile-BBLEARN/`](https://ulearn.ualberta.ca/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - University of Saskatchewan(`client_id=2727`) => [`https://bblearn.usask.ca/webapps/Bb-mobile-bb_bb60/`](https://bblearn.usask.ca/webapps/Bb-mobile-bb_bb60/)

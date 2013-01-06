@@ -1,0 +1,1 @@
+ - Lincoln Interactive(`client_id=2765`) => [`https://li.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://li.blackboard.com/webapps/Bb-mobile-BBLEARN/)

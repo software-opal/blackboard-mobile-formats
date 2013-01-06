@@ -1,0 +1,1 @@
+ - North Carolina Department of Justice(`client_id=2480`) => [`http://ncdoj.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://ncdoj.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Universität Salzburg(`client_id=1106`) => [`https://elearn.sbg.ac.at/webapps/Bb-mobile-bb_bb60/`](https://elearn.sbg.ac.at/webapps/Bb-mobile-bb_bb60/)

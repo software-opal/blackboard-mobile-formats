@@ -1,0 +1,1 @@
+ - Dublin Institute of Technology(`client_id=1866`) => [`https://dit-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://dit-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/)

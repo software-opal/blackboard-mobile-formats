@@ -1,0 +1,1 @@
+ - Network for Mercy Education(`client_id=2585`) => [`http://netmercyed.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://netmercyed.blackboard.com/webapps/Bb-mobile-bb_bb60/)

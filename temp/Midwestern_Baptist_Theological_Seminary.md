@@ -1,0 +1,1 @@
+ - Midwestern Baptist Theological Seminary(`client_id=20439`) => [`https://online.mbts.edu/webapps/Bb-mobile-BBLEARN/`](https://online.mbts.edu/webapps/Bb-mobile-BBLEARN/)

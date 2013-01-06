@@ -1,0 +1,1 @@
+ - Eastern Oklahoma State College(`client_id=1872`) => [`http://bblearn.eosc.edu/webapps/Bb-mobile-BBLEARN/`](http://bblearn.eosc.edu/webapps/Bb-mobile-BBLEARN/)

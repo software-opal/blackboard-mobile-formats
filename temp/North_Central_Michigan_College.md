@@ -1,0 +1,1 @@
+ - North Central Michigan College(`client_id=3031`) => [`http://bb1.ncmich.edu/webapps/Bb-mobile-BBLEARN/`](http://bb1.ncmich.edu/webapps/Bb-mobile-BBLEARN/)

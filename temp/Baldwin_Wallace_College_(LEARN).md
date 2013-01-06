@@ -1,0 +1,1 @@
+ - Baldwin Wallace College (LEARN)(`client_id=1962`) => [`https://bb.bw.edu/webapps/Bb-mobile-BBLEARN/`](https://bb.bw.edu/webapps/Bb-mobile-BBLEARN/)

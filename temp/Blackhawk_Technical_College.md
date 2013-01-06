@@ -1,0 +1,1 @@
+ - Blackhawk Technical College(`client_id=2673`) => [`http://blackhawk.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://blackhawk.blackboard.com/webapps/Bb-mobile-bb_bb60/)

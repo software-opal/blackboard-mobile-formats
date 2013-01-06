@@ -1,0 +1,1 @@
+ - Fredonia - ANGEL(`client_id=3125`) => [`https://fredonia.sln.suny.edu/api/v7.4/mobile.svc/REST/`](https://fredonia.sln.suny.edu/api/v7.4/mobile.svc/REST/)

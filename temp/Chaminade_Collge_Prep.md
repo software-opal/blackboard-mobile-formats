@@ -1,0 +1,1 @@
+ - Chaminade Collge Prep(`client_id=2400`) => [`http://www.chaminadeonline.com/webapps/Bb-mobile-bb_bb60/`](http://www.chaminadeonline.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - East Central University(`client_id=1862`) => [`https://blackboard.ecok.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.ecok.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Mitsubishi Corporation(`client_id=2623`) => [`http://mitsubishi.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://mitsubishi.blackboard.com/webapps/Bb-mobile-bb_bb60/)

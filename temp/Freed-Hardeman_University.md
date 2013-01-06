@@ -1,0 +1,1 @@
+ - Freed-Hardeman University(`client_id=1849`) => [`https://blackboard.fhu.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.fhu.edu/webapps/Bb-mobile-bb_bb60/)

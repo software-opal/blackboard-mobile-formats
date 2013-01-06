@@ -1,0 +1,1 @@
+ - Region VI Teaching Learning Technology Center(`client_id=2548`) => [`http://blackboard.rapides.k12.la.us/webapps/Bb-mobile-bb_bb60/`](http://blackboard.rapides.k12.la.us/webapps/Bb-mobile-bb_bb60/)

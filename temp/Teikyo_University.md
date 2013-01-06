@@ -1,0 +1,1 @@
+ - Teikyo University(`client_id=2321`) => [`https://lms.teikyo-u.ac.jp/webapps/Bb-mobile-BBLEARN/`](https://lms.teikyo-u.ac.jp/webapps/Bb-mobile-BBLEARN/)

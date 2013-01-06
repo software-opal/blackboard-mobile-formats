@@ -1,0 +1,1 @@
+ - Casa Loma College(`client_id=2459`) => [`http://casaloma.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://casaloma.blackboard.com/webapps/Bb-mobile-bb_bb60/)

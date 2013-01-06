@@ -1,0 +1,1 @@
+ - James A. Rhodes State College(`client_id=2957`) => [`http://angelcluster.rhodesstate.edu/api/v7.4/mobile.svc/REST/`](http://angelcluster.rhodesstate.edu/api/v7.4/mobile.svc/REST/)

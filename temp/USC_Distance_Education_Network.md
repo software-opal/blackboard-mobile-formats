@@ -1,0 +1,1 @@
+ - USC Distance Education Network(`client_id=2758`) => [`https://www.uscden.net/webapps/Bb-mobile-bb_bb60/`](https://www.uscden.net/webapps/Bb-mobile-bb_bb60/)

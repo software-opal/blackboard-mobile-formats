@@ -1,0 +1,1 @@
+ - Merced College(`client_id=2150`) => [`https://mccd.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://mccd.blackboard.com/webapps/Bb-mobile-BBLEARN/)

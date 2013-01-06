@@ -1,0 +1,1 @@
+ - Santa Clara University(`client_id=3081`) => [`https://camino.scu.edu/api/v7.4/mobile.svc/REST/`](https://camino.scu.edu/api/v7.4/mobile.svc/REST/)

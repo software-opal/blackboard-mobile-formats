@@ -1,0 +1,1 @@
+ - Glendale Unified School District(`client_id=4776`) => [`https://gusd.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://gusd.blackboard.com/webapps/Bb-mobile-BBLEARN/)

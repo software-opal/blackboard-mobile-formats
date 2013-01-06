@@ -1,0 +1,1 @@
+ - Wakefield College(`client_id=2747`) => [`http://learn.wakefield.ac.uk/webapps/Bb-mobile-BBLEARN/`](http://learn.wakefield.ac.uk/webapps/Bb-mobile-BBLEARN/)

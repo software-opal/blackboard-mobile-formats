@@ -1,0 +1,1 @@
+ - Sojourner Douglass College(`client_id=3224`) => [`http://sdcnursing.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://sdcnursing.blackboard.com/webapps/Bb-mobile-bb_bb60/)

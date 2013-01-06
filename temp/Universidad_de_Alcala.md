@@ -1,0 +1,1 @@
+ - Universidad de Alcala(`client_id=2265`) => [`https://uah.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://uah.blackboard.com/webapps/Bb-mobile-BBLEARN/)

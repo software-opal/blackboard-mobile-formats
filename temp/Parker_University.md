@@ -1,0 +1,1 @@
+ - Parker University(`client_id=3503`) => [`https://parker.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://parker.blackboard.com/webapps/Bb-mobile-BBLEARN/)

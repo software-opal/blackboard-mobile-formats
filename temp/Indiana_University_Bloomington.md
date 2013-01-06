@@ -1,0 +1,1 @@
+ - Indiana University Bloomington(`client_id=3398`) => [`https://iub.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://iub.blackboard.com/webapps/Bb-mobile-BBLEARN/)

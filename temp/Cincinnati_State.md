@@ -1,0 +1,1 @@
+ - Cincinnati State(`client_id=2466`) => [`https://mycstate.cincinnatistate.edu/webapps/Bb-mobile-bb_bb60/`](https://mycstate.cincinnatistate.edu/webapps/Bb-mobile-bb_bb60/)

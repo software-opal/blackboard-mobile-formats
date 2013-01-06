@@ -1,0 +1,1 @@
+ - Mälardalens högskola(`client_id=2194`) => [`https://blackboard.mdh.se/webapps/Bb-mobile-BBLEARN/`](https://blackboard.mdh.se/webapps/Bb-mobile-BBLEARN/)

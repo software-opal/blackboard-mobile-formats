@@ -1,0 +1,1 @@
+ - Delaware Area Career Center(`client_id=2567`) => [`https://delawareareacc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://delawareareacc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

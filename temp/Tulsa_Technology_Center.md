@@ -1,0 +1,1 @@
+ - Tulsa Technology Center(`client_id=2803`) => [`http://tulsatech.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://tulsatech.blackboard.com/webapps/Bb-mobile-bb_bb60/)

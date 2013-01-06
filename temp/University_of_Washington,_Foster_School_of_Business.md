@@ -1,0 +1,1 @@
+ - University of Washington, Foster School of Business(`client_id=2742`) => [`http://foster.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://foster.blackboard.com/webapps/Bb-mobile-bb_bb60/)

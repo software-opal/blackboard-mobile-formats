@@ -1,0 +1,1 @@
+ - UNIST(`client_id=2613`) => [`http://bb.unist.ac.kr/webapps/Bb-mobile-bb_bb60/`](http://bb.unist.ac.kr/webapps/Bb-mobile-bb_bb60/)

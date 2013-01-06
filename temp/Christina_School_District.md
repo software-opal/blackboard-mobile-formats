@@ -1,0 +1,1 @@
+ - Christina School District(`client_id=2474`) => [`http://spa.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://spa.blackboard.com/webapps/Bb-mobile-bb_bb60/)

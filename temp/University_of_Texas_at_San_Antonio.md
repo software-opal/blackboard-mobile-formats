@@ -1,0 +1,1 @@
+ - University of Texas at San Antonio(`client_id=2295`) => [`http://bbdev.utsa.edu/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:a7222861-8173-7416-0182-38476f891c25/populateMyWebCT.dowebct/`](http://bbdev.utsa.edu/webct/urw/ssMobileModule.snWebCT.siURN:X-WEBCT-VISTA-V1:a7222861-8173-7416-0182-38476f891c25/populateMyWebCT.dowebct/)

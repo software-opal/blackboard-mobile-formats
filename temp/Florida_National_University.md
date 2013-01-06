@@ -1,0 +1,1 @@
+ - Florida National University(`client_id=1996`) => [`https://fnu.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://fnu.blackboard.com/webapps/Bb-mobile-bb_bb60/)

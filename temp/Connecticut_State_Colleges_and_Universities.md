@@ -1,0 +1,1 @@
+ - Connecticut State Colleges and Universities(`client_id=1923`) => [`https://learn.ct.edu/webapps/Bb-mobile-BBLEARN/`](https://learn.ct.edu/webapps/Bb-mobile-BBLEARN/)

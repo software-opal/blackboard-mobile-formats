@@ -1,0 +1,1 @@
+ - Northwestern Oklahoma State University(`client_id=2787`) => [`http://bboard2010.nwosu.edu/webapps/Bb-mobile-BBLEARN/`](http://bboard2010.nwosu.edu/webapps/Bb-mobile-BBLEARN/)

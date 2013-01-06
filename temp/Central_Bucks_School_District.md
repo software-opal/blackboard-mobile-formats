@@ -1,0 +1,1 @@
+ - Central Bucks School District(`client_id=10148`) => [`https://cbsd.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://cbsd.blackboard.com/webapps/Bb-mobile-BBLEARN/)

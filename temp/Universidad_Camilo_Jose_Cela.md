@@ -1,0 +1,1 @@
+ - Universidad Camilo Jose Cela(`client_id=2264`) => [`https://ucjc.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://ucjc.blackboard.com/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - EAE Business School(`client_id=2355`) => [`http://eae.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://eae.blackboard.com/webapps/Bb-mobile-bb_bb60/)

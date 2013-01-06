@@ -1,0 +1,1 @@
+ - Sage College(`client_id=2044`) => [`http://sagecollege.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://sagecollege.blackboard.com/webapps/Bb-mobile-bb_bb60/)

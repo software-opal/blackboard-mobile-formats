@@ -1,0 +1,1 @@
+ - Clearwater Christian College(`client_id=2390`) => [`https://clearwater.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://clearwater.blackboard.com/webapps/Bb-mobile-bb_bb60/)

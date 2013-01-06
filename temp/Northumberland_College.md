@@ -1,0 +1,1 @@
+ - Northumberland College(`client_id=2438`) => [`http://northumberlandcollege.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://northumberlandcollege.blackboard.com/webapps/Bb-mobile-bb_bb60/)

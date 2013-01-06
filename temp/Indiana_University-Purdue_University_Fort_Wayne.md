@@ -1,0 +1,1 @@
+ - Indiana University-Purdue University Fort Wayne(`client_id=16943`) => [`https://ipfw.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://ipfw.blackboard.com/webapps/Bb-mobile-BBLEARN/)

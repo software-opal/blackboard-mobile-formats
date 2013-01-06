@@ -1,0 +1,1 @@
+ - Missouri Baptist University(`client_id=1932`) => [`http://blackboard.mobap.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.mobap.edu/webapps/Bb-mobile-bb_bb60/)

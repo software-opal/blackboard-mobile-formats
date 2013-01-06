@@ -1,0 +1,1 @@
+ - Mercy College of Health Sciences(`client_id=3003`) => [`http://mercy.angellearning.com/api/v7.4/mobile.svc/REST/`](http://mercy.angellearning.com/api/v7.4/mobile.svc/REST/)

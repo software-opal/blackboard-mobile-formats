@@ -1,0 +1,1 @@
+ - Fairfield University(`client_id=2902`) => [`http://fairfield.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://fairfield.blackboard.com/webapps/Bb-mobile-bb_bb60/)

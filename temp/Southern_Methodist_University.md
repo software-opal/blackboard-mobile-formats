@@ -1,0 +1,1 @@
+ - Southern Methodist University(`client_id=2710`) => [`https://courses.smu.edu/webapps/Bb-mobile-bb_bb60/`](https://courses.smu.edu/webapps/Bb-mobile-bb_bb60/)

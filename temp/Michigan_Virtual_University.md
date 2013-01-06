@@ -1,0 +1,1 @@
+ - Michigan Virtual University(`client_id=392`) => [`http://bb.mivu.org/webapps/Bb-mobile-bb_bb60/`](http://bb.mivu.org/webapps/Bb-mobile-bb_bb60/)

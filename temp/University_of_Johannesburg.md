@@ -1,0 +1,1 @@
+ - University of Johannesburg(`client_id=2289`) => [`https://edulink.uj.ac.za/webapps/Bb-mobile-BBLEARN/`](https://edulink.uj.ac.za/webapps/Bb-mobile-BBLEARN/)

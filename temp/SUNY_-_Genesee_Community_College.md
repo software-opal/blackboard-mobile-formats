@@ -1,0 +1,1 @@
+ - SUNY - Genesee Community College(`client_id=3452`) => [`http://learn.genesee.edu/webapps/Bb-mobile-BBLEARN/`](http://learn.genesee.edu/webapps/Bb-mobile-BBLEARN/)

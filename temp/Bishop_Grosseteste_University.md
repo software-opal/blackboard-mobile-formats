@@ -1,0 +1,1 @@
+ - Bishop Grosseteste University(`client_id=1959`) => [`https://mycourses.bishopg.ac.uk/webapps/Bb-mobile-BB082011/`](https://mycourses.bishopg.ac.uk/webapps/Bb-mobile-BB082011/)

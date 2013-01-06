@@ -1,0 +1,1 @@
+ - General Dynamics Land Systems(`client_id=2528`) => [`https://gdls.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://gdls.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Novancia(`client_id=6737`) => [`https://novancia.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://novancia.blackboard.com/webapps/Bb-mobile-BBLEARN/)

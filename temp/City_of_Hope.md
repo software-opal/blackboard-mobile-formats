@@ -1,0 +1,1 @@
+ - City of Hope(`client_id=2385`) => [`https://cityofhope.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://cityofhope.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Prince Mohammed Bin Fahd University(`client_id=2380`) => [`http://bbappsrv.pmu.edu.sa/webapps/Bb-mobile-bb_bb60/`](http://bbappsrv.pmu.edu.sa/webapps/Bb-mobile-bb_bb60/)

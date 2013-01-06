@@ -1,0 +1,1 @@
+ - Danville Area Community College(`client_id=1882`) => [`https://dacc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://dacc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

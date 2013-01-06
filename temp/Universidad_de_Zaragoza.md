@@ -1,0 +1,1 @@
+ - Universidad de Zaragoza(`client_id=2268`) => [`http://bb.unizar.es/webapps/Bb-mobile-BB/`](http://bb.unizar.es/webapps/Bb-mobile-BB/)

@@ -1,0 +1,1 @@
+ - Nazareth College of Australia(`client_id=2475`) => [`https://nazareth.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://nazareth.blackboard.com/webapps/Bb-mobile-BBLEARN/)

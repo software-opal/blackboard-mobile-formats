@@ -1,0 +1,1 @@
+ - Management Development Institute of Singapore(`client_id=1965`) => [`http://elearning.mdis.edu.sg/webapps/Bb-mobile-BBLEARN/`](http://elearning.mdis.edu.sg/webapps/Bb-mobile-BBLEARN/)

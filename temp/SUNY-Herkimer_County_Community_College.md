@@ -1,0 +1,1 @@
+ - SUNY-Herkimer County Community College(`client_id=3128`) => [`https://herkimer.sln.suny.edu/api/v7.4/mobile.svc/REST/`](https://herkimer.sln.suny.edu/api/v7.4/mobile.svc/REST/)

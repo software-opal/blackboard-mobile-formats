@@ -1,0 +1,1 @@
+ - George Brown College BB9(`client_id=1833`) => [`https://bb-gbc.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://bb-gbc.blackboard.com/webapps/Bb-mobile-BBLEARN/)

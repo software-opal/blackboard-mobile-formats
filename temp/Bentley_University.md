@@ -1,0 +1,1 @@
+ - Bentley University(`client_id=3261`) => [`http://blackboard.bentley.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.bentley.edu/webapps/Bb-mobile-bb_bb60/)

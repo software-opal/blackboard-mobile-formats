@@ -1,0 +1,1 @@
+ - SCOPE Education Services(`client_id=2520`) => [`http://scopeonline.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://scopeonline.blackboard.com/webapps/Bb-mobile-bb_bb60/)

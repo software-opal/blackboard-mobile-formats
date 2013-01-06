@@ -1,0 +1,1 @@
+ - SUNY Sullivan - ANGEL(`client_id=3142`) => [`https://sullivan.sln.suny.edu/api/v7.4/mobile.svc/REST/`](https://sullivan.sln.suny.edu/api/v7.4/mobile.svc/REST/)

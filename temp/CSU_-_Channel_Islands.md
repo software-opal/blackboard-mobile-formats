@@ -1,0 +1,1 @@
+ - CSU - Channel Islands(`client_id=2512`) => [`https://csuci.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://csuci.blackboard.com/webapps/Bb-mobile-bb_bb60/)

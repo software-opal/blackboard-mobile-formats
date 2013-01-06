@@ -1,0 +1,1 @@
+ - Christ College of Nursing and Health Sciences(`client_id=3150`) => [`https://thechristcollege.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://thechristcollege.blackboard.com/webapps/Bb-mobile-BBLEARN/)

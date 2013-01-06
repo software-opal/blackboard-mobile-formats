@@ -1,0 +1,1 @@
+ - Fundação Dom Cabral(`client_id=2533`) => [`http://bb.fdc.org.br/webapps/Bb-mobile-bb_bb60/`](http://bb.fdc.org.br/webapps/Bb-mobile-bb_bb60/)

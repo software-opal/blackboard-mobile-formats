@@ -1,0 +1,1 @@
+ - Tribeca Flashpoint Media Arts Academy(`client_id=2509`) => [`http://inanna.flashpointacademy.com/webapps/Bb-mobile-BBLEARN/`](http://inanna.flashpointacademy.com/webapps/Bb-mobile-BBLEARN/)

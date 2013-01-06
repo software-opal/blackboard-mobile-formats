@@ -1,0 +1,1 @@
+ - University of Calgary(`client_id=2700`) => [`https://blackboard.ucalgary.ca/webapps/Bb-mobile-bb_bb60/`](https://blackboard.ucalgary.ca/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Colegio Cambridge de Monterrey(`client_id=2501`) => [`http://colegiocambridge.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://colegiocambridge.blackboard.com/webapps/Bb-mobile-bb_bb60/)

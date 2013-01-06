@@ -1,0 +1,1 @@
+ - Macomb Community College(`client_id=2992`) => [`https://macomb.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://macomb.blackboard.com/webapps/Bb-mobile-BBLEARN/)

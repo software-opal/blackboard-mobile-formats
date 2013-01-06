@@ -1,0 +1,1 @@
+ - Buffalo State - ANGEL(`client_id=2845`) => [`https://bscangel.sln.suny.edu/api/v7.4/mobile.svc/REST/`](https://bscangel.sln.suny.edu/api/v7.4/mobile.svc/REST/)

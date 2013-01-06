@@ -1,0 +1,1 @@
+ - St. Edwards University(`client_id=2588`) => [`https://blackboard.stedwards.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.stedwards.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Johnson & Wales University(`client_id=2959`) => [`https://ulearn.jwu.edu/webapps/Bb-mobile-bb_bb60/`](https://ulearn.jwu.edu/webapps/Bb-mobile-bb_bb60/)

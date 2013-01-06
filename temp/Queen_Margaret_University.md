@@ -1,0 +1,1 @@
+ - Queen Margaret University(`client_id=2196`) => [`https://hub.qmu.ac.uk/webapps/Bb-mobile-BBLEARN/`](https://hub.qmu.ac.uk/webapps/Bb-mobile-BBLEARN/)

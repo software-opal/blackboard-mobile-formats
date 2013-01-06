@@ -1,0 +1,1 @@
+ - Justice Institute of British Columbia(`client_id=2173`) => [`http://elearn.jibc.ca/webapps/Bb-mobile-BBPROD/`](http://elearn.jibc.ca/webapps/Bb-mobile-BBPROD/)

@@ -1,0 +1,1 @@
+ - Delaware Valley College(`client_id=2395`) => [`https://delval.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://delval.blackboard.com/webapps/Bb-mobile-bb_bb60/)

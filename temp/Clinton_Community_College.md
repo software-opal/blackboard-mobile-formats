@@ -1,0 +1,1 @@
+ - Clinton Community College(`client_id=3118`) => [`https://clinton.sln.suny.edu/api/v7.4/mobile.svc/REST/`](https://clinton.sln.suny.edu/api/v7.4/mobile.svc/REST/)

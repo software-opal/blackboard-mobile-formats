@@ -1,0 +1,1 @@
+ - Community College of Baltimore County(`client_id=2122`) => [`http://ccbcmd-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://ccbcmd-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Universitas Mercatorum(`client_id=2381`) => [`http://mercatorum01.cineca.it/webapps/Bb-mobile-bb_bb60/`](http://mercatorum01.cineca.it/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Penn State University(PSU)(`client_id=3056`) => [`https://cms.psu.edu/api/v7.4/mobile.svc/REST/`](https://cms.psu.edu/api/v7.4/mobile.svc/REST/)

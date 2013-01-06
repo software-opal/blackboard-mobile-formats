@@ -1,0 +1,1 @@
+ - Effat University(`client_id=2775`) => [`http://blackboard.effatuniversity.edu.sa/webapps/Bb-mobile-BBLEARN/`](http://blackboard.effatuniversity.edu.sa/webapps/Bb-mobile-BBLEARN/)

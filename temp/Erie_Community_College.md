@@ -1,0 +1,1 @@
+ - Erie Community College(`client_id=2898`) => [`https://angel.ecc.edu/api/v7.4/mobile.svc/REST/`](https://angel.ecc.edu/api/v7.4/mobile.svc/REST/)

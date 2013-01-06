@@ -1,0 +1,1 @@
+ - K12 Inc.(`client_id=17623`) => [`https://devedlearn.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://devedlearn.blackboard.com/webapps/Bb-mobile-BBLEARN/)

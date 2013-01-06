@@ -1,0 +1,1 @@
+ - Fundacao Instituto de Pesquisas Contabeis(`client_id=2053`) => [`https://fipecafi.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://fipecafi.blackboard.com/webapps/Bb-mobile-BBLEARN/)

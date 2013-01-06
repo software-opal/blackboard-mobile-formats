@@ -1,0 +1,1 @@
+ - Radboud Universiteit Nijmegen(`client_id=2603`) => [`http://blackboard.ru.nl/webapps/Bb-mobile-bb_bb60/`](http://blackboard.ru.nl/webapps/Bb-mobile-bb_bb60/)

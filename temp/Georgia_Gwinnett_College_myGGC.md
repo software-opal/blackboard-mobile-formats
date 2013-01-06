@@ -1,0 +1,1 @@
+ - Georgia Gwinnett College myGGC(`client_id=2491`) => [`https://ggc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://ggc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

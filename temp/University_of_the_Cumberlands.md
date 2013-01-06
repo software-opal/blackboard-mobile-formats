@@ -1,0 +1,1 @@
+ - University of the Cumberlands(`client_id=3172`) => [`https://ucumberlands.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://ucumberlands.blackboard.com/webapps/Bb-mobile-BBLEARN/)

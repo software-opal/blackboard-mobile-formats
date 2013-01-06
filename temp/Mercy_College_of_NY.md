@@ -1,0 +1,1 @@
+ - Mercy College of NY(`client_id=1727`) => [`https://mercy.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://mercy.blackboard.com/webapps/Bb-mobile-BBLEARN/)

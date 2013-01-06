@@ -1,0 +1,1 @@
+ - Petrozavodsk State University(`client_id=2220`) => [`http://blackboard.petrsu.ru/webapps/Bb-mobile-BBLEARN/`](http://blackboard.petrsu.ru/webapps/Bb-mobile-BBLEARN/)

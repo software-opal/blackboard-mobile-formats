@@ -1,0 +1,1 @@
+ - South West College(`client_id=2805`) => [`https://swc.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://swc.blackboard.com/webapps/Bb-mobile-BBLEARN/)

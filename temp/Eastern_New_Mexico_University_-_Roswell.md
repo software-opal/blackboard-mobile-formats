@@ -1,0 +1,1 @@
+ - Eastern New Mexico University - Roswell(`client_id=1871`) => [`https://enmur.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://enmur.blackboard.com/webapps/Bb-mobile-BBLEARN/)

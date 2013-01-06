@@ -1,0 +1,1 @@
+ - INADEH(`client_id=2481`) => [`http://inadeh.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://inadeh.blackboard.com/webapps/Bb-mobile-bb_bb60/)

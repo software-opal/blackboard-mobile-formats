@@ -1,0 +1,1 @@
+ - Writer's Digest University(`client_id=3205`) => [`https://fwmedia.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://fwmedia.blackboard.com/webapps/Bb-mobile-bb_bb60/)

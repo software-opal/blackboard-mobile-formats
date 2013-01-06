@@ -1,0 +1,1 @@
+ - Instituto Politécnico da Guarda(`client_id=1950`) => [`http://twintwo.ipg.pt/webapps/Bb-mobile-bb_bb60/`](http://twintwo.ipg.pt/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - College of DuPage(`client_id=1912`) => [`https://bb.cod.edu/webapps/Bb-mobile-bb_bb60/`](https://bb.cod.edu/webapps/Bb-mobile-bb_bb60/)

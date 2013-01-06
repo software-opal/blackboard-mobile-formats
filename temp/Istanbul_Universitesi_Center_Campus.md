@@ -1,0 +1,1 @@
+ - Istanbul Universitesi Center Campus(`client_id=3212`) => [`http://istanbul.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://istanbul.blackboard.com/webapps/Bb-mobile-bb_bb60/)

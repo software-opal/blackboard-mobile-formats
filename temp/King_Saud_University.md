@@ -1,0 +1,1 @@
+ - King Saud University(`client_id=2362`) => [`http://lms.ksu.edu.sa/webapps/Bb-mobile-bb_bb60/`](http://lms.ksu.edu.sa/webapps/Bb-mobile-bb_bb60/)

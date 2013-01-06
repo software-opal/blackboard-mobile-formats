@@ -1,0 +1,1 @@
+ - BriarCliff(`client_id=2839`) => [`https://bcuonline.briarcliff.edu/api/v7.4/mobile.svc/REST/`](https://bcuonline.briarcliff.edu/api/v7.4/mobile.svc/REST/)

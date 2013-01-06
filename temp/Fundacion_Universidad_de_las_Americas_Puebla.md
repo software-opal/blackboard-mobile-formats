@@ -1,0 +1,1 @@
+ - Fundacion Universidad de las Americas Puebla(`client_id=14683`) => [`https://fudlap.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://fudlap.blackboard.com/webapps/Bb-mobile-BBLEARN/)

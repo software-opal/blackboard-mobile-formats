@@ -1,0 +1,1 @@
+ - University of Stirling(`client_id=2293`) => [`https://succeed.stir.ac.uk/webapps/Bb-mobile-BBLEARN/`](https://succeed.stir.ac.uk/webapps/Bb-mobile-BBLEARN/)

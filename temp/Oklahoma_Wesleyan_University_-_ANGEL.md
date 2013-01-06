@@ -1,0 +1,1 @@
+ - Oklahoma Wesleyan University - ANGEL(`client_id=3046`) => [`http://okwu.angellearning.com/api/v7.4/mobile.svc/REST/`](http://okwu.angellearning.com/api/v7.4/mobile.svc/REST/)

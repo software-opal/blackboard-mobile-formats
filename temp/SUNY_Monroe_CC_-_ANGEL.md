@@ -1,0 +1,1 @@
+ - SUNY Monroe CC - ANGEL(`client_id=3132`) => [`https://monroecc.sln.suny.edu/api/v7.4/mobile.svc/REST/`](https://monroecc.sln.suny.edu/api/v7.4/mobile.svc/REST/)

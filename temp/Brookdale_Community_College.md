@@ -1,0 +1,1 @@
+ - Brookdale Community College(`client_id=2841`) => [`https://brookdale.angellearning.com/api/v7.4/mobile.svc/REST/`](https://brookdale.angellearning.com/api/v7.4/mobile.svc/REST/)

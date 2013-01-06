@@ -1,0 +1,1 @@
+ - University of Trinidad and Tobago(`client_id=2324`) => [`http://utt.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://utt.blackboard.com/webapps/Bb-mobile-bb_bb60/)

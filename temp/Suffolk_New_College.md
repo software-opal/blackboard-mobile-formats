@@ -1,0 +1,1 @@
+ - Suffolk New College(`client_id=2681`) => [`https://blackboard.suffolk.ac.uk/webapps/Bb-mobile-bb_bb60/`](https://blackboard.suffolk.ac.uk/webapps/Bb-mobile-bb_bb60/)

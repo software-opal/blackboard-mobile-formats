@@ -1,0 +1,1 @@
+ - CSU - Bakersfield(`client_id=2731`) => [`https://bb.csub.edu/webapps/Bb-mobile-bb_bb60/`](https://bb.csub.edu/webapps/Bb-mobile-bb_bb60/)

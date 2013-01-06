@@ -1,0 +1,1 @@
+ - Victory University(`client_id=1884`) => [`http://online.victory.edu/webapps/Bb-mobile-bb_bb60/`](http://online.victory.edu/webapps/Bb-mobile-bb_bb60/)

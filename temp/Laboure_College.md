@@ -1,0 +1,1 @@
+ - Laboure College(`client_id=2748`) => [`http://laboure.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://laboure.blackboard.com/webapps/Bb-mobile-BBLEARN/)

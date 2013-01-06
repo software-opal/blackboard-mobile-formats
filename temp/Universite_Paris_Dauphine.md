@@ -1,0 +1,1 @@
+ - Universite Paris Dauphine(`client_id=3230`) => [`https://mycourse.dauphine.fr/webapps/Bb-mobile-BBLEARN/`](https://mycourse.dauphine.fr/webapps/Bb-mobile-BBLEARN/)

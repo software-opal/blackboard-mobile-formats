@@ -1,0 +1,1 @@
+ - Connors State College(`client_id=1925`) => [`http://cscbb.onenet.net/webapps/Bb-mobile-BBLEARN/`](http://cscbb.onenet.net/webapps/Bb-mobile-BBLEARN/)

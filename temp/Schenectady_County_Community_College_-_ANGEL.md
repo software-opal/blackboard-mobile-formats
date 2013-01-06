@@ -1,0 +1,1 @@
+ - Schenectady County Community College - ANGEL(`client_id=3141`) => [`https://sunysccc.sln.suny.edu/api/v7.4/mobile.svc/REST/`](https://sunysccc.sln.suny.edu/api/v7.4/mobile.svc/REST/)

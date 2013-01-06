@@ -1,0 +1,1 @@
+ - University Campus Suffolk(`client_id=2371`) => [`https://learn.ucs.ac.uk/webapps/Bb-mobile-BBLEARN/`](https://learn.ucs.ac.uk/webapps/Bb-mobile-BBLEARN/)

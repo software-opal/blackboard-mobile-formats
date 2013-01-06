@@ -1,0 +1,1 @@
+ - South Dakota Department of Education(`client_id=2729`) => [`https://courses.k12.sd.us/webapps/Bb-mobile-BBLEARN/`](https://courses.k12.sd.us/webapps/Bb-mobile-BBLEARN/)

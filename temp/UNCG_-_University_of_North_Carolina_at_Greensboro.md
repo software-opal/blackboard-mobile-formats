@@ -1,0 +1,1 @@
+ - UNCG - University of North Carolina at Greensboro(`client_id=2280`) => [`https://blackboard.uncg.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.uncg.edu/webapps/Bb-mobile-bb_bb60/)

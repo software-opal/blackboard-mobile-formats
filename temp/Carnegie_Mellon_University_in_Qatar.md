@@ -1,0 +1,1 @@
+ - Carnegie Mellon University in Qatar(`client_id=2012`) => [`http://blackboard.qatar.cmu.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.qatar.cmu.edu/webapps/Bb-mobile-BBLEARN/)

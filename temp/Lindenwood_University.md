@@ -1,0 +1,1 @@
+ - Lindenwood University(`client_id=2714`) => [`https://lindenwood.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://lindenwood.blackboard.com/webapps/Bb-mobile-bb_bb60/)

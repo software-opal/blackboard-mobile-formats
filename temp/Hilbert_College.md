@@ -1,0 +1,1 @@
+ - Hilbert College(`client_id=2936`) => [`https://blackboard.hilbert.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.hilbert.edu/webapps/Bb-mobile-BBLEARN/)

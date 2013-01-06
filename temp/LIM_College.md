@@ -1,0 +1,1 @@
+ - LIM College(`client_id=2470`) => [`https://limcollege.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://limcollege.blackboard.com/webapps/Bb-mobile-bb_bb60/)

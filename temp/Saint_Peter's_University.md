@@ -1,0 +1,1 @@
+ - Saint Peter's University(`client_id=2120`) => [`https://mycourses91.saintpeters.edu/webapps/Bb-mobile-BBLEARN/`](https://mycourses91.saintpeters.edu/webapps/Bb-mobile-BBLEARN/)

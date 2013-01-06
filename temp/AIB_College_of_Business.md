@@ -1,0 +1,1 @@
+ - AIB College of Business(`client_id=2047`) => [`http://blackboard.aib.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.aib.edu/webapps/Bb-mobile-BBLEARN/)

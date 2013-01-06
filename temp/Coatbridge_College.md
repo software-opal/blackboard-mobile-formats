@@ -1,0 +1,1 @@
+ - Coatbridge College(`client_id=2010`) => [`https://coatbridge.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://coatbridge.blackboard.com/webapps/Bb-mobile-bb_bb60/)

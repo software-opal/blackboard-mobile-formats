@@ -1,0 +1,1 @@
+ - Edison State Community College(`client_id=1954`) => [`http://4learning.edisonohio.edu/webapps/Bb-mobile-bb_bb60/`](http://4learning.edisonohio.edu/webapps/Bb-mobile-bb_bb60/)

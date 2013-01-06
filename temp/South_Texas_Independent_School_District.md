@@ -1,0 +1,1 @@
+ - South Texas Independent School District(`client_id=2246`) => [`http://blackboard.stisd.net/webapps/Bb-mobile-BBLEARN/`](http://blackboard.stisd.net/webapps/Bb-mobile-BBLEARN/)

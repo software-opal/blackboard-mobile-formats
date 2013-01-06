@@ -1,0 +1,1 @@
+ - SUNY - Jamestown Community College(`client_id=3130`) => [`https://jamestown.sln.suny.edu/api/v7.4/mobile.svc/REST/`](https://jamestown.sln.suny.edu/api/v7.4/mobile.svc/REST/)

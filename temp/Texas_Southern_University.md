@@ -1,0 +1,1 @@
+ - Texas Southern University(`client_id=2717`) => [`http://texsu.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://texsu.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Colorado State University(`client_id=1917`) => [`https://ramct.colostate.edu/webapps/Bb-mobile-BBLEARN/`](https://ramct.colostate.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Douglas College(`client_id=2133`) => [`http://learn.douglas.bc.ca/webapps/Bb-mobile-BBLEARN/`](http://learn.douglas.bc.ca/webapps/Bb-mobile-BBLEARN/)

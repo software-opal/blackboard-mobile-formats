@@ -1,0 +1,1 @@
+ - University of Newcastle(`client_id=2565`) => [`https://uonline.newcastle.edu.au/webapps/Bb-mobile-bb_bb60/`](https://uonline.newcastle.edu.au/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Hillsborough Community College(`client_id=1810`) => [`https://hccfl.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://hccfl.blackboard.com/webapps/Bb-mobile-BBLEARN/)

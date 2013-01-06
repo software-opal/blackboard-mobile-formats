@@ -1,0 +1,1 @@
+ - Coker College(`client_id=11190`) => [`https://coker.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://coker.blackboard.com/webapps/Bb-mobile-BBLEARN/)

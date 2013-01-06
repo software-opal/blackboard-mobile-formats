@@ -1,0 +1,1 @@
+ - Cardinal Stritch University(`client_id=2854`) => [`http://stritch.angellearning.com/api/v7.4/mobile.svc/REST/`](http://stritch.angellearning.com/api/v7.4/mobile.svc/REST/)

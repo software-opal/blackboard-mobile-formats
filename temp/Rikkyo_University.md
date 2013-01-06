@@ -1,0 +1,1 @@
+ - Rikkyo University(`client_id=2433`) => [`https://bb.rikkyo.ac.jp/webapps/Bb-mobile-BBLEARN/`](https://bb.rikkyo.ac.jp/webapps/Bb-mobile-BBLEARN/)

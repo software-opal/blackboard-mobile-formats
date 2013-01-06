@@ -1,0 +1,1 @@
+ - Enterprise State Community College(`client_id=2139`) => [`https://escc.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://escc.blackboard.com/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Onondaga Community College - ANGEL(`client_id=3136`) => [`https://sunyocc.sln.suny.edu/api/v7.4/mobile.svc/REST/`](https://sunyocc.sln.suny.edu/api/v7.4/mobile.svc/REST/)

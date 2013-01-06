@@ -1,0 +1,1 @@
+ - Lower Hudson Regional Information Center(`client_id=5849`) => [`http://blackboard.lhric.org/webapps/Bb-mobile-BBLEARN/`](http://blackboard.lhric.org/webapps/Bb-mobile-BBLEARN/)

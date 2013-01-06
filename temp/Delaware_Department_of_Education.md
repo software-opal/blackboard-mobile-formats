@@ -1,0 +1,1 @@
+ - Delaware Department of Education(`client_id=2420`) => [`http://delaware.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://delaware.blackboard.com/webapps/Bb-mobile-bb_bb60/)

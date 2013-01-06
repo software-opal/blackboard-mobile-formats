@@ -1,0 +1,1 @@
+ - Swinburne University of Technology-Sarawak Campus(`client_id=2659`) => [`http://blackboard.swinburne.edu.my/webapps/Bb-mobile-bb_bb60/`](http://blackboard.swinburne.edu.my/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Corcoran College of Art + Design(`client_id=11671`) => [`https://corcoran.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://corcoran.blackboard.com/webapps/Bb-mobile-BBLEARN/)

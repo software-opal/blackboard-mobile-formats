@@ -1,0 +1,1 @@
+ - Concordia University - Ann Arbor(`client_id=2124`) => [`https://bb.cuaa.edu/webapps/Bb-mobile-bb_bb60/`](https://bb.cuaa.edu/webapps/Bb-mobile-bb_bb60/)

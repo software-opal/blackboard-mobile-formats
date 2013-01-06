@@ -1,0 +1,1 @@
+ - Chabot-Las Positas Community College District(`client_id=2684`) => [`https://clpccd.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://clpccd.blackboard.com/webapps/Bb-mobile-bb_bb60/)

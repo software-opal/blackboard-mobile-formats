@@ -1,0 +1,1 @@
+ - Lewiston High School(`client_id=2541`) => [`http://lewiston.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://lewiston.blackboard.com/webapps/Bb-mobile-bb_bb60/)

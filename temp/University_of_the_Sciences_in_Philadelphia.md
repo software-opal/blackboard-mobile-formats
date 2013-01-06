@@ -1,0 +1,1 @@
+ - University of the Sciences in Philadelphia(`client_id=3173`) => [`https://usciences.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://usciences.blackboard.com/webapps/Bb-mobile-BBLEARN/)

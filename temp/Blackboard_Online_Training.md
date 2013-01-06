@@ -1,0 +1,1 @@
+ - Blackboard Online Training(`client_id=3244`) => [`https://training.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://training.blackboard.com/webapps/Bb-mobile-bb_bb60/)

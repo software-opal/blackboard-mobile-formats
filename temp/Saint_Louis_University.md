@@ -1,0 +1,1 @@
+ - Saint Louis University(`client_id=2719`) => [`https://global.slu.edu/webapps/Bb-mobile-bb_bb60/`](https://global.slu.edu/webapps/Bb-mobile-bb_bb60/)

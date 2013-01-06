@@ -1,0 +1,1 @@
+ - Lively Technical Center(`client_id=2445`) => [`https://livelytech.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://livelytech.blackboard.com/webapps/Bb-mobile-bb_bb60/)

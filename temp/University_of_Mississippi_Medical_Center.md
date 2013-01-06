@@ -1,0 +1,1 @@
+ - University of Mississippi Medical Center(`client_id=2678`) => [`http://umc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://umc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

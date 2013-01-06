@@ -1,0 +1,1 @@
+ - Blue Mountain College(`client_id=8728`) => [`https://bmc.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://bmc.blackboard.com/webapps/Bb-mobile-BBLEARN/)

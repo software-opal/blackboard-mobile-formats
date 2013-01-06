@@ -1,0 +1,1 @@
+ - Texas A & M University - San Antonio(`client_id=2669`) => [`http://tamusa.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://tamusa.blackboard.com/webapps/Bb-mobile-bb_bb60/)

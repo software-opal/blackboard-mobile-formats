@@ -1,0 +1,1 @@
+ - SUNY Fashion Institute of Technology - FIT(`client_id=2904`) => [`https://fitnyc.sln.suny.edu/api/v7.4/mobile.svc/REST/`](https://fitnyc.sln.suny.edu/api/v7.4/mobile.svc/REST/)

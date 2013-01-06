@@ -1,0 +1,1 @@
+ - CESA Colegio de Estudios Superiores de Administracion(`client_id=2869`) => [`http://papernet.cesa.edu.co/api/v7.4/mobile.svc/REST/`](http://papernet.cesa.edu.co/api/v7.4/mobile.svc/REST/)

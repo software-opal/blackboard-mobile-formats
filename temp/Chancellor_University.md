@@ -1,0 +1,1 @@
+ - Chancellor University(`client_id=2863`) => [`https://chancellor.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://chancellor.blackboard.com/webapps/Bb-mobile-BBLEARN/)

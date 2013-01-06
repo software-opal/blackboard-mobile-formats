@@ -1,0 +1,1 @@
+ - Lewis-Clark State College(`client_id=2798`) => [`https://bb9.lcsc.edu/webapps/Bb-mobile-BBLEARN/`](https://bb9.lcsc.edu/webapps/Bb-mobile-BBLEARN/)

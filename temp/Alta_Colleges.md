@@ -1,0 +1,1 @@
+ - Alta Colleges(`client_id=3200`) => [`http://westwood.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://westwood.blackboard.com/webapps/Bb-mobile-bb_bb60/)

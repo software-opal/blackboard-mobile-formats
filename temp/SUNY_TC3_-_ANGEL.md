@@ -1,0 +1,1 @@
+ - SUNY TC3 - ANGEL(`client_id=3143`) => [`https://tc3.sln.suny.edu/api/v7.4/mobile.svc/REST/`](https://tc3.sln.suny.edu/api/v7.4/mobile.svc/REST/)

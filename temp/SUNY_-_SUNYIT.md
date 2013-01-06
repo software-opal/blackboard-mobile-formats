@@ -1,0 +1,1 @@
+ - SUNY - SUNYIT(`client_id=3129`) => [`https://sunyit.sln.suny.edu/api/v7.4/mobile.svc/REST/`](https://sunyit.sln.suny.edu/api/v7.4/mobile.svc/REST/)

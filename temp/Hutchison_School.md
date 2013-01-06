@@ -1,0 +1,1 @@
+ - Hutchison School(`client_id=2378`) => [`http://hutchison.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://hutchison.blackboard.com/webapps/Bb-mobile-bb_bb60/)

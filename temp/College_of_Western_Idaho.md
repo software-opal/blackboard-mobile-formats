@@ -1,0 +1,1 @@
+ - College of Western Idaho(`client_id=2566`) => [`https://blackboard.cwidaho.cc/webapps/Bb-mobile-BBLEARN/`](https://blackboard.cwidaho.cc/webapps/Bb-mobile-BBLEARN/)

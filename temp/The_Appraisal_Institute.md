@@ -1,0 +1,1 @@
+ - The Appraisal Institute(`client_id=3233`) => [`https://appraisalinstitute-angelpdp.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://appraisalinstitute-angelpdp.blackboard.com/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - King Khalid University(`client_id=2668`) => [`https://lms.kku.edu.sa/webapps/Bb-mobile-bb_bb60/`](https://lms.kku.edu.sa/webapps/Bb-mobile-bb_bb60/)

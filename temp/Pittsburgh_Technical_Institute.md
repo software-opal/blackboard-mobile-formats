@@ -1,0 +1,1 @@
+ - Pittsburgh Technical Institute(`client_id=2782`) => [`https://blackboard.students.pti.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.students.pti.edu/webapps/Bb-mobile-BBLEARN/)

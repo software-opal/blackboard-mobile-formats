@@ -1,0 +1,1 @@
+ - New Mexico Blackboard System IDEAL-NM(`client_id=21586`) => [`https://ideal.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://ideal.blackboard.com/webapps/Bb-mobile-bb_bb60/)

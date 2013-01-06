@@ -1,0 +1,1 @@
+ - University of Colorado at Colorado Springs(`client_id=2677`) => [`https://bb.uccs.edu/webapps/Bb-mobile-bb_bb60/`](https://bb.uccs.edu/webapps/Bb-mobile-bb_bb60/)

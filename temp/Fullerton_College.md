@@ -1,0 +1,1 @@
+ - Fullerton College(`client_id=1846`) => [`https://blackboard.nocccd.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.nocccd.edu/webapps/Bb-mobile-BBLEARN/)

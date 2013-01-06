@@ -1,0 +1,1 @@
+ - Instituto Nacional de Salud Pública(`client_id=2000`) => [`http://insp.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://insp.blackboard.com/webapps/Bb-mobile-bb_bb60/)

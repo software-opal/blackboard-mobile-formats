@@ -1,0 +1,1 @@
+ - Crown College(`client_id=2887`) => [`http://crown.angellearning.com/api/v7.4/mobile.svc/REST/`](http://crown.angellearning.com/api/v7.4/mobile.svc/REST/)

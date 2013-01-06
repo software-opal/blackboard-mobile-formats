@@ -1,0 +1,1 @@
+ - Center for Advanced Legal Studies(`client_id=2105`) => [`https://distance.paralegal.edu/webapps/Bb-mobile-bb_bb60/`](https://distance.paralegal.edu/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Fairmont-Thesys(`client_id=2006`) => [`https://fairmontschools.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://fairmontschools.blackboard.com/webapps/Bb-mobile-bb_bb60/)

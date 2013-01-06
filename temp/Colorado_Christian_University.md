@@ -1,0 +1,1 @@
+ - Colorado Christian University(`client_id=11324`) => [`https://ccu.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://ccu.blackboard.com/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Copper Mountain Community College(`client_id=2075`) => [`https://cmccd.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://cmccd.blackboard.com/webapps/Bb-mobile-BBLEARN/)

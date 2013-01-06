@@ -1,0 +1,1 @@
+ - FIU Florida International University(`client_id=1854`) => [`https://fiu.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://fiu.blackboard.com/webapps/Bb-mobile-BBLEARN/)

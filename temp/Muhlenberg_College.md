@@ -1,0 +1,1 @@
+ - Muhlenberg College(`client_id=2701`) => [`http://blackboard.muhlenberg.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.muhlenberg.edu/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - Humane Society University(`client_id=2941`) => [`http://www.hsuonline.org/api/v7.4/mobile.svc/REST/`](http://www.hsuonline.org/api/v7.4/mobile.svc/REST/)

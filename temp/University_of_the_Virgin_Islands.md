@@ -1,0 +1,1 @@
+ - University of the Virgin Islands(`client_id=2721`) => [`http://bblearn1.uvi.edu/webapps/Bb-mobile-BBLX64/`](http://bblearn1.uvi.edu/webapps/Bb-mobile-BBLX64/)

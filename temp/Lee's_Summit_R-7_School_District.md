@@ -1,0 +1,1 @@
+ - Lee's Summit R-7 School District(`client_id=2072`) => [`http://bb.lsr7.org/webapps/Bb-mobile-bb_bb60/`](http://bb.lsr7.org/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Franciscan University(`client_id=3761`) => [`https://franciscan.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://franciscan.blackboard.com/webapps/Bb-mobile-BBLEARN/)

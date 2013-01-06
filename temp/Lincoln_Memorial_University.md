@@ -1,0 +1,1 @@
+ - Lincoln Memorial University(`client_id=2056`) => [`http://lmunet.centertech.com/webapps/Bb-mobile-bb_bb60/`](http://lmunet.centertech.com/webapps/Bb-mobile-bb_bb60/)

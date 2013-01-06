@@ -1,0 +1,1 @@
+ - School of Management - UT Dallas(`client_id=1990`) => [`http://execed02.utdallas.edu/webapps/Bb-mobile-bb_bb60/`](http://execed02.utdallas.edu/webapps/Bb-mobile-bb_bb60/)

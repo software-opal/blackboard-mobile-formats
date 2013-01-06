@@ -1,0 +1,1 @@
+ - New Castle County VoTech Blackboard Mobile(`client_id=2040`) => [`http://blackboard.nccvt.k12.de.us/webapps/Bb-mobile-bb_bb60/`](http://blackboard.nccvt.k12.de.us/webapps/Bb-mobile-bb_bb60/)

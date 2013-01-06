@@ -1,0 +1,1 @@
+ - COLLEGE OF SOUTHERN MARYLAND(`client_id=1905`) => [`https://bb.csmd.edu/webapps/Bb-mobile-BBLEARN/`](https://bb.csmd.edu/webapps/Bb-mobile-BBLEARN/)

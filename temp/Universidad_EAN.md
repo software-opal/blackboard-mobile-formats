@@ -1,0 +1,1 @@
+ - Universidad EAN(`client_id=2478`) => [`http://virtual.ean.edu.co/webapps/Bb-mobile-BBLEARN/`](http://virtual.ean.edu.co/webapps/Bb-mobile-BBLEARN/)

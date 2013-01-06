@@ -1,0 +1,1 @@
+ - A.T. Still University(`client_id=2092`) => [`https://mycourses9.atsu.edu/webapps/Bb-mobile-BBLEARN/`](https://mycourses9.atsu.edu/webapps/Bb-mobile-BBLEARN/)

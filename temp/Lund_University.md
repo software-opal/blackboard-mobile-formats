@@ -1,0 +1,1 @@
+ - Lund University(`client_id=19292`) => [`https://lu.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://lu.blackboard.com/webapps/Bb-mobile-BBLEARN/)

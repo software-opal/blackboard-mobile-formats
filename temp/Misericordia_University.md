@@ -1,0 +1,1 @@
+ - Misericordia University(`client_id=1906`) => [`http://bblearn.misericordia.edu/webapps/Bb-mobile-BBLEARN/`](http://bblearn.misericordia.edu/webapps/Bb-mobile-BBLEARN/)

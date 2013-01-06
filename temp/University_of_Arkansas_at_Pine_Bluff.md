@@ -1,0 +1,1 @@
+ - University of Arkansas at Pine Bluff(`client_id=2771`) => [`http://uapb.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://uapb.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - CNED(`client_id=2113`) => [`http://cned-bb9.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://cned-bb9.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Eurofarma Laboratorios Ltda.(`client_id=1941`) => [`https://eurofarma.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://eurofarma.blackboard.com/webapps/Bb-mobile-BBLEARN/)

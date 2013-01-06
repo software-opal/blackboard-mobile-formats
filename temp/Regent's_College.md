@@ -1,0 +1,1 @@
+ - Regent's College(`client_id=3221`) => [`https://blackboard.regents.ac.uk/webapps/Bb-mobile-bb_bb60/`](https://blackboard.regents.ac.uk/webapps/Bb-mobile-bb_bb60/)

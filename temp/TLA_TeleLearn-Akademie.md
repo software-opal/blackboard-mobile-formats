@@ -1,0 +1,1 @@
+ - TLA TeleLearn-Akademie(`client_id=2671`) => [`http://tla.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://tla.blackboard.com/webapps/Bb-mobile-BBLEARN/)

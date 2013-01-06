@@ -1,0 +1,1 @@
+ - Wageningen Universiteit(`client_id=2750`) => [`https://edu6.wur.nl/webapps/Bb-mobile-BBPROD/`](https://edu6.wur.nl/webapps/Bb-mobile-BBPROD/)

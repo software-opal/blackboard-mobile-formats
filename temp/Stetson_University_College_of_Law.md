@@ -1,0 +1,1 @@
+ - Stetson University College of Law(`client_id=2405`) => [`https://bb.law.stetson.edu/webapps/Bb-mobile-bb_bb60/`](https://bb.law.stetson.edu/webapps/Bb-mobile-bb_bb60/)

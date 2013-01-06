@@ -1,0 +1,1 @@
+ - Sheridan College(`client_id=2346`) => [`https://bb.sheridan.edu/webapps/Bb-mobile-BBLEARN/`](https://bb.sheridan.edu/webapps/Bb-mobile-BBLEARN/)

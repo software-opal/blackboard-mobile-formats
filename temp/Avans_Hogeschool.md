@@ -1,0 +1,1 @@
+ - Avans Hogeschool(`client_id=1986`) => [`https://bb.avans.nl/webapps/Bb-mobile-bb_bb60/`](https://bb.avans.nl/webapps/Bb-mobile-bb_bb60/)

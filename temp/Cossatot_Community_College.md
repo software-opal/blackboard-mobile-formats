@@ -1,0 +1,1 @@
+ - Cossatot Community College(`client_id=2702`) => [`http://blackboard.cccua.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.cccua.edu/webapps/Bb-mobile-bb_bb60/)

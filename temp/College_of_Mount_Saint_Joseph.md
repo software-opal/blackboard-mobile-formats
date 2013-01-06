@@ -1,0 +1,1 @@
+ - College of Mount Saint Joseph(`client_id=1908`) => [`https://blackboard.msj.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.msj.edu/webapps/Bb-mobile-BBLEARN/)

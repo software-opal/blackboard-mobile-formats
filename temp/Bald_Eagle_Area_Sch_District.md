@@ -1,0 +1,1 @@
+ - Bald Eagle Area Sch District(`client_id=2600`) => [`http://beasd.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://beasd.blackboard.com/webapps/Bb-mobile-bb_bb60/)

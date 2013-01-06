@@ -1,0 +1,1 @@
+ - Tyler Junior College(`client_id=2746`) => [`https://tjc-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://tjc-bb.blackboard.com/webapps/Bb-mobile-BBLEARN/)

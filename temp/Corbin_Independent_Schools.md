@@ -1,0 +1,1 @@
+ - Corbin Independent Schools(`client_id=2568`) => [`http://kappaschool.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://kappaschool.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Allen School(`client_id=2818`) => [`https://allenschool.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://allenschool.blackboard.com/webapps/Bb-mobile-BBLEARN/)

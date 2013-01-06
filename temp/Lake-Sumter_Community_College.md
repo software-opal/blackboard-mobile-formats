@@ -1,0 +1,1 @@
+ - Lake-Sumter Community College(`client_id=2185`) => [`http://lscc.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://lscc.blackboard.com/webapps/Bb-mobile-BBLEARN/)

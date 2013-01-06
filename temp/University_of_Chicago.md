@@ -1,0 +1,1 @@
+ - University of Chicago(`client_id=170`) => [`https://chalk.uchicago.edu/webapps/Bb-mobile-BBLEARN/`](https://chalk.uchicago.edu/webapps/Bb-mobile-BBLEARN/)

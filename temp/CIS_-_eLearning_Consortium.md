@@ -1,0 +1,1 @@
+ - CIS - eLearning Consortium(`client_id=2526`) => [`http://ciselc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://ciselc.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - University of Limpopo(`client_id=2793`) => [`http://tmlearn.ul.ac.za/webapps/Bb-mobile-bb_bb60/`](http://tmlearn.ul.ac.za/webapps/Bb-mobile-bb_bb60/)

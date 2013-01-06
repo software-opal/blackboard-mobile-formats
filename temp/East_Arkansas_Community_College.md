@@ -1,0 +1,1 @@
+ - East Arkansas Community College(`client_id=1863`) => [`http://blackboard.eacc.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.eacc.edu/webapps/Bb-mobile-BBLEARN/)

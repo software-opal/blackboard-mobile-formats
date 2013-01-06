@@ -1,0 +1,1 @@
+ - Faulkner University(`client_id=1858`) => [`https://faulkner.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://faulkner.blackboard.com/webapps/Bb-mobile-bb_bb60/)

@@ -1,0 +1,1 @@
+ - Western Carolina University(`client_id=3253`) => [`https://wcu.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://wcu.blackboard.com/webapps/Bb-mobile-BBLEARN/)

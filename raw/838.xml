@@ -3,7 +3,7 @@
 <name>Coppin State University</name>
 <id>5600</id>
 <b2_url>https://eaglebb.coppin.edu/webapps/Bb-mobile-bb_bb60/</b2_url>
-<has_community_system>0</has_community_system>
+<has_community_system>1</has_community_system>
 <username_label>Username</username_label>
 <has_mobile_central>0</has_mobile_central>
 <http_auth>0</http_auth>

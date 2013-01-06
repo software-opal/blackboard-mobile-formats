@@ -1,0 +1,1 @@
+ - The American University in Cairo(`client_id=3204`) => [`http://blackboard.aucegypt.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.aucegypt.edu/webapps/Bb-mobile-BBLEARN/)

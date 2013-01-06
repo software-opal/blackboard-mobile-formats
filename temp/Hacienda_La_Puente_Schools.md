@@ -1,0 +1,1 @@
+ - Hacienda La Puente Schools(`client_id=2698`) => [`https://hlpusd.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://hlpusd.blackboard.com/webapps/Bb-mobile-BBLEARN/)

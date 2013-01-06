@@ -1,0 +1,1 @@
+ - PAIS/BOA(`client_id=2335`) => [`https://paisboa.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://paisboa.blackboard.com/webapps/Bb-mobile-bb_bb60/)

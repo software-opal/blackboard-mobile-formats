@@ -1,0 +1,1 @@
+ - CCNB / NBCC - Collège communautaire du Nouveau-Brunswick / New Brunswick Community College(`client_id=2118`) => [`http://bb.coursenligne.net/webapps/Bb-mobile-BBLEARN/`](http://bb.coursenligne.net/webapps/Bb-mobile-BBLEARN/)

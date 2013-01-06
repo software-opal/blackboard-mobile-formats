@@ -1,0 +1,1 @@
+ - SUNY - Finger Lakes Community College(`client_id=3124`) => [`https://flcc.sln.suny.edu/api/v7.4/mobile.svc/REST/`](https://flcc.sln.suny.edu/api/v7.4/mobile.svc/REST/)

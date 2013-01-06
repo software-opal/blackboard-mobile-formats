@@ -1,0 +1,1 @@
+ - SUNY-Niagara County Community College(`client_id=3133`) => [`https://niagaracc.sln.suny.edu/api/v7.4/mobile.svc/REST/`](https://niagaracc.sln.suny.edu/api/v7.4/mobile.svc/REST/)

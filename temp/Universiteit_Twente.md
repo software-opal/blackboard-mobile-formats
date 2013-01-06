@@ -1,0 +1,1 @@
+ - Universiteit Twente(`client_id=2522`) => [`https://blackboard.utwente.nl/webapps/Bb-mobile-bb_bb60/`](https://blackboard.utwente.nl/webapps/Bb-mobile-bb_bb60/)

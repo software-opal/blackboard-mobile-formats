@@ -1,0 +1,1 @@
+ - Eastern Idaho Technical College - EITC(`client_id=1874`) => [`https://blackboard.eitc.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.eitc.edu/webapps/Bb-mobile-BBLEARN/)

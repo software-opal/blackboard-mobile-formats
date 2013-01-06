@@ -1,0 +1,1 @@
+ - South Thames College(`client_id=3225`) => [`http://south-thames.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://south-thames.blackboard.com/webapps/Bb-mobile-bb_bb60/)

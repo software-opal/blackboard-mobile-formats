@@ -1,0 +1,1 @@
+ - ISLA Campus Lisboa(`client_id=1993`) => [`http://campusonline.isla.pt/webapps/Bb-mobile-BBLEARN/`](http://campusonline.isla.pt/webapps/Bb-mobile-BBLEARN/)

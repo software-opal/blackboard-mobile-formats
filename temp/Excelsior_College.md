@@ -1,0 +1,1 @@
+ - Excelsior College(`client_id=2319`) => [`https://mycourses.excelsior.edu/webapps/Bb-mobile-BBLEARN/`](https://mycourses.excelsior.edu/webapps/Bb-mobile-BBLEARN/)

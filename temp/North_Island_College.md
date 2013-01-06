@@ -1,0 +1,1 @@
+ - North Island College(`client_id=2210`) => [`http://learn.nic.bc.ca/webapps/Bb-mobile-BBLEARN/`](http://learn.nic.bc.ca/webapps/Bb-mobile-BBLEARN/)

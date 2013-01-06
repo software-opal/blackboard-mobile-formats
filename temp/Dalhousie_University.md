@@ -1,0 +1,1 @@
+ - Dalhousie University(`client_id=1880`) => [`https://dalhousie.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://dalhousie.blackboard.com/webapps/Bb-mobile-BBLEARN/)

@@ -1,0 +1,1 @@
+ - NCCU(`client_id=2407`) => [`https://nccu.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://nccu.blackboard.com/webapps/Bb-mobile-bb_bb60/)

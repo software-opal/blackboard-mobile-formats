@@ -1,0 +1,1 @@
+ - Open School BC(`client_id=2223`) => [`https://osbc.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://osbc.blackboard.com/webapps/Bb-mobile-BBLEARN/)

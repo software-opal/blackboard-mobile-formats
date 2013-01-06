@@ -1,0 +1,1 @@
+ - University of Washington, Bothell(`client_id=2726`) => [`http://bb.uwb.edu/webapps/Bb-mobile-BBLEARN/`](http://bb.uwb.edu/webapps/Bb-mobile-BBLEARN/)

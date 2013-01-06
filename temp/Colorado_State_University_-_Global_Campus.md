@@ -1,0 +1,1 @@
+ - Colorado State University - Global Campus(`client_id=2464`) => [`https://csuglobal.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://csuglobal.blackboard.com/webapps/Bb-mobile-bb_bb60/)

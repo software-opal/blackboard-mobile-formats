@@ -1,0 +1,1 @@
+ - Ashland University(`client_id=2826`) => [`https://angel.ashland.edu/api/v7.4/mobile.svc/REST/`](https://angel.ashland.edu/api/v7.4/mobile.svc/REST/)

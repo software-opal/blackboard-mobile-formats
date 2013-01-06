@@ -1,0 +1,1 @@
+ - Greenville Technical College(`client_id=2276`) => [`http://gvltec.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://gvltec.blackboard.com/webapps/Bb-mobile-bb_bb60/)

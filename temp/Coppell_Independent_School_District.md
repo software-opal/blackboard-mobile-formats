@@ -1,0 +1,1 @@
+ - Coppell Independent School District(`client_id=2723`) => [`https://cisd.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://cisd.blackboard.com/webapps/Bb-mobile-BBLEARN/)

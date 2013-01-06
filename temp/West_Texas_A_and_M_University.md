@@ -1,0 +1,1 @@
+ - West Texas A and M University(`client_id=3188`) => [`https://wtclass.wtamu.edu/api/v7.4/mobile.svc/REST/`](https://wtclass.wtamu.edu/api/v7.4/mobile.svc/REST/)

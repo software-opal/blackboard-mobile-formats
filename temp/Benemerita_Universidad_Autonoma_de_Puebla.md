@@ -1,0 +1,1 @@
+ - Benemerita Universidad Autonoma de Puebla(`client_id=2097`) => [`http://buap.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://buap.blackboard.com/webapps/Bb-mobile-bb_bb60/)

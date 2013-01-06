@@ -1,0 +1,1 @@
+ - Geneva College(`client_id=2769`) => [`https://blackboard.geneva.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.geneva.edu/webapps/Bb-mobile-bb_bb60/)

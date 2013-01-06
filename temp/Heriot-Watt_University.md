@@ -1,0 +1,1 @@
+ - Heriot-Watt University(`client_id=1825`) => [`https://vision.hw.ac.uk/webapps/Bb-mobile-bb_bb60/`](https://vision.hw.ac.uk/webapps/Bb-mobile-bb_bb60/)

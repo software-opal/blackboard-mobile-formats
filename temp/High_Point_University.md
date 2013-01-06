@@ -1,0 +1,1 @@
+ - High Point University(`client_id=2794`) => [`http://blackboard.highpoint.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.highpoint.edu/webapps/Bb-mobile-BBLEARN/)

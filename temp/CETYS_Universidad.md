@@ -1,0 +1,1 @@
+ - CETYS Universidad(`client_id=2778`) => [`http://cetys.blackboard.com/webapps/Bb-mobile-BBLEARN/`](http://cetys.blackboard.com/webapps/Bb-mobile-BBLEARN/)

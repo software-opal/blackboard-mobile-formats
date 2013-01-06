@@ -1,0 +1,1 @@
+ - VTI dba Pima Medical Institute(`client_id=2536`) => [`https://pmi.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://pmi.blackboard.com/webapps/Bb-mobile-bb_bb60/)

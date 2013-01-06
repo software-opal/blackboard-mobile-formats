@@ -1,0 +1,1 @@
+ - Blackboard Partnerships(`client_id=3238`) => [`http://b2showcase.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://b2showcase.blackboard.com/webapps/Bb-mobile-bb_bb60/)

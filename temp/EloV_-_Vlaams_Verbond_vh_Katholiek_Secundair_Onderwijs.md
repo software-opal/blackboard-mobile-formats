@@ -1,0 +1,1 @@
+ - EloV - Vlaams Verbond vh Katholiek Secundair Onderwijs(`client_id=2647`) => [`https://elov.vvkso.be/webapps/Bb-mobile-bb_bb60/`](https://elov.vvkso.be/webapps/Bb-mobile-bb_bb60/)
