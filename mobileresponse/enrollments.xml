@@ -2,10 +2,6 @@
     version="1.0"
     encoding="UTF-8"
 ?>
-<!--
-To change this template, choose Tools | Templates
-and open the template in the editor.
--->
 
 <mobileresponse status="OK"
                 coursesDisplayName="Courses"
