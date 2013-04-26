@@ -6,10 +6,6 @@
  - <a href="#provider-names-with-client-ids">Provider Names with Client IDs</a>
    - <a href="#A">A</a>
    - <a href="#B">B</a>
-   - <a href="#b">b</a>
-   - <a href="#B">B</a>
-   - <a href="#C">C</a>
-   - <a href="#c">c</a>
    - <a href="#C">C</a>
    - <a href="#D">D</a>
    - <a href="#E">E</a>
@@ -17,13 +13,11 @@
    - <a href="#G">G</a>
    - <a href="#H">H</a>
    - <a href="#I">I</a>
-  - <a href="#- Indian Prairie School District  204(`client_id=738`) => [`https://blackboard.ipsd.org/webapps/Bb-mobile-bb_bb60/`](https://blackboard.ipsd.org/webapps/Bb-mobile-bb_bb60/)">- Indian Prairie School District  204(`client_id=738`) => [`https://blackboard.ipsd.org/webapps/Bb-mobile-bb_bb60/`](https://blackboard.ipsd.org/webapps/Bb-mobile-bb_bb60/)</a>
    - <a href="#J">J</a>
    - <a href="#K">K</a>
    - <a href="#L">L</a>
    - <a href="#M">M</a>
    - <a href="#コ">コ</a>
-   - <a href="#M">M</a>
    - <a href="#N">N</a>
    - <a href="#O">O</a>
    - <a href="#P">P</a>
@@ -31,8 +25,6 @@
    - <a href="#R">R</a>
    - <a href="#S">S</a>
    - <a href="#T">T</a>
-   - <a href="#U">U</a>
-   - <a href="#u">u</a>
    - <a href="#U">U</a>
    - <a href="#V">V</a>
    - <a href="#W">W</a>
@@ -46,7 +38,7 @@
 <a name="A"></a>
 ##A##
 
- - Aberdeen College - Scotland(`client_id=1061`) => [`https://abcol.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://abcol.blackboard.com/webapps/Bb-mobile-BBLEARN/)
+ - [Aberdeen College - Scotland](raw/1061.xml)(`client_id=1061`) => [`https://abcol.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://abcol.blackboard.com/webapps/Bb-mobile-BBLEARN/)
  - Abilene Christian University(`client_id=1348`) => [`http://courses.acu.edu/webapps/Bb-mobile-bb_bb60/`](http://courses.acu.edu/webapps/Bb-mobile-bb_bb60/)
  - Abington Memorial Hospital - Radiologic & Nuclear(`client_id=2549`) => [`http://amh.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://amh.blackboard.com/webapps/Bb-mobile-bb_bb60/)
  - Adams State University(`client_id=1651`) => [`https://adams9-1.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://adams9-1.blackboard.com/webapps/Bb-mobile-BBLEARN/)
@@ -144,15 +136,7 @@
  - Blackboard Online Training(`client_id=3244`) => [`https://training.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://training.blackboard.com/webapps/Bb-mobile-bb_bb60/)
  - Blackboard Partnerships(`client_id=3238`) => [`http://b2showcase.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://b2showcase.blackboard.com/webapps/Bb-mobile-bb_bb60/)
  - Blackhawk Technical College(`client_id=2673`) => [`http://blackhawk.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://blackhawk.blackboard.com/webapps/Bb-mobile-bb_bb60/)
-
-<a name="b"></a>
-##b##
-
  - blendedschools.net(`client_id=1942`) => [`http://blendedschools.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://blendedschools.blackboard.com/webapps/Bb-mobile-bb_bb60/)
-
-<a name="B"></a>
-##B##
-
  - Blessing-Rieman College of Nursing(`client_id=1007`) => [`https://brcn.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://brcn.blackboard.com/webapps/Bb-mobile-BBLEARN/)
  - Bloomfield College(`client_id=1026`) => [`http://bb.bloomfield.edu/webapps/Bb-mobile-BBLEARN/`](http://bb.bloomfield.edu/webapps/Bb-mobile-BBLEARN/)
  - Bluefield State College(`client_id=1295`) => [`https://bluefieldstate.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://bluefieldstate.blackboard.com/webapps/Bb-mobile-bb_bb60/)
@@ -275,15 +259,7 @@
  - Clemson University(`client_id=1234`) => [`https://bb.clemson.edu/webapps/Bb-mobile-bb_bb60/`](https://bb.clemson.edu/webapps/Bb-mobile-bb_bb60/)
  - Cleveland College of Art and Design(`client_id=836`) => [`https://ccad.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://ccad.blackboard.com/webapps/Bb-mobile-BBLEARN/)
  - Cleveland State University(`client_id=1235`) => [`https://bb-csuohio.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://bb-csuohio.blackboard.com/webapps/Bb-mobile-BBLEARN/)
-
-<a name="c"></a>
-##c##
-
  - clickUP(`client_id=1497`) => [`http://clickup.up.ac.za/webapps/Bb-mobile-BBOPRA/`](http://clickup.up.ac.za/webapps/Bb-mobile-BBOPRA/)
-
-<a name="C"></a>
-##C##
-
  - Clinton Community College(`client_id=3118`) => [`https://clinton.sln.suny.edu/api/v7.4/mobile.svc/REST/`](https://clinton.sln.suny.edu/api/v7.4/mobile.svc/REST/)
  - CMS(`client_id=2079`) => [`http://cmso.blackboard.com/webapps/Bb-mobile-bb_bb60/`](http://cmso.blackboard.com/webapps/Bb-mobile-bb_bb60/)
  - CMU Blackboard(`client_id=68`) => [`http://blackboard.andrew.cmu.edu/webapps/Bb-mobile-BBLEARN/`](http://blackboard.andrew.cmu.edu/webapps/Bb-mobile-BBLEARN/)
@@ -757,15 +733,6 @@
  - McKendree University - IL(`client_id=10`) => [`https://blackboard.mckendree.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.mckendree.edu/webapps/Bb-mobile-BBLEARN/)
  - McLennan Community College(`client_id=251`) => [`https://ecampus.mclennan.edu/webapps/Bb-mobile-bb_bb60/`](https://ecampus.mclennan.edu/webapps/Bb-mobile-bb_bb60/)
  - McNeese State University(`client_id=868`) => [`http://blackboard.mcneese.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.mcneese.edu/webapps/Bb-mobile-bb_bb60/)
-
-<a name="コ"></a>
-##コ##
-
- - コンテンツショーケース(`client_id=2217`) => [`http://webct.koan.osaka-u.ac.jp/webct/urw/ssMobileModule.snCONTENT.siURN:X-WEBCT-VISTA-V1:4cd0552a-c0a8-b253-00a2-1b7fe3473410/populateMyWebCT.dowebct/`](http://webct.koan.osaka-u.ac.jp/webct/urw/ssMobileModule.snCONTENT.siURN:X-WEBCT-VISTA-V1:4cd0552a-c0a8-b253-00a2-1b7fe3473410/populateMyWebCT.dowebct/)
-
-<a name="M"></a>
-##M##
-
  - Medaille College Online(`client_id=3770`) => [`https://medaille.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://medaille.blackboard.com/webapps/Bb-mobile-BBLEARN/)
  - Medical University of South Carolina(`client_id=1731`) => [`https://musc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://musc.blackboard.com/webapps/Bb-mobile-bb_bb60/)
  - Medicine Hat College(`client_id=690`) => [`http://bb.mhc.ab.ca/webapps/Bb-mobile-BBLEARN/`](http://bb.mhc.ab.ca/webapps/Bb-mobile-BBLEARN/)
@@ -835,6 +802,11 @@
  - Murray State University(`client_id=557`) => [`https://blackboard.murraystate.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.murraystate.edu/webapps/Bb-mobile-bb_bb60/)
  - Muskegon Community College(`client_id=1116`) => [`https://blackboard.muskegoncc.edu/webapps/Bb-mobile-BBLEARN/`](https://blackboard.muskegoncc.edu/webapps/Bb-mobile-BBLEARN/)
  - Muskingum University(`client_id=893`) => [`http://courses.muskingum.edu/webapps/Bb-mobile-BBLEARN/`](http://courses.muskingum.edu/webapps/Bb-mobile-BBLEARN/)
+
+<a name="コ"></a>
+##コ##
+
+ - コンテンツショーケース(`client_id=2217`) => [`http://webct.koan.osaka-u.ac.jp/webct/urw/ssMobileModule.snCONTENT.siURN:X-WEBCT-VISTA-V1:4cd0552a-c0a8-b253-00a2-1b7fe3473410/populateMyWebCT.dowebct/`](http://webct.koan.osaka-u.ac.jp/webct/urw/ssMobileModule.snCONTENT.siURN:X-WEBCT-VISTA-V1:4cd0552a-c0a8-b253-00a2-1b7fe3473410/populateMyWebCT.dowebct/)
 
 <a name="N"></a>
 ##N##
@@ -1249,15 +1221,7 @@
 
  - UC Berkeley Extension(`client_id=3165`) => [`https://elearning.berkeley.edu/api/v7.4/mobile.svc/REST/`](https://elearning.berkeley.edu/api/v7.4/mobile.svc/REST/)
  - UCLA Extension(`client_id=2486`) => [`https://uclaextension.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://uclaextension.blackboard.com/webapps/Bb-mobile-bb_bb60/)
-
-<a name="u"></a>
-##u##
-
  - udem(`client_id=416`) => [`https://cursos-udem.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://cursos-udem.blackboard.com/webapps/Bb-mobile-BBLEARN/)
-
-<a name="U"></a>
-##U##
-
  - UMassOnline(`client_id=3275`) => [``]()
  - UMBC(`client_id=119`) => [`http://blackboard.umbc.edu/webapps/Bb-mobile-bb_bb60/`](http://blackboard.umbc.edu/webapps/Bb-mobile-bb_bb60/)
  - UNCG - University of North Carolina at Greensboro(`client_id=2280`) => [`https://blackboard.uncg.edu/webapps/Bb-mobile-bb_bb60/`](https://blackboard.uncg.edu/webapps/Bb-mobile-bb_bb60/)
@@ -1548,6 +1512,6 @@
 <a name="Z"></a>
 ##Z##
 
- - Zane State College(`client_id=1041`) => [`https://zanestate.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://zanestate.blackboard.com/webapps/Bb-mobile-BBLEARN/)
+ - [Zane State College](raw/1041.xml)(`client_id=1041`) => [`https://zanestate.blackboard.com/webapps/Bb-mobile-BBLEARN/`](https://zanestate.blackboard.com/webapps/Bb-mobile-BBLEARN/)
  - Zayed University(`client_id=1068`) => [`http://learn.zu.ac.ae/webapps/Bb-mobile-bb_bb60/`](http://learn.zu.ac.ae/webapps/Bb-mobile-bb_bb60/)
  - Zion Bible College(`client_id=1454`) => [`https://zbc.blackboard.com/webapps/Bb-mobile-bb_bb60/`](https://zbc.blackboard.com/webapps/Bb-mobile-bb_bb60/)
